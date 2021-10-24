@@ -109,7 +109,7 @@
 
     <article class="phpdocumentor-element -class">
         <h2 class="phpdocumentor-content__title">
-    Console
+    Commands
 
     
     
@@ -117,9 +117,9 @@
     </h2>
 
         <aside class="phpdocumentor-element-found-in">
-    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Console.php"><a href="files/src-console-console.html"><abbr title="src/Console/Console.php">Console.php</abbr></a></abbr>
+    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Commands.php"><a href="files/src-console-commands.html"><abbr title="src/Console/Commands.php">Commands.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">25</span>
+    <span class="phpdocumentor-element-found-in__line">21</span>
 </aside>
 
         
@@ -137,47 +137,19 @@
 </h3>
 
 <dl class="phpdocumentor-table-of-contents">
-                <dt class="phpdocumentor-table-of-contents__entry -property -private">
-    <a href="classes/Zest-Console-Console.html#property_commands">$commands</a>
+                <dt class="phpdocumentor-table-of-contents__entry -property -protected">
+    <a href="classes/Zest-Console-Commands.html#property_commands">$commands</a>
     <span>
                 &nbsp;: array&lt;string|int, mixed&gt;            </span>
 </dt>
-<dd>Commanads.</dd>
-
-            <dt class="phpdocumentor-table-of-contents__entry -property -private">
-    <a href="classes/Zest-Console-Console.html#property_container">$container</a>
-    <span>
-                &nbsp;: <a href="classes/Zest-Container-Container.html"><abbr title="\Zest\Container\Container">Container</abbr></a>            </span>
-</dt>
-<dd>Instance of container.</dd>
+<dd>Internal commands.</dd>
 
                 <dt class="phpdocumentor-table-of-contents__entry -method -public">
-    <a href="classes/Zest-Console-Console.html#method___construct">__construct()</a>
-    <span>
-                        &nbsp;: void    </span>
-</dt>
-<dd>Create a new console instance.</dd>
-
-            <dt class="phpdocumentor-table-of-contents__entry -method -public">
-    <a href="classes/Zest-Console-Console.html#method_getCommands">getCommands()</a>
+    <a href="classes/Zest-Console-Commands.html#method_getCommands">getCommands()</a>
     <span>
                         &nbsp;: array&lt;string|int, mixed&gt;    </span>
 </dt>
-<dd>Get all commands.</dd>
-
-            <dt class="phpdocumentor-table-of-contents__entry -method -public">
-    <a href="classes/Zest-Console-Console.html#method_parseFlags">parseFlags()</a>
-    <span>
-                        &nbsp;: array&lt;string|int, mixed&gt;    </span>
-</dt>
-<dd>Parse the flags from command.</dd>
-
-            <dt class="phpdocumentor-table-of-contents__entry -method -public">
-    <a href="classes/Zest-Console-Console.html#method_run">run()</a>
-    <span>
-                        &nbsp;: void    </span>
-</dt>
-<dd>Run the Zest console.</dd>
+<dd>Get commands.</dd>
 
         </dl>
 
@@ -189,81 +161,34 @@
     <section class="phpdocumentor-properties">
         <h3 class="phpdocumentor-elements__header" id="properties">
             Properties
-            <a href="classes/Zest-Console-Console.html#properties" class="headerlink"><i class="fas fa-link"></i></a>
+            <a href="classes/Zest-Console-Commands.html#properties" class="headerlink"><i class="fas fa-link"></i></a>
         </h3>
                     <article
         class="
             phpdocumentor-element
             -property
-            -private
+            -protected
                                                         "
 >
     <h4 class="phpdocumentor-element__name" id="property_commands">
         $commands
-        <a href="classes/Zest-Console-Console.html#property_commands" class="headerlink"><i class="fas fa-link"></i></a>
+        <a href="classes/Zest-Console-Commands.html#property_commands" class="headerlink"><i class="fas fa-link"></i></a>
         <span class="phpdocumentor-element__modifiers">
                                 </span>
     </h4>
     <aside class="phpdocumentor-element-found-in">
-    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Console.php"><a href="files/src-console-console.html"><abbr title="src/Console/Console.php">Console.php</abbr></a></abbr>
+    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Commands.php"><a href="files/src-console-commands.html"><abbr title="src/Console/Commands.php">Commands.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">43</span>
+    <span class="phpdocumentor-element-found-in__line">30</span>
 </aside>
 
-        <p class="phpdocumentor-summary">Commanads.</p>
+        <p class="phpdocumentor-summary">Internal commands.</p>
 
     <code class="phpdocumentor-code phpdocumentor-signature ">
-    <span class="phpdocumentor-signature__visibility">private</span>
+    <span class="phpdocumentor-signature__visibility">protected</span>
         <span class="phpdocumentor-signature__type">array&lt;string|int, mixed&gt;</span>
     <span class="phpdocumentor-signature__name">$commands</span>
-     = <span class="phpdocumentor-signature__default-value">[]</span></code>
-
-        <section class="phpdocumentor-description"></section>
-
-    
-    <h5 class="phpdocumentor-tag-list__heading" id="tags">
-        Tags
-        <a href="#tags" class="headerlink"><i class="fas fa-link"></i></a>
-    </h5>
-    <dl class="phpdocumentor-tag-list">
-                                    <dt class="phpdocumentor-tag-list__entry">
-                    <span class="phpdocumentor-tag__name">since</span>
-                </dt>
-                <dd class="phpdocumentor-tag-list__definition">
-                                            <span class="phpdocumentor-tag-link">3.0.0</span>
-                                                                                
-                                                 <section class="phpdocumentor-description"></section>
-
-                                    </dd>
-                        </dl>
-
-</article>
-                    <article
-        class="
-            phpdocumentor-element
-            -property
-            -private
-                                                        "
->
-    <h4 class="phpdocumentor-element__name" id="property_container">
-        $container
-        <a href="classes/Zest-Console-Console.html#property_container" class="headerlink"><i class="fas fa-link"></i></a>
-        <span class="phpdocumentor-element__modifiers">
-                                </span>
-    </h4>
-    <aside class="phpdocumentor-element-found-in">
-    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Console.php"><a href="files/src-console-console.html"><abbr title="src/Console/Console.php">Console.php</abbr></a></abbr>
-    :
-    <span class="phpdocumentor-element-found-in__line">34</span>
-</aside>
-
-        <p class="phpdocumentor-summary">Instance of container.</p>
-
-    <code class="phpdocumentor-code phpdocumentor-signature ">
-    <span class="phpdocumentor-signature__visibility">private</span>
-        <span class="phpdocumentor-signature__type"><a href="classes/Zest-Container-Container.html"><abbr title="\Zest\Container\Container">Container</abbr></a></span>
-    <span class="phpdocumentor-signature__name">$container</span>
-    </code>
+     = <span class="phpdocumentor-signature__default-value">[[&#039;version&#039;, ZestConsoleCommandsVersion::class], [&#039;list&#039;, ZestConsoleCommandsListCmd::class], [&#039;make:controller&#039;, ZestConsoleCommandsController::class], [&#039;clear:cache&#039;, ZestConsoleCommandsCache::class], [&#039;serve&#039;, ZestConsoleCommandsServeCommand::class]]</span></code>
 
         <section class="phpdocumentor-description"></section>
 
@@ -290,42 +215,8 @@
             <section class="phpdocumentor-methods">
         <h3 class="phpdocumentor-elements__header" id="methods">
             Methods
-            <a href="classes/Zest-Console-Console.html#methods" class="headerlink"><i class="fas fa-link"></i></a>
+            <a href="classes/Zest-Console-Commands.html#methods" class="headerlink"><i class="fas fa-link"></i></a>
         </h3>
-                    <article
-        class="phpdocumentor-element
-            -method
-            -public
-                                                        "
->
-    <h4 class="phpdocumentor-element__name" id="method___construct">
-        __construct()
-        <a href="classes/Zest-Console-Console.html#method___construct" class="headerlink"><i class="fas fa-link"></i></a>
-    </h4>
-    <aside class="phpdocumentor-element-found-in">
-    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Console.php"><a href="files/src-console-console.html"><abbr title="src/Console/Console.php">Console.php</abbr></a></abbr>
-    :
-    <span class="phpdocumentor-element-found-in__line">50</span>
-</aside>
-
-        <p class="phpdocumentor-summary">Create a new console instance.</p>
-
-    <code class="phpdocumentor-code phpdocumentor-signature ">
-    <span class="phpdocumentor-signature__visibility">public</span>
-                <span class="phpdocumentor-signature__name">__construct</span><span>(</span><span>)</span><span> : </span><span class="phpdocumentor-signature__response_type">void</span></code>
-
-        <section class="phpdocumentor-description"></section>
-
-    
-    
-
-        <h5 class="phpdocumentor-return-value__heading">Return values</h5>
-    <span class="phpdocumentor-signature__response_type">void</span>
-            &mdash;
-            <section class="phpdocumentor-description"></section>
-
-    
-</article>
                     <article
         class="phpdocumentor-element
             -method
@@ -334,15 +225,15 @@
 >
     <h4 class="phpdocumentor-element__name" id="method_getCommands">
         getCommands()
-        <a href="classes/Zest-Console-Console.html#method_getCommands" class="headerlink"><i class="fas fa-link"></i></a>
+        <a href="classes/Zest-Console-Commands.html#method_getCommands" class="headerlink"><i class="fas fa-link"></i></a>
     </h4>
     <aside class="phpdocumentor-element-found-in">
-    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Console.php"><a href="files/src-console-console.html"><abbr title="src/Console/Console.php">Console.php</abbr></a></abbr>
+    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Commands.php"><a href="files/src-console-commands.html"><abbr title="src/Console/Commands.php">Commands.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">95</span>
+    <span class="phpdocumentor-element-found-in__line">46</span>
 </aside>
 
-        <p class="phpdocumentor-summary">Get all commands.</p>
+        <p class="phpdocumentor-summary">Get commands.</p>
 
     <code class="phpdocumentor-code phpdocumentor-signature ">
     <span class="phpdocumentor-signature__visibility">public</span>
@@ -352,99 +243,24 @@
 
     
     
+    <h5 class="phpdocumentor-tag-list__heading" id="tags">
+        Tags
+        <a href="#tags" class="headerlink"><i class="fas fa-link"></i></a>
+    </h5>
+    <dl class="phpdocumentor-tag-list">
+                                    <dt class="phpdocumentor-tag-list__entry">
+                    <span class="phpdocumentor-tag__name">since</span>
+                </dt>
+                <dd class="phpdocumentor-tag-list__definition">
+                                            <span class="phpdocumentor-tag-link">3.0.0</span>
+                                                                                
+                                                 <section class="phpdocumentor-description"></section>
+
+                                    </dd>
+                        </dl>
 
         <h5 class="phpdocumentor-return-value__heading">Return values</h5>
     <span class="phpdocumentor-signature__response_type">array&lt;string|int, mixed&gt;</span>
-            &mdash;
-            <section class="phpdocumentor-description"></section>
-
-    
-</article>
-                    <article
-        class="phpdocumentor-element
-            -method
-            -public
-                                                        "
->
-    <h4 class="phpdocumentor-element__name" id="method_parseFlags">
-        parseFlags()
-        <a href="classes/Zest-Console-Console.html#method_parseFlags" class="headerlink"><i class="fas fa-link"></i></a>
-    </h4>
-    <aside class="phpdocumentor-element-found-in">
-    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Console.php"><a href="files/src-console-console.html"><abbr title="src/Console/Console.php">Console.php</abbr></a></abbr>
-    :
-    <span class="phpdocumentor-element-found-in__line">69</span>
-</aside>
-
-        <p class="phpdocumentor-summary">Parse the flags from command.</p>
-
-    <code class="phpdocumentor-code phpdocumentor-signature ">
-    <span class="phpdocumentor-signature__visibility">public</span>
-                <span class="phpdocumentor-signature__name">parseFlags</span><span>(</span><span class="phpdocumentor-signature__argument"><span class="phpdocumentor-signature__argument__return-type">array&lt;string|int, mixed&gt;&nbsp;</span><span class="phpdocumentor-signature__argument__name">$flags</span></span><span>)</span><span> : </span><span class="phpdocumentor-signature__response_type">array&lt;string|int, mixed&gt;</span></code>
-
-        <section class="phpdocumentor-description"></section>
-
-        <h5 class="phpdocumentor-argument-list__heading">Parameters</h5>
-    <dl class="phpdocumentor-argument-list">
-                    <dt class="phpdocumentor-argument-list__entry">
-                <span class="phpdocumentor-signature__argument__name">$flags</span>
-                : <span class="phpdocumentor-signature__argument__return-type">array&lt;string|int, mixed&gt;</span>
-                            </dt>
-            <dd class="phpdocumentor-argument-list__definition">
-                    <section class="phpdocumentor-description"><p>Raw flags.</p>
-</section>
-
-            </dd>
-            </dl>
-
-    
-
-        <h5 class="phpdocumentor-return-value__heading">Return values</h5>
-    <span class="phpdocumentor-signature__response_type">array&lt;string|int, mixed&gt;</span>
-            &mdash;
-            <section class="phpdocumentor-description"></section>
-
-    
-</article>
-                    <article
-        class="phpdocumentor-element
-            -method
-            -public
-                                                        "
->
-    <h4 class="phpdocumentor-element__name" id="method_run">
-        run()
-        <a href="classes/Zest-Console-Console.html#method_run" class="headerlink"><i class="fas fa-link"></i></a>
-    </h4>
-    <aside class="phpdocumentor-element-found-in">
-    <abbr class="phpdocumentor-element-found-in__file" title="src/Console/Console.php"><a href="files/src-console-console.html"><abbr title="src/Console/Console.php">Console.php</abbr></a></abbr>
-    :
-    <span class="phpdocumentor-element-found-in__line">105</span>
-</aside>
-
-        <p class="phpdocumentor-summary">Run the Zest console.</p>
-
-    <code class="phpdocumentor-code phpdocumentor-signature ">
-    <span class="phpdocumentor-signature__visibility">public</span>
-                <span class="phpdocumentor-signature__name">run</span><span>(</span><span class="phpdocumentor-signature__argument"><span class="phpdocumentor-signature__argument__return-type">mixed&nbsp;</span><span class="phpdocumentor-signature__argument__name">$param</span></span><span>)</span><span> : </span><span class="phpdocumentor-signature__response_type">void</span></code>
-
-        <section class="phpdocumentor-description"></section>
-
-        <h5 class="phpdocumentor-argument-list__heading">Parameters</h5>
-    <dl class="phpdocumentor-argument-list">
-                    <dt class="phpdocumentor-argument-list__entry">
-                <span class="phpdocumentor-signature__argument__name">$param</span>
-                : <span class="phpdocumentor-signature__argument__return-type">mixed</span>
-                            </dt>
-            <dd class="phpdocumentor-argument-list__definition">
-                
-            </dd>
-            </dl>
-
-    
-
-        <h5 class="phpdocumentor-return-value__heading">Return values</h5>
-    <span class="phpdocumentor-signature__response_type">void</span>
             &mdash;
             <section class="phpdocumentor-description"></section>
 
@@ -466,7 +282,7 @@
 </section>
             </div>
         </div>
-        <a href="classes/Zest-Console-Console.html#top" class="phpdocumentor-back-to-top"><i class="fas fa-chevron-circle-up"></i></a>
+        <a href="classes/Zest-Console-Commands.html#top" class="phpdocumentor-back-to-top"><i class="fas fa-chevron-circle-up"></i></a>
 
     </main>
 
