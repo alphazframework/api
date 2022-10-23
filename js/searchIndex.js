@@ -1,4015 +1,4015 @@
 Search.appendIndex(
     [
                 {
-            "fqsen": "\\Zest\\Archive\\Adapter\\AdapterInterface",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\AdapterInterface",
             "name": "AdapterInterface",
             "summary": "",
-            "url": "classes/Zest-Archive-Adapter-AdapterInterface.html"
+            "url": "classes/alphaz-Archive-Adapter-AdapterInterface.html"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\AdapterInterface\u003A\u003Aextract\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\AdapterInterface\u003A\u003Aextract\u0028\u0029",
             "name": "extract",
             "summary": "Open\u0020and\u0020extract\u0020the\u0020archive.",
-            "url": "classes/Zest-Archive-Adapter-AdapterInterface.html#method_extract"
+            "url": "classes/alphaz-Archive-Adapter-AdapterInterface.html#method_extract"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\AdapterInterface\u003A\u003Acompress\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\AdapterInterface\u003A\u003Acompress\u0028\u0029",
             "name": "compress",
             "summary": "Compress\u0020the\u0020file\u0020to\u0020an\u0020archive.",
-            "url": "classes/Zest-Archive-Adapter-AdapterInterface.html#method_compress"
+            "url": "classes/alphaz-Archive-Adapter-AdapterInterface.html#method_compress"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Bzip",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Bzip",
             "name": "Bzip",
             "summary": "",
-            "url": "classes/Zest-Archive-Adapter-Bzip.html"
+            "url": "classes/alphaz-Archive-Adapter-Bzip.html"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Bzip\u003A\u003Aextract\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Bzip\u003A\u003Aextract\u0028\u0029",
             "name": "extract",
             "summary": "Open\u0020and\u0020extract\u0020the\u0020archive.",
-            "url": "classes/Zest-Archive-Adapter-Bzip.html#method_extract"
+            "url": "classes/alphaz-Archive-Adapter-Bzip.html#method_extract"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Bzip\u003A\u003Acompress\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Bzip\u003A\u003Acompress\u0028\u0029",
             "name": "compress",
             "summary": "Compress\u0020file\u0020into\u0020bzip.",
-            "url": "classes/Zest-Archive-Adapter-Bzip.html#method_compress"
+            "url": "classes/alphaz-Archive-Adapter-Bzip.html#method_compress"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Bzip\u003A\u003A\u0024BufferSize",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Bzip\u003A\u003A\u0024BufferSize",
             "name": "BufferSize",
             "summary": "",
-            "url": "classes/Zest-Archive-Adapter-Bzip.html#property_BufferSize"
+            "url": "classes/alphaz-Archive-Adapter-Bzip.html#property_BufferSize"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Gzip",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Gzip",
             "name": "Gzip",
             "summary": "",
-            "url": "classes/Zest-Archive-Adapter-Gzip.html"
+            "url": "classes/alphaz-Archive-Adapter-Gzip.html"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Gzip\u003A\u003Aextract\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Gzip\u003A\u003Aextract\u0028\u0029",
             "name": "extract",
             "summary": "Open\u0020and\u0020extract\u0020the\u0020archive.",
-            "url": "classes/Zest-Archive-Adapter-Gzip.html#method_extract"
+            "url": "classes/alphaz-Archive-Adapter-Gzip.html#method_extract"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Gzip\u003A\u003Acompress\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Gzip\u003A\u003Acompress\u0028\u0029",
             "name": "compress",
             "summary": "Compress\u0020file\u0020into\u0020bzip.",
-            "url": "classes/Zest-Archive-Adapter-Gzip.html#method_compress"
+            "url": "classes/alphaz-Archive-Adapter-Gzip.html#method_compress"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Gzip\u003A\u003A\u0024BufferSize",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Gzip\u003A\u003A\u0024BufferSize",
             "name": "BufferSize",
             "summary": "",
-            "url": "classes/Zest-Archive-Adapter-Gzip.html#property_BufferSize"
+            "url": "classes/alphaz-Archive-Adapter-Gzip.html#property_BufferSize"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Zip",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Zip",
             "name": "Zip",
             "summary": "",
-            "url": "classes/Zest-Archive-Adapter-Zip.html"
+            "url": "classes/alphaz-Archive-Adapter-Zip.html"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Zip\u003A\u003Aextract\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Zip\u003A\u003Aextract\u0028\u0029",
             "name": "extract",
             "summary": "Open\u0020and\u0020extract\u0020the\u0020archive.",
-            "url": "classes/Zest-Archive-Adapter-Zip.html#method_extract"
+            "url": "classes/alphaz-Archive-Adapter-Zip.html#method_extract"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter\\Zip\u003A\u003Acompress\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Adapter\\Zip\u003A\u003Acompress\u0028\u0029",
             "name": "compress",
             "summary": "Compress\u0020the\u0020file\u0020to\u0020an\u0020archive.",
-            "url": "classes/Zest-Archive-Adapter-Zip.html#method_compress"
+            "url": "classes/alphaz-Archive-Adapter-Zip.html#method_compress"
         },                {
-            "fqsen": "\\Zest\\Archive\\Archive",
+            "fqsen": "\\alphaz\\Archive\\Archive",
             "name": "Archive",
             "summary": "",
-            "url": "classes/Zest-Archive-Archive.html"
+            "url": "classes/alphaz-Archive-Archive.html"
         },                {
-            "fqsen": "\\Zest\\Archive\\Archive\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Archive\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "The\u0020constructor.",
-            "url": "classes/Zest-Archive-Archive.html#method___construct"
+            "url": "classes/alphaz-Archive-Archive.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Archive\\Archive\u003A\u003AsetAdapter\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Archive\u003A\u003AsetAdapter\u0028\u0029",
             "name": "setAdapter",
             "summary": "Set\u0020the\u0020adapter.",
-            "url": "classes/Zest-Archive-Archive.html#method_setAdapter"
+            "url": "classes/alphaz-Archive-Archive.html#method_setAdapter"
         },                {
-            "fqsen": "\\Zest\\Archive\\Archive\u003A\u003Aextract\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Archive\u003A\u003Aextract\u0028\u0029",
             "name": "extract",
             "summary": "Open\u0020and\u0020extract\u0020the\u0020archive.",
-            "url": "classes/Zest-Archive-Archive.html#method_extract"
+            "url": "classes/alphaz-Archive-Archive.html#method_extract"
         },                {
-            "fqsen": "\\Zest\\Archive\\Archive\u003A\u003Acompress\u0028\u0029",
+            "fqsen": "\\alphaz\\Archive\\Archive\u003A\u003Acompress\u0028\u0029",
             "name": "compress",
             "summary": "Compress\u0020the\u0020file\u0020to\u0020an\u0020archive.",
-            "url": "classes/Zest-Archive-Archive.html#method_compress"
+            "url": "classes/alphaz-Archive-Archive.html#method_compress"
         },                {
-            "fqsen": "\\Zest\\Archive\\Archive\u003A\u003A\u0024adapter",
+            "fqsen": "\\alphaz\\Archive\\Archive\u003A\u003A\u0024adapter",
             "name": "adapter",
             "summary": "Store\u0020the\u0020adapter\u0020object.",
-            "url": "classes/Zest-Archive-Archive.html#property_adapter"
+            "url": "classes/alphaz-Archive-Archive.html#property_adapter"
         },                {
-            "fqsen": "\\Zest\\Auth\\Auth",
+            "fqsen": "\\alphaz\\Auth\\Auth",
             "name": "Auth",
             "summary": "",
-            "url": "classes/Zest-Auth-Auth.html"
+            "url": "classes/alphaz-Auth-Auth.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Auth\u003A\u003Asignup\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Auth\u003A\u003Asignup\u0028\u0029",
             "name": "signup",
             "summary": "Instance\u0020of\u0020signup\u0020class.",
-            "url": "classes/Zest-Auth-Auth.html#method_signup"
+            "url": "classes/alphaz-Auth-Auth.html#method_signup"
         },                {
-            "fqsen": "\\Zest\\Auth\\Auth\u003A\u003Asignin\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Auth\u003A\u003Asignin\u0028\u0029",
             "name": "signin",
             "summary": "Instance\u0020of\u0020signin\u0020class.",
-            "url": "classes/Zest-Auth-Auth.html#method_signin"
+            "url": "classes/alphaz-Auth-Auth.html#method_signin"
         },                {
-            "fqsen": "\\Zest\\Auth\\Auth\u003A\u003Alogout\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Auth\u003A\u003Alogout\u0028\u0029",
             "name": "logout",
             "summary": "Instance\u0020of\u0020logout\u0020class.",
-            "url": "classes/Zest-Auth-Auth.html#method_logout"
+            "url": "classes/alphaz-Auth-Auth.html#method_logout"
         },                {
-            "fqsen": "\\Zest\\Auth\\Auth\u003A\u003Aupdate\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Auth\u003A\u003Aupdate\u0028\u0029",
             "name": "update",
             "summary": "Instance\u0020of\u0020update\u0020class.",
-            "url": "classes/Zest-Auth-Auth.html#method_update"
+            "url": "classes/alphaz-Auth-Auth.html#method_update"
         },                {
-            "fqsen": "\\Zest\\Auth\\Auth\u003A\u003Averify\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Auth\u003A\u003Averify\u0028\u0029",
             "name": "verify",
             "summary": "Instance\u0020of\u0020verify\u0020class.",
-            "url": "classes/Zest-Auth-Auth.html#method_verify"
+            "url": "classes/alphaz-Auth-Auth.html#method_verify"
         },                {
-            "fqsen": "\\Zest\\Auth\\Auth\u003A\u003Areset\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Auth\u003A\u003Areset\u0028\u0029",
             "name": "reset",
             "summary": "Instance\u0020of\u0020reset\u0020class.",
-            "url": "classes/Zest-Auth-Auth.html#method_reset"
+            "url": "classes/alphaz-Auth-Auth.html#method_reset"
         },                {
-            "fqsen": "\\Zest\\Auth\\EmailHandler",
+            "fqsen": "\\alphaz\\Auth\\EmailHandler",
             "name": "EmailHandler",
             "summary": "",
-            "url": "classes/Zest-Auth-EmailHandler.html"
+            "url": "classes/alphaz-Auth-EmailHandler.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\EmailHandler\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\EmailHandler\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Send\u0020the\u0020email\u0020msg.",
-            "url": "classes/Zest-Auth-EmailHandler.html#method___construct"
+            "url": "classes/alphaz-Auth-EmailHandler.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Auth\\Error",
+            "fqsen": "\\alphaz\\Auth\\Error",
             "name": "Error",
             "summary": "",
-            "url": "classes/Zest-Auth-Error.html"
+            "url": "classes/alphaz-Auth-Error.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Error\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Error\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\u0020the\u0020error\u0020msg.",
-            "url": "classes/Zest-Auth-Error.html#method_set"
+            "url": "classes/alphaz-Auth-Error.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Auth\\Error\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Error\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Check\u0020if\u0020the\u0020error\u0020has\u0020or\u0020not.",
-            "url": "classes/Zest-Auth-Error.html#method_has"
+            "url": "classes/alphaz-Auth-Error.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Auth\\Error\u003A\u003Aall\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Error\u003A\u003Aall\u0028\u0029",
             "name": "all",
             "summary": "Get\u0020all\u0020the\u0020error\u0020msgs.",
-            "url": "classes/Zest-Auth-Error.html#method_all"
+            "url": "classes/alphaz-Auth-Error.html#method_all"
         },                {
-            "fqsen": "\\Zest\\Auth\\Error\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Error\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020error\u0020msgs.",
-            "url": "classes/Zest-Auth-Error.html#method_get"
+            "url": "classes/alphaz-Auth-Error.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Auth\\Error\u003A\u003A\u0024errors",
+            "fqsen": "\\alphaz\\Auth\\Error\u003A\u003A\u0024errors",
             "name": "errors",
             "summary": "Store\u0020the\u0020error\u0020msgs.",
-            "url": "classes/Zest-Auth-Error.html#property_errors"
+            "url": "classes/alphaz-Auth-Error.html#property_errors"
         },                {
-            "fqsen": "\\Zest\\Auth\\Handler",
+            "fqsen": "\\alphaz\\Auth\\Handler",
             "name": "Handler",
             "summary": "",
-            "url": "classes/Zest-Auth-Handler.html"
+            "url": "classes/alphaz-Auth-Handler.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Handler\u003A\u003Afail\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Handler\u003A\u003Afail\u0028\u0029",
             "name": "fail",
             "summary": "check\u0020if\u0020the\u0020error\u0020has.",
-            "url": "classes/Zest-Auth-Handler.html#method_fail"
+            "url": "classes/alphaz-Auth-Handler.html#method_fail"
         },                {
-            "fqsen": "\\Zest\\Auth\\Handler\u003A\u003Aerror\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Handler\u003A\u003Aerror\u0028\u0029",
             "name": "error",
             "summary": "Store\u0020the\u0020error\u0020msgs.",
-            "url": "classes/Zest-Auth-Handler.html#method_error"
+            "url": "classes/alphaz-Auth-Handler.html#method_error"
         },                {
-            "fqsen": "\\Zest\\Auth\\Handler\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Handler\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020error\u0020msg.",
-            "url": "classes/Zest-Auth-Handler.html#method_get"
+            "url": "classes/alphaz-Auth-Handler.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Auth\\Handler\u003A\u003Alast\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Handler\u003A\u003Alast\u0028\u0029",
             "name": "last",
             "summary": "Get\u0020last\u0020error\u0020msg.",
-            "url": "classes/Zest-Auth-Handler.html#method_last"
+            "url": "classes/alphaz-Auth-Handler.html#method_last"
         },                {
-            "fqsen": "\\Zest\\Auth\\Handler\u003A\u003Afirst\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Handler\u003A\u003Afirst\u0028\u0029",
             "name": "first",
             "summary": "Get\u0020first\u0020errror\u0020msg\u0020.",
-            "url": "classes/Zest-Auth-Handler.html#method_first"
+            "url": "classes/alphaz-Auth-Handler.html#method_first"
         },                {
-            "fqsen": "\\Zest\\Auth\\Handler\u003A\u003Asuccess\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Handler\u003A\u003Asuccess\u0028\u0029",
             "name": "success",
             "summary": "Get\u0020the\u0020success\u0020msg.",
-            "url": "classes/Zest-Auth-Handler.html#method_success"
+            "url": "classes/alphaz-Auth-Handler.html#method_success"
         },                {
-            "fqsen": "\\Zest\\Auth\\Logout",
+            "fqsen": "\\alphaz\\Auth\\Logout",
             "name": "Logout",
             "summary": "",
-            "url": "classes/Zest-Auth-Logout.html"
+            "url": "classes/alphaz-Auth-Logout.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Logout\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Logout\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Logout\u0020the\u0020user.",
-            "url": "classes/Zest-Auth-Logout.html#method___construct"
+            "url": "classes/alphaz-Auth-Logout.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Auth\\Reset",
+            "fqsen": "\\alphaz\\Auth\\Reset",
             "name": "Reset",
             "summary": "",
-            "url": "classes/Zest-Auth-Reset.html"
+            "url": "classes/alphaz-Auth-Reset.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Reset\u003A\u003Areset\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Reset\u003A\u003Areset\u0028\u0029",
             "name": "reset",
             "summary": "Add\u0020the\u0020reset\u0020password\u0020request.",
-            "url": "classes/Zest-Auth-Reset.html#method_reset"
+            "url": "classes/alphaz-Auth-Reset.html#method_reset"
         },                {
-            "fqsen": "\\Zest\\Auth\\Reset\u003A\u003AresetUpdate\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Reset\u003A\u003AresetUpdate\u0028\u0029",
             "name": "resetUpdate",
             "summary": "check\u0020token\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Auth-Reset.html#method_resetUpdate"
+            "url": "classes/alphaz-Auth-Reset.html#method_resetUpdate"
         },                {
-            "fqsen": "\\Zest\\Auth\\Reset\u003A\u003A\u0024errors",
+            "fqsen": "\\alphaz\\Auth\\Reset\u003A\u003A\u0024errors",
             "name": "errors",
             "summary": "Store\u0020the\u0020error\u0020msgs.",
-            "url": "classes/Zest-Auth-Reset.html#property_errors"
+            "url": "classes/alphaz-Auth-Reset.html#property_errors"
         },                {
-            "fqsen": "\\Zest\\Auth\\Signin",
+            "fqsen": "\\alphaz\\Auth\\Signin",
             "name": "Signin",
             "summary": "",
-            "url": "classes/Zest-Auth-Signin.html"
+            "url": "classes/alphaz-Auth-Signin.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Signin\u003A\u003Asignin\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Signin\u003A\u003Asignin\u0028\u0029",
             "name": "signin",
             "summary": "Signin\u0020the\u0020users.",
-            "url": "classes/Zest-Auth-Signin.html#method_signin"
+            "url": "classes/alphaz-Auth-Signin.html#method_signin"
         },                {
-            "fqsen": "\\Zest\\Auth\\Signin\u003A\u003A\u0024errors",
+            "fqsen": "\\alphaz\\Auth\\Signin\u003A\u003A\u0024errors",
             "name": "errors",
             "summary": "Store\u0020the\u0020errors\u0020msgs.",
-            "url": "classes/Zest-Auth-Signin.html#property_errors"
+            "url": "classes/alphaz-Auth-Signin.html#property_errors"
         },                {
-            "fqsen": "\\Zest\\Auth\\Signup",
+            "fqsen": "\\alphaz\\Auth\\Signup",
             "name": "Signup",
             "summary": "",
-            "url": "classes/Zest-Auth-Signup.html"
+            "url": "classes/alphaz-Auth-Signup.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Signup\u003A\u003Asignup\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Signup\u003A\u003Asignup\u0028\u0029",
             "name": "signup",
             "summary": "Signup\u0020the\u0020users.",
-            "url": "classes/Zest-Auth-Signup.html#method_signup"
+            "url": "classes/alphaz-Auth-Signup.html#method_signup"
         },                {
-            "fqsen": "\\Zest\\Auth\\Signup\u003A\u003A\u0024errors",
+            "fqsen": "\\alphaz\\Auth\\Signup\u003A\u003A\u0024errors",
             "name": "errors",
             "summary": "Store\u0020the\u0020error\u0020msgs.",
-            "url": "classes/Zest-Auth-Signup.html#property_errors"
+            "url": "classes/alphaz-Auth-Signup.html#property_errors"
         },                {
-            "fqsen": "\\Zest\\Auth\\Success",
+            "fqsen": "\\alphaz\\Auth\\Success",
             "name": "Success",
             "summary": "",
-            "url": "classes/Zest-Auth-Success.html"
+            "url": "classes/alphaz-Auth-Success.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Success\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Success\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\u0020the\u0020success\u0020msgs.",
-            "url": "classes/Zest-Auth-Success.html#method_set"
+            "url": "classes/alphaz-Auth-Success.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Auth\\Success\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Success\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020success\u0020message.",
-            "url": "classes/Zest-Auth-Success.html#method_get"
+            "url": "classes/alphaz-Auth-Success.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Auth\\Success\u003A\u003A\u0024success",
+            "fqsen": "\\alphaz\\Auth\\Success\u003A\u003A\u0024success",
             "name": "success",
             "summary": "Store\u0020the\u0020success\u0020msgs.",
-            "url": "classes/Zest-Auth-Success.html#property_success"
+            "url": "classes/alphaz-Auth-Success.html#property_success"
         },                {
-            "fqsen": "\\Zest\\Auth\\Update",
+            "fqsen": "\\alphaz\\Auth\\Update",
             "name": "Update",
             "summary": "",
-            "url": "classes/Zest-Auth-Update.html"
+            "url": "classes/alphaz-Auth-Update.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Update\u003A\u003Aupdate\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Update\u003A\u003Aupdate\u0028\u0029",
             "name": "update",
             "summary": "Update\u0020the\u0020users.",
-            "url": "classes/Zest-Auth-Update.html#method_update"
+            "url": "classes/alphaz-Auth-Update.html#method_update"
         },                {
-            "fqsen": "\\Zest\\Auth\\Update\u003A\u003AupdatePassword\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Update\u003A\u003AupdatePassword\u0028\u0029",
             "name": "updatePassword",
             "summary": "Check\u0020is\u0020username\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Auth-Update.html#method_updatePassword"
+            "url": "classes/alphaz-Auth-Update.html#method_updatePassword"
         },                {
-            "fqsen": "\\Zest\\Auth\\User",
+            "fqsen": "\\alphaz\\Auth\\User",
             "name": "User",
             "summary": "",
-            "url": "classes/Zest-Auth-User.html"
+            "url": "classes/alphaz-Auth-User.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003AgetAll\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003AgetAll\u0028\u0029",
             "name": "getAll",
             "summary": "Get\u0020all\u0020the\u0020users.",
-            "url": "classes/Zest-Auth-User.html#method_getAll"
+            "url": "classes/alphaz-Auth-User.html#method_getAll"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003AgetByWhere\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003AgetByWhere\u0028\u0029",
             "name": "getByWhere",
             "summary": "Get\u0020users\u0020using\u0020specific\u0020field.",
-            "url": "classes/Zest-Auth-User.html#method_getByWhere"
+            "url": "classes/alphaz-Auth-User.html#method_getByWhere"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020user\u0020by\u0020id.",
-            "url": "classes/Zest-Auth-User.html#method_delete"
+            "url": "classes/alphaz-Auth-User.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003AisUsername\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003AisUsername\u0028\u0029",
             "name": "isUsername",
             "summary": "Check\u0020is\u0020username\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Auth-User.html#method_isUsername"
+            "url": "classes/alphaz-Auth-User.html#method_isUsername"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003AisEmail\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003AisEmail\u0028\u0029",
             "name": "isEmail",
             "summary": "Check\u0020is\u0020email\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Auth-User.html#method_isEmail"
+            "url": "classes/alphaz-Auth-User.html#method_isEmail"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003AisToken\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003AisToken\u0028\u0029",
             "name": "isToken",
             "summary": "Check\u0020is\u0020is\u0020verification\u0020token\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Auth-User.html#method_isToken"
+            "url": "classes/alphaz-Auth-User.html#method_isToken"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003AisResetToken\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003AisResetToken\u0028\u0029",
             "name": "isResetToken",
             "summary": "Check\u0020is\u0020reset\u0020token\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Auth-User.html#method_isResetToken"
+            "url": "classes/alphaz-Auth-User.html#method_isResetToken"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003AloginUser\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003AloginUser\u0028\u0029",
             "name": "loginUser",
             "summary": "Get\u0020the\u0020details\u0020of\u0020login\u0020user.",
-            "url": "classes/Zest-Auth-User.html#method_loginUser"
+            "url": "classes/alphaz-Auth-User.html#method_loginUser"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003AsessionUser\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003AsessionUser\u0028\u0029",
             "name": "sessionUser",
             "summary": "Get\u0020the\u0020current\u0020session\u0020user.",
-            "url": "classes/Zest-Auth-User.html#method_sessionUser"
+            "url": "classes/alphaz-Auth-User.html#method_sessionUser"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003AisLogin\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003AisLogin\u0028\u0029",
             "name": "isLogin",
             "summary": "Check\u0020user\u0020is\u0020login\u0020or\u0020not.",
-            "url": "classes/Zest-Auth-User.html#method_isLogin"
+            "url": "classes/alphaz-Auth-User.html#method_isLogin"
         },                {
-            "fqsen": "\\Zest\\Auth\\User\u003A\u003Alogout\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\User\u003A\u003Alogout\u0028\u0029",
             "name": "logout",
             "summary": "Logout\u0020the\u0020user.",
-            "url": "classes/Zest-Auth-User.html#method_logout"
+            "url": "classes/alphaz-Auth-User.html#method_logout"
         },                {
-            "fqsen": "\\Zest\\Auth\\Verify",
+            "fqsen": "\\alphaz\\Auth\\Verify",
             "name": "Verify",
             "summary": "",
-            "url": "classes/Zest-Auth-Verify.html"
+            "url": "classes/alphaz-Auth-Verify.html"
         },                {
-            "fqsen": "\\Zest\\Auth\\Verify\u003A\u003Averify\u0028\u0029",
+            "fqsen": "\\alphaz\\Auth\\Verify\u003A\u003Averify\u0028\u0029",
             "name": "verify",
             "summary": "Verify\u0020the\u0020user\u0020base\u0020on\u0020token.",
-            "url": "classes/Zest-Auth-Verify.html#method_verify"
+            "url": "classes/alphaz-Auth-Verify.html#method_verify"
         },                {
-            "fqsen": "\\Zest\\Benchmark\\Benchmark",
+            "fqsen": "\\alphaz\\Benchmark\\Benchmark",
             "name": "Benchmark",
             "summary": "",
-            "url": "classes/Zest-Benchmark-Benchmark.html"
+            "url": "classes/alphaz-Benchmark-Benchmark.html"
         },                {
-            "fqsen": "\\Zest\\Benchmark\\Benchmark\u003A\u003A\u0024start",
+            "fqsen": "\\alphaz\\Benchmark\\Benchmark\u003A\u003A\u0024start",
             "name": "start",
             "summary": "Store\u0020start\u0020time.",
-            "url": "classes/Zest-Benchmark-Benchmark.html#property_start"
+            "url": "classes/alphaz-Benchmark-Benchmark.html#property_start"
         },                {
-            "fqsen": "\\Zest\\Benchmark\\Benchmark\u003A\u003A\u0024end",
+            "fqsen": "\\alphaz\\Benchmark\\Benchmark\u003A\u003A\u0024end",
             "name": "end",
             "summary": "Store\u0020end\u0020time.",
-            "url": "classes/Zest-Benchmark-Benchmark.html#property_end"
+            "url": "classes/alphaz-Benchmark-Benchmark.html#property_end"
         },                {
-            "fqsen": "\\Zest\\Benchmark\\Benchmark\u003A\u003AelapsedTime\u0028\u0029",
+            "fqsen": "\\alphaz\\Benchmark\\Benchmark\u003A\u003AelapsedTime\u0028\u0029",
             "name": "elapsedTime",
             "summary": "Get\u0020the\u0020elapsed\u0020time.",
-            "url": "classes/Zest-Benchmark-Benchmark.html#method_elapsedTime"
+            "url": "classes/alphaz-Benchmark-Benchmark.html#method_elapsedTime"
         },                {
-            "fqsen": "\\Zest\\Bootstrap",
+            "fqsen": "\\alphaz\\Bootstrap",
             "name": "Bootstrap",
             "summary": "",
-            "url": "classes/Zest-Bootstrap.html"
+            "url": "classes/alphaz-Bootstrap.html"
         },                {
-            "fqsen": "\\Zest\\Bootstrap\u003A\u003Aconfigure\u0028\u0029",
+            "fqsen": "\\alphaz\\Bootstrap\u003A\u003Aconfigure\u0028\u0029",
             "name": "configure",
             "summary": "Set\u0020Default\u0020configuration.",
-            "url": "classes/Zest-Bootstrap.html#method_configure"
+            "url": "classes/alphaz-Bootstrap.html#method_configure"
         },                {
-            "fqsen": "\\Zest\\Bootstrap\u003A\u003AregisterClassAliases\u0028\u0029",
+            "fqsen": "\\alphaz\\Bootstrap\u003A\u003AregisterClassAliases\u0028\u0029",
             "name": "registerClassAliases",
             "summary": "Register\u0020the\u0020class\u0020aliases.",
-            "url": "classes/Zest-Bootstrap.html#method_registerClassAliases"
+            "url": "classes/alphaz-Bootstrap.html#method_registerClassAliases"
         },                {
-            "fqsen": "\\Zest\\Bootstrap\u003A\u003AregisterApp\u0028\u0029",
+            "fqsen": "\\alphaz\\Bootstrap\u003A\u003AregisterApp\u0028\u0029",
             "name": "registerApp",
             "summary": "Register\u0020the\u0020App.",
-            "url": "classes/Zest-Bootstrap.html#method_registerApp"
+            "url": "classes/alphaz-Bootstrap.html#method_registerApp"
         },                {
-            "fqsen": "\\Zest\\Bootstrap\u003A\u003Abootstrap\u0028\u0029",
+            "fqsen": "\\alphaz\\Bootstrap\u003A\u003Abootstrap\u0028\u0029",
             "name": "bootstrap",
             "summary": "Load\u0020the\u0020boostrap\u0020file.",
-            "url": "classes/Zest-Bootstrap.html#method_bootstrap"
+            "url": "classes/alphaz-Bootstrap.html#method_bootstrap"
         },                {
-            "fqsen": "\\Zest\\Bootstrap\u003A\u003Aboot\u0028\u0029",
+            "fqsen": "\\alphaz\\Bootstrap\u003A\u003Aboot\u0028\u0029",
             "name": "boot",
             "summary": "Boot\u0020the\u0020application.",
-            "url": "classes/Zest-Bootstrap.html#method_boot"
+            "url": "classes/alphaz-Bootstrap.html#method_boot"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter",
             "name": "AbstractAdapter",
             "summary": "",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#method___construct"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003AsetTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003AsetTtl\u0028\u0029",
             "name": "setTtl",
             "summary": "Set\u0020the\u0020ttl.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#method_setTtl"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#method_setTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003AgetTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003AgetTtl\u0028\u0029",
             "name": "getTtl",
             "summary": "Get\u0020the\u0020time\u002Dto\u002Dlive\u0020for\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#method_getTtl"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#method_getTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020the\u0020time\u002Dto\u002Dlive\u0020for\u0020an\u0020item\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#method_getItemTtl"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003AsaveItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003AsaveItem\u0028\u0029",
             "name": "saveItem",
             "summary": "Save\u0020an\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#method_saveItem"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#method_saveItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003AgetItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003AgetItem\u0028\u0029",
             "name": "getItem",
             "summary": "Get\u0020an\u0020item\u0020from\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#method_getItem"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#method_getItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003AhasItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003AhasItem\u0028\u0029",
             "name": "hasItem",
             "summary": "Determine\u0020if\u0020the\u0020item\u0020exist\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#method_hasItem"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#method_hasItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003AdeleteItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003AdeleteItem\u0028\u0029",
             "name": "deleteItem",
             "summary": "Delete\u0020a\u0020value\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#method_deleteItem"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#method_deleteItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003Adestroy\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
             "summary": "Destroy\u0020cache\u0020resource.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#method_destroy"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#method_destroy"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\AbstractAdapter\u003A\u003A\u0024ttl",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\AbstractAdapter\u003A\u003A\u0024ttl",
             "name": "ttl",
             "summary": "Time\u0020to\u0020live.",
-            "url": "classes/Zest-Cache-Adapter-AbstractAdapter.html#property_ttl"
+            "url": "classes/alphaz-Cache-Adapter-AbstractAdapter.html#property_ttl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APC",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APC",
             "name": "APC",
             "summary": "",
-            "url": "classes/Zest-Cache-Adapter-APC.html"
+            "url": "classes/alphaz-Cache-Adapter-APC.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APC\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APC\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Cache-Adapter-APC.html#method___construct"
+            "url": "classes/alphaz-Cache-Adapter-APC.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APC\u003A\u003AgetInfo\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APC\u003A\u003AgetInfo\u0028\u0029",
             "name": "getInfo",
             "summary": "Method\u0020to\u0020get\u0020the\u0020current\u0020APC\u0020info.",
-            "url": "classes/Zest-Cache-Adapter-APC.html#method_getInfo"
+            "url": "classes/alphaz-Cache-Adapter-APC.html#method_getInfo"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APC\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APC\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020the\u0020time\u002Dto\u002Dlive\u0020for\u0020an\u0020item\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-APC.html#method_getItemTtl"
+            "url": "classes/alphaz-Cache-Adapter-APC.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APC\u003A\u003AsaveItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APC\u003A\u003AsaveItem\u0028\u0029",
             "name": "saveItem",
             "summary": "Save\u0020an\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-APC.html#method_saveItem"
+            "url": "classes/alphaz-Cache-Adapter-APC.html#method_saveItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APC\u003A\u003AgetItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APC\u003A\u003AgetItem\u0028\u0029",
             "name": "getItem",
             "summary": "Get\u0020value\u0020form\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-APC.html#method_getItem"
+            "url": "classes/alphaz-Cache-Adapter-APC.html#method_getItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APC\u003A\u003AhasItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APC\u003A\u003AhasItem\u0028\u0029",
             "name": "hasItem",
             "summary": "Determine\u0020if\u0020cache\u0020exists.",
-            "url": "classes/Zest-Cache-Adapter-APC.html#method_hasItem"
+            "url": "classes/alphaz-Cache-Adapter-APC.html#method_hasItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APC\u003A\u003AdeleteItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APC\u003A\u003AdeleteItem\u0028\u0029",
             "name": "deleteItem",
             "summary": "Delete\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-APC.html#method_deleteItem"
+            "url": "classes/alphaz-Cache-Adapter-APC.html#method_deleteItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APC\u003A\u003Adestroy\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APC\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
             "summary": "Remove\u0020all\u0020caches.",
-            "url": "classes/Zest-Cache-Adapter-APC.html#method_destroy"
+            "url": "classes/alphaz-Cache-Adapter-APC.html#method_destroy"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APCU",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APCU",
             "name": "APCU",
             "summary": "",
-            "url": "classes/Zest-Cache-Adapter-APCU.html"
+            "url": "classes/alphaz-Cache-Adapter-APCU.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APCU\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APCU\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Cache-Adapter-APCU.html#method___construct"
+            "url": "classes/alphaz-Cache-Adapter-APCU.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APCU\u003A\u003AgetInfo\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APCU\u003A\u003AgetInfo\u0028\u0029",
             "name": "getInfo",
             "summary": "Method\u0020to\u0020get\u0020the\u0020current\u0020APCU\u0020info.",
-            "url": "classes/Zest-Cache-Adapter-APCU.html#method_getInfo"
+            "url": "classes/alphaz-Cache-Adapter-APCU.html#method_getInfo"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APCU\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APCU\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020the\u0020time\u002Dto\u002Dlive\u0020for\u0020an\u0020item\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-APCU.html#method_getItemTtl"
+            "url": "classes/alphaz-Cache-Adapter-APCU.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APCU\u003A\u003AsaveItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APCU\u003A\u003AsaveItem\u0028\u0029",
             "name": "saveItem",
             "summary": "Save\u0020an\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-APCU.html#method_saveItem"
+            "url": "classes/alphaz-Cache-Adapter-APCU.html#method_saveItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APCU\u003A\u003AgetItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APCU\u003A\u003AgetItem\u0028\u0029",
             "name": "getItem",
             "summary": "Get\u0020value\u0020form\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-APCU.html#method_getItem"
+            "url": "classes/alphaz-Cache-Adapter-APCU.html#method_getItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APCU\u003A\u003AhasItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APCU\u003A\u003AhasItem\u0028\u0029",
             "name": "hasItem",
             "summary": "Determine\u0020if\u0020cache\u0020exists.",
-            "url": "classes/Zest-Cache-Adapter-APCU.html#method_hasItem"
+            "url": "classes/alphaz-Cache-Adapter-APCU.html#method_hasItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APCU\u003A\u003AdeleteItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APCU\u003A\u003AdeleteItem\u0028\u0029",
             "name": "deleteItem",
             "summary": "Delete\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-APCU.html#method_deleteItem"
+            "url": "classes/alphaz-Cache-Adapter-APCU.html#method_deleteItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\APCU\u003A\u003Adestroy\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\APCU\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
             "summary": "Remove\u0020all\u0020caches.",
-            "url": "classes/Zest-Cache-Adapter-APCU.html#method_destroy"
+            "url": "classes/alphaz-Cache-Adapter-APCU.html#method_destroy"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\FileCache",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\FileCache",
             "name": "FileCache",
             "summary": "",
-            "url": "classes/Zest-Cache-Adapter-FileCache.html"
+            "url": "classes/alphaz-Cache-Adapter-FileCache.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\FileCache\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\FileCache\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Cache-Adapter-FileCache.html#method___construct"
+            "url": "classes/alphaz-Cache-Adapter-FileCache.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\FileCache\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\FileCache\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020the\u0020time\u002Dto\u002Dlive\u0020for\u0020an\u0020item\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-FileCache.html#method_getItemTtl"
+            "url": "classes/alphaz-Cache-Adapter-FileCache.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\FileCache\u003A\u003AsaveItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\FileCache\u003A\u003AsaveItem\u0028\u0029",
             "name": "saveItem",
             "summary": "Save\u0020an\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-FileCache.html#method_saveItem"
+            "url": "classes/alphaz-Cache-Adapter-FileCache.html#method_saveItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\FileCache\u003A\u003AgetItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\FileCache\u003A\u003AgetItem\u0028\u0029",
             "name": "getItem",
             "summary": "Get\u0020value\u0020form\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-FileCache.html#method_getItem"
+            "url": "classes/alphaz-Cache-Adapter-FileCache.html#method_getItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\FileCache\u003A\u003AhasItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\FileCache\u003A\u003AhasItem\u0028\u0029",
             "name": "hasItem",
             "summary": "Determine\u0020if\u0020cache\u0020exists.",
-            "url": "classes/Zest-Cache-Adapter-FileCache.html#method_hasItem"
+            "url": "classes/alphaz-Cache-Adapter-FileCache.html#method_hasItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\FileCache\u003A\u003AdeleteItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\FileCache\u003A\u003AdeleteItem\u0028\u0029",
             "name": "deleteItem",
             "summary": "Delete\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-FileCache.html#method_deleteItem"
+            "url": "classes/alphaz-Cache-Adapter-FileCache.html#method_deleteItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\FileCache\u003A\u003Adestroy\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\FileCache\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
             "summary": "Remove\u0020all\u0020caches.",
-            "url": "classes/Zest-Cache-Adapter-FileCache.html#method_destroy"
+            "url": "classes/alphaz-Cache-Adapter-FileCache.html#method_destroy"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\FileCache\u003A\u003A\u0024path",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\FileCache\u003A\u003A\u0024path",
             "name": "path",
             "summary": "Path\u0020of\u0020cache\u0020directory.",
-            "url": "classes/Zest-Cache-Adapter-FileCache.html#property_path"
+            "url": "classes/alphaz-Cache-Adapter-FileCache.html#property_path"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache",
             "name": "Memcache",
             "summary": "",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#method___construct"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003A\u0024memcache",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003A\u0024memcache",
             "name": "memcache",
             "summary": "Store\u0020the\u0020object.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#property_memcache"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#property_memcache"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003AgetVersion\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003AgetVersion\u0028\u0029",
             "name": "getVersion",
             "summary": "Get\u0020the\u0020version\u0020of\u0020memcache.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#method_getVersion"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#method_getVersion"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020the\u0020time\u002Dto\u002Dlive\u0020for\u0020an\u0020item\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#method_getItemTtl"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003AsaveItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003AsaveItem\u0028\u0029",
             "name": "saveItem",
             "summary": "Save\u0020an\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#method_saveItem"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#method_saveItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003AgetItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003AgetItem\u0028\u0029",
             "name": "getItem",
             "summary": "Get\u0020value\u0020form\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#method_getItem"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#method_getItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003AhasItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003AhasItem\u0028\u0029",
             "name": "hasItem",
             "summary": "Determine\u0020if\u0020cache\u0020exists.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#method_hasItem"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#method_hasItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003AdeleteItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003AdeleteItem\u0028\u0029",
             "name": "deleteItem",
             "summary": "Delete\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#method_deleteItem"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#method_deleteItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020the\u0020connection.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#method_close"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#method_close"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcache\u003A\u003Adestroy\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcache\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
             "summary": "Remove\u0020all\u0020caches.",
-            "url": "classes/Zest-Cache-Adapter-Memcache.html#method_destroy"
+            "url": "classes/alphaz-Cache-Adapter-Memcache.html#method_destroy"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached",
             "name": "Memcached",
             "summary": "",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method___construct"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003A\u0024memcached",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003A\u0024memcached",
             "name": "memcached",
             "summary": "Store\u0020the\u0020object.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#property_memcached"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#property_memcached"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003AaddServer\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003AaddServer\u0028\u0029",
             "name": "addServer",
             "summary": "Add\u0020server\u0020to\u0020Memcached.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_addServer"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_addServer"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003AaddServers\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003AaddServers\u0028\u0029",
             "name": "addServers",
             "summary": "Add\u0020servers\u0020to\u0020Memcached.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_addServers"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_addServers"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003AgetVersion\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003AgetVersion\u0028\u0029",
             "name": "getVersion",
             "summary": "Get\u0020the\u0020version\u0020of\u0020memcache.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_getVersion"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_getVersion"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020the\u0020time\u002Dto\u002Dlive\u0020for\u0020an\u0020item\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_getItemTtl"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003AsaveItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003AsaveItem\u0028\u0029",
             "name": "saveItem",
             "summary": "Save\u0020an\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_saveItem"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_saveItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003AgetItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003AgetItem\u0028\u0029",
             "name": "getItem",
             "summary": "Get\u0020value\u0020form\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_getItem"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_getItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003AhasItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003AhasItem\u0028\u0029",
             "name": "hasItem",
             "summary": "Determine\u0020if\u0020cache\u0020exists.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_hasItem"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_hasItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003AdeleteItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003AdeleteItem\u0028\u0029",
             "name": "deleteItem",
             "summary": "Delete\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_deleteItem"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_deleteItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020the\u0020connection.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_close"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_close"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003Adestroy\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
             "summary": "Remove\u0020all\u0020caches.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#method_destroy"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#method_destroy"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Memcached\u003A\u003A\u0024version",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Memcached\u003A\u003A\u0024version",
             "name": "version",
             "summary": "Version.",
-            "url": "classes/Zest-Cache-Adapter-Memcached.html#property_version"
+            "url": "classes/alphaz-Cache-Adapter-Memcached.html#property_version"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis",
             "name": "Redis",
             "summary": "",
-            "url": "classes/Zest-Cache-Adapter-Redis.html"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#method___construct"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003A\u0024redis",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003A\u0024redis",
             "name": "redis",
             "summary": "Store\u0020the\u0020object.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#property_redis"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#property_redis"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003AgetVersion\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003AgetVersion\u0028\u0029",
             "name": "getVersion",
             "summary": "Get\u0020the\u0020version\u0020of\u0020redis.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#method_getVersion"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#method_getVersion"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020the\u0020time\u002Dto\u002Dlive\u0020for\u0020an\u0020item\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#method_getItemTtl"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003AsaveItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003AsaveItem\u0028\u0029",
             "name": "saveItem",
             "summary": "Save\u0020an\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#method_saveItem"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#method_saveItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003AgetItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003AgetItem\u0028\u0029",
             "name": "getItem",
             "summary": "Get\u0020value\u0020form\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#method_getItem"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#method_getItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003AhasItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003AhasItem\u0028\u0029",
             "name": "hasItem",
             "summary": "Determine\u0020if\u0020cache\u0020exists.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#method_hasItem"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#method_hasItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003AdeleteItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003AdeleteItem\u0028\u0029",
             "name": "deleteItem",
             "summary": "Delete\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#method_deleteItem"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#method_deleteItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020the\u0020connection.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#method_close"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#method_close"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\Redis\u003A\u003Adestroy\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\Redis\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
             "summary": "Remove\u0020all\u0020caches.",
-            "url": "classes/Zest-Cache-Adapter-Redis.html#method_destroy"
+            "url": "classes/alphaz-Cache-Adapter-Redis.html#method_destroy"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\SessionCache",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\SessionCache",
             "name": "SessionCache",
             "summary": "",
-            "url": "classes/Zest-Cache-Adapter-SessionCache.html"
+            "url": "classes/alphaz-Cache-Adapter-SessionCache.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\SessionCache\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\SessionCache\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Cache-Adapter-SessionCache.html#method___construct"
+            "url": "classes/alphaz-Cache-Adapter-SessionCache.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\SessionCache\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\SessionCache\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020the\u0020time\u002Dto\u002Dlive\u0020for\u0020an\u0020item\u0020in\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-SessionCache.html#method_getItemTtl"
+            "url": "classes/alphaz-Cache-Adapter-SessionCache.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\SessionCache\u003A\u003AsaveItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\SessionCache\u003A\u003AsaveItem\u0028\u0029",
             "name": "saveItem",
             "summary": "Save\u0020an\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-SessionCache.html#method_saveItem"
+            "url": "classes/alphaz-Cache-Adapter-SessionCache.html#method_saveItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\SessionCache\u003A\u003AgetItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\SessionCache\u003A\u003AgetItem\u0028\u0029",
             "name": "getItem",
             "summary": "Get\u0020value\u0020form\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-SessionCache.html#method_getItem"
+            "url": "classes/alphaz-Cache-Adapter-SessionCache.html#method_getItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\SessionCache\u003A\u003AhasItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\SessionCache\u003A\u003AhasItem\u0028\u0029",
             "name": "hasItem",
             "summary": "Determine\u0020if\u0020cache\u0020exists.",
-            "url": "classes/Zest-Cache-Adapter-SessionCache.html#method_hasItem"
+            "url": "classes/alphaz-Cache-Adapter-SessionCache.html#method_hasItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\SessionCache\u003A\u003AdeleteItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\SessionCache\u003A\u003AdeleteItem\u0028\u0029",
             "name": "deleteItem",
             "summary": "Delete\u0020the\u0020cache.",
-            "url": "classes/Zest-Cache-Adapter-SessionCache.html#method_deleteItem"
+            "url": "classes/alphaz-Cache-Adapter-SessionCache.html#method_deleteItem"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter\\SessionCache\u003A\u003Adestroy\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Adapter\\SessionCache\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
             "summary": "Remove\u0020all\u0020caches.",
-            "url": "classes/Zest-Cache-Adapter-SessionCache.html#method_destroy"
+            "url": "classes/alphaz-Cache-Adapter-SessionCache.html#method_destroy"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache",
+            "fqsen": "\\alphaz\\Cache\\Cache",
             "name": "Cache",
             "summary": "",
-            "url": "classes/Zest-Cache-Cache.html"
+            "url": "classes/alphaz-Cache-Cache.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Cache-Cache.html#method___construct"
+            "url": "classes/alphaz-Cache-Cache.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003AgetAdapter\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003AgetAdapter\u0028\u0029",
             "name": "getAdapter",
             "summary": "Get\u0020the\u0020adapter\u0020of\u0020cache.",
-            "url": "classes/Zest-Cache-Cache.html#method_getAdapter"
+            "url": "classes/alphaz-Cache-Cache.html#method_getAdapter"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003AsetProperAdapter\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003AsetProperAdapter\u0028\u0029",
             "name": "setProperAdapter",
             "summary": "Set\u0020the\u0020valid\u0020adapter.",
-            "url": "classes/Zest-Cache-Cache.html#method_setProperAdapter"
+            "url": "classes/alphaz-Cache-Cache.html#method_setProperAdapter"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003AgetDefaultTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003AgetDefaultTtl\u0028\u0029",
             "name": "getDefaultTtl",
             "summary": "Get\u0020default\u0020ttl.",
-            "url": "classes/Zest-Cache-Cache.html#method_getDefaultTtl"
+            "url": "classes/alphaz-Cache-Cache.html#method_getDefaultTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020item\u0020ttl.",
-            "url": "classes/Zest-Cache-Cache.html#method_getItemTtl"
+            "url": "classes/alphaz-Cache-Cache.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020value\u0020from\u0020cache.",
-            "url": "classes/Zest-Cache-Cache.html#method_get"
+            "url": "classes/alphaz-Cache-Cache.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003AgetMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003AgetMultiple\u0028\u0029",
             "name": "getMultiple",
             "summary": "Get\u0020the\u0020multiple\u0020values\u0020from\u0020cache.",
-            "url": "classes/Zest-Cache-Cache.html#method_getMultiple"
+            "url": "classes/alphaz-Cache-Cache.html#method_getMultiple"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Save\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Cache.html#method_set"
+            "url": "classes/alphaz-Cache-Cache.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003AsetMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003AsetMultiple\u0028\u0029",
             "name": "setMultiple",
             "summary": "Save\u0020multiple\u0020items\u0020to\u0020cache.",
-            "url": "classes/Zest-Cache-Cache.html#method_setMultiple"
+            "url": "classes/alphaz-Cache-Cache.html#method_setMultiple"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Determine\u0020if\u0020cache\u0020exixts.",
-            "url": "classes/Zest-Cache-Cache.html#method_has"
+            "url": "classes/alphaz-Cache-Cache.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020item\u0020form\u0020cache.",
-            "url": "classes/Zest-Cache-Cache.html#method_delete"
+            "url": "classes/alphaz-Cache-Cache.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003AdeleteMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003AdeleteMultiple\u0028\u0029",
             "name": "deleteMultiple",
             "summary": "Delete\u0020multiples\u0020items\u0020form\u0020cache.",
-            "url": "classes/Zest-Cache-Cache.html#method_deleteMultiple"
+            "url": "classes/alphaz-Cache-Cache.html#method_deleteMultiple"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003Aclear\u0028\u0029",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003Aclear\u0028\u0029",
             "name": "clear",
             "summary": "Clear\u0020all\u0020caches.",
-            "url": "classes/Zest-Cache-Cache.html#method_clear"
+            "url": "classes/alphaz-Cache-Cache.html#method_clear"
         },                {
-            "fqsen": "\\Zest\\Cache\\Cache\u003A\u003A\u0024adapter",
+            "fqsen": "\\alphaz\\Cache\\Cache\u003A\u003A\u0024adapter",
             "name": "adapter",
             "summary": "Store\u0020the\u0020adapter\u0020object.",
-            "url": "classes/Zest-Cache-Cache.html#property_adapter"
+            "url": "classes/alphaz-Cache-Cache.html#property_adapter"
         },                {
-            "fqsen": "\\Zest\\Common\\AliasLoader",
+            "fqsen": "\\alphaz\\Common\\AliasLoader",
             "name": "AliasLoader",
             "summary": "",
-            "url": "classes/Zest-Common-AliasLoader.html"
+            "url": "classes/alphaz-Common-AliasLoader.html"
         },                {
-            "fqsen": "\\Zest\\Common\\AliasLoader\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\AliasLoader\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Common-AliasLoader.html#method___construct"
+            "url": "classes/alphaz-Common-AliasLoader.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Common\\AliasLoader\u003A\u003Aload\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\AliasLoader\u003A\u003Aload\u0028\u0029",
             "name": "load",
             "summary": "Autoloads\u0020aliased\u0020classes.",
-            "url": "classes/Zest-Common-AliasLoader.html#method_load"
+            "url": "classes/alphaz-Common-AliasLoader.html#method_load"
         },                {
-            "fqsen": "\\Zest\\Common\\AliasLoader\u003A\u003A\u0024aliases",
+            "fqsen": "\\alphaz\\Common\\AliasLoader\u003A\u003A\u0024aliases",
             "name": "aliases",
             "summary": "Class\u0020aliases.",
-            "url": "classes/Zest-Common-AliasLoader.html#property_aliases"
+            "url": "classes/alphaz-Common-AliasLoader.html#property_aliases"
         },                {
-            "fqsen": "\\Zest\\Common\\Configuration",
+            "fqsen": "\\alphaz\\Common\\Configuration",
             "name": "Configuration",
             "summary": "",
-            "url": "classes/Zest-Common-Configuration.html"
+            "url": "classes/alphaz-Common-Configuration.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Configuration\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Configuration\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020configuration\u0020repository.",
-            "url": "classes/Zest-Common-Configuration.html#method___construct"
+            "url": "classes/alphaz-Common-Configuration.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Common\\Configuration\u003A\u003Aload\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Configuration\u003A\u003Aload\u0028\u0029",
             "name": "load",
             "summary": "Load\u0020the\u0020configuration\u0020file.",
-            "url": "classes/Zest-Common-Configuration.html#method_load"
+            "url": "classes/alphaz-Common-Configuration.html#method_load"
         },                {
-            "fqsen": "\\Zest\\Common\\Configuration\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Configuration\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Determine\u0020if\u0020the\u0020given\u0020configuration\u0020value\u0020exists.",
-            "url": "classes/Zest-Common-Configuration.html#method_has"
+            "url": "classes/alphaz-Common-Configuration.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Common\\Configuration\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Configuration\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020specified\u0020configuration\u0020value.",
-            "url": "classes/Zest-Common-Configuration.html#method_get"
+            "url": "classes/alphaz-Common-Configuration.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Common\\Configuration\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Configuration\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\u0020a\u0020given\u0020configuration\u0020value.",
-            "url": "classes/Zest-Common-Configuration.html#method_set"
+            "url": "classes/alphaz-Common-Configuration.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Common\\Configuration\u003A\u003Aall\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Configuration\u003A\u003Aall\u0028\u0029",
             "name": "all",
             "summary": "Get\u0020all\u0020of\u0020the\u0020configuration\u0020items\u0020for\u0020the\u0020application.",
-            "url": "classes/Zest-Common-Configuration.html#method_all"
+            "url": "classes/alphaz-Common-Configuration.html#method_all"
         },                {
-            "fqsen": "\\Zest\\Common\\Configuration\u003A\u003A\u0024items",
+            "fqsen": "\\alphaz\\Common\\Configuration\u003A\u003A\u0024items",
             "name": "items",
             "summary": "All\u0020of\u0020the\u0020configuration\u0020items.",
-            "url": "classes/Zest-Common-Configuration.html#property_items"
+            "url": "classes/alphaz-Common-Configuration.html#property_items"
         },                {
-            "fqsen": "\\Zest\\Common\\Env",
+            "fqsen": "\\alphaz\\Common\\Env",
             "name": "Env",
             "summary": "",
-            "url": "classes/Zest-Common-Env.html"
+            "url": "classes/alphaz-Common-Env.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Env\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Env\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020env\u0020configuration\u0020repository.",
-            "url": "classes/Zest-Common-Env.html#method___construct"
+            "url": "classes/alphaz-Common-Env.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Common\\Env\u003A\u003Aload\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Env\u003A\u003Aload\u0028\u0029",
             "name": "load",
             "summary": "Load\u0020the\u0020configuration\u0020file.",
-            "url": "classes/Zest-Common-Env.html#method_load"
+            "url": "classes/alphaz-Common-Env.html#method_load"
         },                {
-            "fqsen": "\\Zest\\Common\\Env\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Env\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020specified\u0020configuration\u0020value.",
-            "url": "classes/Zest-Common-Env.html#method_get"
+            "url": "classes/alphaz-Common-Env.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Common\\Env\u003A\u003Aall\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Env\u003A\u003Aall\u0028\u0029",
             "name": "all",
             "summary": "Get\u0020all\u0020of\u0020the\u0020configuration\u0020items\u0020for\u0020the\u0020application.",
-            "url": "classes/Zest-Common-Env.html#method_all"
+            "url": "classes/alphaz-Common-Env.html#method_all"
         },                {
-            "fqsen": "\\Zest\\Common\\Env\u003A\u003A\u0024items",
+            "fqsen": "\\alphaz\\Common\\Env\u003A\u003A\u0024items",
             "name": "items",
             "summary": "All\u0020of\u0020the\u0020configuration\u0020items.",
-            "url": "classes/Zest-Common-Env.html#property_items"
+            "url": "classes/alphaz-Common-Env.html#property_items"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP",
+            "fqsen": "\\alphaz\\Common\\FTP",
             "name": "FTP",
             "summary": "",
-            "url": "classes/Zest-Common-FTP.html"
+            "url": "classes/alphaz-Common-FTP.html"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Instantiate\u0020the\u0020FTP\u0020object.",
-            "url": "classes/Zest-Common-FTP.html#method___construct"
+            "url": "classes/alphaz-Common-FTP.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003AgetConnection\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003AgetConnection\u0028\u0029",
             "name": "getConnection",
             "summary": "get\u0020the\u0020connection.",
-            "url": "classes/Zest-Common-FTP.html#method_getConnection"
+            "url": "classes/alphaz-Common-FTP.html#method_getConnection"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003AisConnected\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003AisConnected\u0028\u0029",
             "name": "isConnected",
             "summary": "check\u0020whether\u0020the\u0020ftp\u0020is\u0020connected.",
-            "url": "classes/Zest-Common-FTP.html#method_isConnected"
+            "url": "classes/alphaz-Common-FTP.html#method_isConnected"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003AftpFiles\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003AftpFiles\u0028\u0029",
             "name": "ftpFiles",
             "summary": "get\u0020the\u0020list\u0020of\u0020files.",
-            "url": "classes/Zest-Common-FTP.html#method_ftpFiles"
+            "url": "classes/alphaz-Common-FTP.html#method_ftpFiles"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Apwd\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Apwd\u0028\u0029",
             "name": "pwd",
             "summary": "get\u0020the\u0020current\u0020working\u0020directory.",
-            "url": "classes/Zest-Common-FTP.html#method_pwd"
+            "url": "classes/alphaz-Common-FTP.html#method_pwd"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Achdir\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Achdir\u0028\u0029",
             "name": "chdir",
             "summary": "Change\u0020directories.",
-            "url": "classes/Zest-Common-FTP.html#method_chdir"
+            "url": "classes/alphaz-Common-FTP.html#method_chdir"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Amkdir\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Amkdir\u0028\u0029",
             "name": "mkdir",
             "summary": "Make\u0020directory.",
-            "url": "classes/Zest-Common-FTP.html#method_mkdir"
+            "url": "classes/alphaz-Common-FTP.html#method_mkdir"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Amkdirs\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Amkdirs\u0028\u0029",
             "name": "mkdirs",
             "summary": "Make\u0020nested\u0020sub\u002Ddirectories.",
-            "url": "classes/Zest-Common-FTP.html#method_mkdirs"
+            "url": "classes/alphaz-Common-FTP.html#method_mkdirs"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Armdir\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Armdir\u0028\u0029",
             "name": "rmdir",
             "summary": "Remove\u0020directory.",
-            "url": "classes/Zest-Common-FTP.html#method_rmdir"
+            "url": "classes/alphaz-Common-FTP.html#method_rmdir"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003AfileExists\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003AfileExists\u0028\u0029",
             "name": "fileExists",
             "summary": "Check\u0020if\u0020file\u0020exists.",
-            "url": "classes/Zest-Common-FTP.html#method_fileExists"
+            "url": "classes/alphaz-Common-FTP.html#method_fileExists"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003AdirExists\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003AdirExists\u0028\u0029",
             "name": "dirExists",
             "summary": "Check\u0020is\u0020the\u0020dir\u0020is\u0020exists.",
-            "url": "classes/Zest-Common-FTP.html#method_dirExists"
+            "url": "classes/alphaz-Common-FTP.html#method_dirExists"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020file.",
-            "url": "classes/Zest-Common-FTP.html#method_get"
+            "url": "classes/alphaz-Common-FTP.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Arename\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Arename\u0028\u0029",
             "name": "rename",
             "summary": "Rename\u0020file.",
-            "url": "classes/Zest-Common-FTP.html#method_rename"
+            "url": "classes/alphaz-Common-FTP.html#method_rename"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Achmod\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Achmod\u0028\u0029",
             "name": "chmod",
             "summary": "Change\u0020permission.",
-            "url": "classes/Zest-Common-FTP.html#method_chmod"
+            "url": "classes/alphaz-Common-FTP.html#method_chmod"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020the\u0020files.",
-            "url": "classes/Zest-Common-FTP.html#method_delete"
+            "url": "classes/alphaz-Common-FTP.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Apasv\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Apasv\u0028\u0029",
             "name": "pasv",
             "summary": "Switch\u0020the\u0020passive\u0020mod.",
-            "url": "classes/Zest-Common-FTP.html#method_pasv"
+            "url": "classes/alphaz-Common-FTP.html#method_pasv"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Adisconnect\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Adisconnect\u0028\u0029",
             "name": "disconnect",
             "summary": "Close\u0020the\u0020FTP\u0020connection.",
-            "url": "classes/Zest-Common-FTP.html#method_disconnect"
+            "url": "classes/alphaz-Common-FTP.html#method_disconnect"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003Aput\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003Aput\u0028\u0029",
             "name": "put",
             "summary": "Upload\u0020the\u0020files.",
-            "url": "classes/Zest-Common-FTP.html#method_put"
+            "url": "classes/alphaz-Common-FTP.html#method_put"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003A\u0024connection",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003A\u0024connection",
             "name": "connection",
             "summary": "Connection.",
-            "url": "classes/Zest-Common-FTP.html#property_connection"
+            "url": "classes/alphaz-Common-FTP.html#property_connection"
         },                {
-            "fqsen": "\\Zest\\Common\\FTP\u003A\u003A\u0024connectionString",
+            "fqsen": "\\alphaz\\Common\\FTP\u003A\u003A\u0024connectionString",
             "name": "connectionString",
             "summary": "connectionString.",
-            "url": "classes/Zest-Common-FTP.html#property_connectionString"
+            "url": "classes/alphaz-Common-FTP.html#property_connectionString"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\AbstractLogger",
+            "fqsen": "\\alphaz\\Common\\Logger\\AbstractLogger",
             "name": "AbstractLogger",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-AbstractLogger.html"
+            "url": "classes/alphaz-Common-Logger-AbstractLogger.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\AbstractLogger\u003A\u003Aemergency\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\AbstractLogger\u003A\u003Aemergency\u0028\u0029",
             "name": "emergency",
             "summary": "System\u0020is\u0020unusable.",
-            "url": "classes/Zest-Common-Logger-AbstractLogger.html#method_emergency"
+            "url": "classes/alphaz-Common-Logger-AbstractLogger.html#method_emergency"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\AbstractLogger\u003A\u003Aalert\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\AbstractLogger\u003A\u003Aalert\u0028\u0029",
             "name": "alert",
             "summary": "Action\u0020must\u0020be\u0020taken\u0020immediately.",
-            "url": "classes/Zest-Common-Logger-AbstractLogger.html#method_alert"
+            "url": "classes/alphaz-Common-Logger-AbstractLogger.html#method_alert"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\AbstractLogger\u003A\u003Acritical\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\AbstractLogger\u003A\u003Acritical\u0028\u0029",
             "name": "critical",
             "summary": "Critical\u0020conditions.",
-            "url": "classes/Zest-Common-Logger-AbstractLogger.html#method_critical"
+            "url": "classes/alphaz-Common-Logger-AbstractLogger.html#method_critical"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\AbstractLogger\u003A\u003Aerror\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\AbstractLogger\u003A\u003Aerror\u0028\u0029",
             "name": "error",
             "summary": "Runtime\u0020errors\u0020that\u0020do\u0020not\u0020require\u0020immediate\u0020action\u0020but\u0020should\u0020typically.",
-            "url": "classes/Zest-Common-Logger-AbstractLogger.html#method_error"
+            "url": "classes/alphaz-Common-Logger-AbstractLogger.html#method_error"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\AbstractLogger\u003A\u003Awarning\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\AbstractLogger\u003A\u003Awarning\u0028\u0029",
             "name": "warning",
             "summary": "Exceptional\u0020occurrences\u0020that\u0020are\u0020not\u0020errors.",
-            "url": "classes/Zest-Common-Logger-AbstractLogger.html#method_warning"
+            "url": "classes/alphaz-Common-Logger-AbstractLogger.html#method_warning"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\AbstractLogger\u003A\u003Anotice\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\AbstractLogger\u003A\u003Anotice\u0028\u0029",
             "name": "notice",
             "summary": "Normal\u0020but\u0020significant\u0020events.",
-            "url": "classes/Zest-Common-Logger-AbstractLogger.html#method_notice"
+            "url": "classes/alphaz-Common-Logger-AbstractLogger.html#method_notice"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\AbstractLogger\u003A\u003Ainfo\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\AbstractLogger\u003A\u003Ainfo\u0028\u0029",
             "name": "info",
             "summary": "Interesting\u0020events.",
-            "url": "classes/Zest-Common-Logger-AbstractLogger.html#method_info"
+            "url": "classes/alphaz-Common-Logger-AbstractLogger.html#method_info"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\AbstractLogger\u003A\u003Adebug\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\AbstractLogger\u003A\u003Adebug\u0028\u0029",
             "name": "debug",
             "summary": "Detailed\u0020debug\u0020information.",
-            "url": "classes/Zest-Common-Logger-AbstractLogger.html#method_debug"
+            "url": "classes/alphaz-Common-Logger-AbstractLogger.html#method_debug"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger",
             "name": "Logger",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-Logger.html"
+            "url": "classes/alphaz-Common-Logger-Logger.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003A\u0024log",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003A\u0024log",
             "name": "log",
             "summary": "Store\u0020the\u0020logs.",
-            "url": "classes/Zest-Common-Logger-Logger.html#property_log"
+            "url": "classes/alphaz-Common-Logger-Logger.html#property_log"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003Awriter\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003Awriter\u0028\u0029",
             "name": "writer",
             "summary": "Write\u0020the\u0020log\u0020message\u0020in\u0020files.",
-            "url": "classes/Zest-Common-Logger-Logger.html#method_writer"
+            "url": "classes/alphaz-Common-Logger-Logger.html#method_writer"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003AsetCustomFile\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003AsetCustomFile\u0028\u0029",
             "name": "setCustomFile",
             "summary": "Set\u0020the\u0020custom\u0020file.",
-            "url": "classes/Zest-Common-Logger-Logger.html#method_setCustomFile"
+            "url": "classes/alphaz-Common-Logger-Logger.html#method_setCustomFile"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003Astore\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003Astore\u0028\u0029",
             "name": "store",
             "summary": "Store\u0020the\u0020log.",
-            "url": "classes/Zest-Common-Logger-Logger.html#method_store"
+            "url": "classes/alphaz-Common-Logger-Logger.html#method_store"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020log\u0020message.",
-            "url": "classes/Zest-Common-Logger-Logger.html#method_get"
+            "url": "classes/alphaz-Common-Logger-Logger.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003AlogException\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003AlogException\u0028\u0029",
             "name": "logException",
             "summary": "Log\u0020an\u0020Exception.",
-            "url": "classes/Zest-Common-Logger-Logger.html#method_logException"
+            "url": "classes/alphaz-Common-Logger-Logger.html#method_logException"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003Ainterpolate\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003Ainterpolate\u0028\u0029",
             "name": "interpolate",
             "summary": "Interpolate\u0020string\u0020with\u0020parameters.",
-            "url": "classes/Zest-Common-Logger-Logger.html#method_interpolate"
+            "url": "classes/alphaz-Common-Logger-Logger.html#method_interpolate"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003A\u0024levels",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003A\u0024levels",
             "name": "levels",
             "summary": "Array\u0020of\u0020conversion\u0020levels.",
-            "url": "classes/Zest-Common-Logger-Logger.html#property_levels"
+            "url": "classes/alphaz-Common-Logger-Logger.html#property_levels"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003A\u0024s_levels",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003A\u0024s_levels",
             "name": "s_levels",
             "summary": "Array\u0020of\u0020conversion\u0020levels\u0020in\u0020reverse\u0020order.",
-            "url": "classes/Zest-Common-Logger-Logger.html#property_s_levels"
+            "url": "classes/alphaz-Common-Logger-Logger.html#property_s_levels"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\Logger\u003A\u003A\u0024file",
+            "fqsen": "\\alphaz\\Common\\Logger\\Logger\u003A\u003A\u0024file",
             "name": "file",
             "summary": "Store\u0020the\u0020logs.",
-            "url": "classes/Zest-Common-Logger-Logger.html#property_file"
+            "url": "classes/alphaz-Common-Logger-Logger.html#property_file"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\LogLevel",
+            "fqsen": "\\alphaz\\Common\\Logger\\LogLevel",
             "name": "LogLevel",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-LogLevel.html"
+            "url": "classes/alphaz-Common-Logger-LogLevel.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\LogLevel\u003A\u003AEMERGENCY",
+            "fqsen": "\\alphaz\\Common\\Logger\\LogLevel\u003A\u003AEMERGENCY",
             "name": "EMERGENCY",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-LogLevel.html#constant_EMERGENCY"
+            "url": "classes/alphaz-Common-Logger-LogLevel.html#constant_EMERGENCY"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\LogLevel\u003A\u003AALERT",
+            "fqsen": "\\alphaz\\Common\\Logger\\LogLevel\u003A\u003AALERT",
             "name": "ALERT",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-LogLevel.html#constant_ALERT"
+            "url": "classes/alphaz-Common-Logger-LogLevel.html#constant_ALERT"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\LogLevel\u003A\u003ACRITICAL",
+            "fqsen": "\\alphaz\\Common\\Logger\\LogLevel\u003A\u003ACRITICAL",
             "name": "CRITICAL",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-LogLevel.html#constant_CRITICAL"
+            "url": "classes/alphaz-Common-Logger-LogLevel.html#constant_CRITICAL"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\LogLevel\u003A\u003AERROR",
+            "fqsen": "\\alphaz\\Common\\Logger\\LogLevel\u003A\u003AERROR",
             "name": "ERROR",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-LogLevel.html#constant_ERROR"
+            "url": "classes/alphaz-Common-Logger-LogLevel.html#constant_ERROR"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\LogLevel\u003A\u003AWARNING",
+            "fqsen": "\\alphaz\\Common\\Logger\\LogLevel\u003A\u003AWARNING",
             "name": "WARNING",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-LogLevel.html#constant_WARNING"
+            "url": "classes/alphaz-Common-Logger-LogLevel.html#constant_WARNING"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\LogLevel\u003A\u003ANOTICE",
+            "fqsen": "\\alphaz\\Common\\Logger\\LogLevel\u003A\u003ANOTICE",
             "name": "NOTICE",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-LogLevel.html#constant_NOTICE"
+            "url": "classes/alphaz-Common-Logger-LogLevel.html#constant_NOTICE"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\LogLevel\u003A\u003AINFO",
+            "fqsen": "\\alphaz\\Common\\Logger\\LogLevel\u003A\u003AINFO",
             "name": "INFO",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-LogLevel.html#constant_INFO"
+            "url": "classes/alphaz-Common-Logger-LogLevel.html#constant_INFO"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger\\LogLevel\u003A\u003ADEBUG",
+            "fqsen": "\\alphaz\\Common\\Logger\\LogLevel\u003A\u003ADEBUG",
             "name": "DEBUG",
             "summary": "",
-            "url": "classes/Zest-Common-Logger-LogLevel.html#constant_DEBUG"
+            "url": "classes/alphaz-Common-Logger-LogLevel.html#constant_DEBUG"
         },                {
-            "fqsen": "\\Zest\\Common\\Maintenance",
+            "fqsen": "\\alphaz\\Common\\Maintenance",
             "name": "Maintenance",
             "summary": "",
-            "url": "classes/Zest-Common-Maintenance.html"
+            "url": "classes/alphaz-Common-Maintenance.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Maintenance\u003A\u003AisMaintain\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Maintenance\u003A\u003AisMaintain\u0028\u0029",
             "name": "isMaintain",
             "summary": "Check\u0020is\u0020the\u0020site\u0020maintaince\u0020mode\u0020is\u0020enable.",
-            "url": "classes/Zest-Common-Maintenance.html#method_isMaintain"
+            "url": "classes/alphaz-Common-Maintenance.html#method_isMaintain"
         },                {
-            "fqsen": "\\Zest\\Common\\Maintenance\u003A\u003AupdataMaintenance\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Maintenance\u003A\u003AupdataMaintenance\u0028\u0029",
             "name": "updataMaintenance",
             "summary": "Upgrade\u0020the\u0020maintaince\u0020mode\u0020dynamically.",
-            "url": "classes/Zest-Common-Maintenance.html#method_updataMaintenance"
+            "url": "classes/alphaz-Common-Maintenance.html#method_updataMaintenance"
         },                {
-            "fqsen": "\\Zest\\Common\\Maintenance\u003A\u003Arun\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Maintenance\u003A\u003Arun\u0028\u0029",
             "name": "run",
             "summary": "Run\u0020the\u0020site\u0020maintaince\u0020mode\u0020if\u0020enable.",
-            "url": "classes/Zest-Common-Maintenance.html#method_run"
+            "url": "classes/alphaz-Common-Maintenance.html#method_run"
         },                {
-            "fqsen": "\\Zest\\Common\\Minify",
+            "fqsen": "\\alphaz\\Common\\Minify",
             "name": "Minify",
             "summary": "",
-            "url": "classes/Zest-Common-Minify.html"
+            "url": "classes/alphaz-Common-Minify.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Minify\u003A\u003AgetFile\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Minify\u003A\u003AgetFile\u0028\u0029",
             "name": "getFile",
             "summary": "Fetch\u0020the\u0020content\u0020of\u0020file.",
-            "url": "classes/Zest-Common-Minify.html#method_getFile"
+            "url": "classes/alphaz-Common-Minify.html#method_getFile"
         },                {
-            "fqsen": "\\Zest\\Common\\Minify\u003A\u003AcleanSpaces\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Minify\u003A\u003AcleanSpaces\u0028\u0029",
             "name": "cleanSpaces",
             "summary": "Remove\u0020White\u0020spaces,tabs,new\u0020lines\u0020etc.",
-            "url": "classes/Zest-Common-Minify.html#method_cleanSpaces"
+            "url": "classes/alphaz-Common-Minify.html#method_cleanSpaces"
         },                {
-            "fqsen": "\\Zest\\Common\\Minify\u003A\u003AremoveComments\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Minify\u003A\u003AremoveComments\u0028\u0029",
             "name": "removeComments",
             "summary": "Remove\u0020comments.",
-            "url": "classes/Zest-Common-Minify.html#method_removeComments"
+            "url": "classes/alphaz-Common-Minify.html#method_removeComments"
         },                {
-            "fqsen": "\\Zest\\Common\\Minify\u003A\u003AfixMaster\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Minify\u003A\u003AfixMaster\u0028\u0029",
             "name": "fixMaster",
             "summary": "Add\u0020single\u0020space\u0020after\u0020\u003C\u003Fphp.",
-            "url": "classes/Zest-Common-Minify.html#method_fixMaster"
+            "url": "classes/alphaz-Common-Minify.html#method_fixMaster"
         },                {
-            "fqsen": "\\Zest\\Common\\Minify\u003A\u003AhtmlMinify\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Minify\u003A\u003AhtmlMinify\u0028\u0029",
             "name": "htmlMinify",
             "summary": "Minify\u0020html.",
-            "url": "classes/Zest-Common-Minify.html#method_htmlMinify"
+            "url": "classes/alphaz-Common-Minify.html#method_htmlMinify"
         },                {
-            "fqsen": "\\Zest\\Common\\Minify\u003A\u003AcssMinify\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Minify\u003A\u003AcssMinify\u0028\u0029",
             "name": "cssMinify",
             "summary": "Minify\u0020CSS.",
-            "url": "classes/Zest-Common-Minify.html#method_cssMinify"
+            "url": "classes/alphaz-Common-Minify.html#method_cssMinify"
         },                {
-            "fqsen": "\\Zest\\Common\\Minify\u003A\u003AjavascriptMinify\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Minify\u003A\u003AjavascriptMinify\u0028\u0029",
             "name": "javascriptMinify",
             "summary": "Minify\u0020Js.",
-            "url": "classes/Zest-Common-Minify.html#method_javascriptMinify"
+            "url": "classes/alphaz-Common-Minify.html#method_javascriptMinify"
         },                {
-            "fqsen": "\\Zest\\Common\\Model\\Model",
+            "fqsen": "\\alphaz\\Common\\Model\\Model",
             "name": "Model",
             "summary": "",
-            "url": "classes/Zest-Common-Model-Model.html"
+            "url": "classes/alphaz-Common-Model-Model.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Model\\Model\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Model\\Model\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\u0020the\u0020model.",
-            "url": "classes/Zest-Common-Model-Model.html#method_set"
+            "url": "classes/alphaz-Common-Model-Model.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Common\\Model\\Model\u003A\u003Aexecute\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Model\\Model\u003A\u003Aexecute\u0028\u0029",
             "name": "execute",
             "summary": "Get\u0020the\u0020instance\u0020of\u0020model\u0020class.",
-            "url": "classes/Zest-Common-Model-Model.html#method_execute"
+            "url": "classes/alphaz-Common-Model-Model.html#method_execute"
         },                {
-            "fqsen": "\\Zest\\Common\\Model\\Model\u003A\u003A\u0024model",
+            "fqsen": "\\alphaz\\Common\\Model\\Model\u003A\u003A\u0024model",
             "name": "model",
             "summary": "Model.",
-            "url": "classes/Zest-Common-Model-Model.html#property_model"
+            "url": "classes/alphaz-Common-Model-Model.html#property_model"
         },                {
-            "fqsen": "\\Zest\\Common\\OperatingSystem",
+            "fqsen": "\\alphaz\\Common\\OperatingSystem",
             "name": "OperatingSystem",
             "summary": "",
-            "url": "classes/Zest-Common-OperatingSystem.html"
+            "url": "classes/alphaz-Common-OperatingSystem.html"
         },                {
-            "fqsen": "\\Zest\\Common\\OperatingSystem\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\OperatingSystem\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020operating\u0020system\u0020name.",
-            "url": "classes/Zest-Common-OperatingSystem.html#method_get"
+            "url": "classes/alphaz-Common-OperatingSystem.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Common\\OperatingSystem\u003A\u003AphpOs\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\OperatingSystem\u003A\u003AphpOs\u0028\u0029",
             "name": "phpOs",
             "summary": "Get\u0020the\u0020operating\u0020system\u0020name.",
-            "url": "classes/Zest-Common-OperatingSystem.html#method_phpOs"
+            "url": "classes/alphaz-Common-OperatingSystem.html#method_phpOs"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination",
+            "fqsen": "\\alphaz\\Common\\Pagination",
             "name": "Pagination",
             "summary": "",
-            "url": "classes/Zest-Common-Pagination.html"
+            "url": "classes/alphaz-Common-Pagination.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Common-Pagination.html#method___construct"
+            "url": "classes/alphaz-Common-Pagination.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003AsetUrlAppend\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003AsetUrlAppend\u0028\u0029",
             "name": "setUrlAppend",
             "summary": "Append\u0020the\u0020url.",
-            "url": "classes/Zest-Common-Pagination.html#method_setUrlAppend"
+            "url": "classes/alphaz-Common-Pagination.html#method_setUrlAppend"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003AsetCurrentPage\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003AsetCurrentPage\u0028\u0029",
             "name": "setCurrentPage",
             "summary": "Set\u0020the\u0020current\u0020page.",
-            "url": "classes/Zest-Common-Pagination.html#method_setCurrentPage"
+            "url": "classes/alphaz-Common-Pagination.html#method_setCurrentPage"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003AsetBaseUrl\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003AsetBaseUrl\u0028\u0029",
             "name": "setBaseUrl",
             "summary": "Set\u0020the\u0020base\u0020url.",
-            "url": "classes/Zest-Common-Pagination.html#method_setBaseUrl"
+            "url": "classes/alphaz-Common-Pagination.html#method_setBaseUrl"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003AsetItmPerPage\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003AsetItmPerPage\u0028\u0029",
             "name": "setItmPerPage",
             "summary": "Set\u0020the\u0020per\u0020page\u0020item.",
-            "url": "classes/Zest-Common-Pagination.html#method_setItmPerPage"
+            "url": "classes/alphaz-Common-Pagination.html#method_setItmPerPage"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003AsetTotalItems\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003AsetTotalItems\u0028\u0029",
             "name": "setTotalItems",
             "summary": "Set\u0020the\u0020total\u0020items.",
-            "url": "classes/Zest-Common-Pagination.html#method_setTotalItems"
+            "url": "classes/alphaz-Common-Pagination.html#method_setTotalItems"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003AgenerateLink\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003AgenerateLink\u0028\u0029",
             "name": "generateLink",
             "summary": "Generate\u0020pagination\u0020link.",
-            "url": "classes/Zest-Common-Pagination.html#method_generateLink"
+            "url": "classes/alphaz-Common-Pagination.html#method_generateLink"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003Apagination\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003Apagination\u0028\u0029",
             "name": "pagination",
             "summary": "Generate\u0020the\u0020pagination.",
-            "url": "classes/Zest-Common-Pagination.html#method_pagination"
+            "url": "classes/alphaz-Common-Pagination.html#method_pagination"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A__toString\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A__toString\u0028\u0029",
             "name": "__toString",
             "summary": "__Tostring.",
-            "url": "classes/Zest-Common-Pagination.html#method___toString"
+            "url": "classes/alphaz-Common-Pagination.html#method___toString"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A\u0024totalItems",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A\u0024totalItems",
             "name": "totalItems",
             "summary": "Total\u0020items.",
-            "url": "classes/Zest-Common-Pagination.html#property_totalItems"
+            "url": "classes/alphaz-Common-Pagination.html#property_totalItems"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A\u0024itemPerPage",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A\u0024itemPerPage",
             "name": "itemPerPage",
             "summary": "Item\u0020per\u0020page.",
-            "url": "classes/Zest-Common-Pagination.html#property_itemPerPage"
+            "url": "classes/alphaz-Common-Pagination.html#property_itemPerPage"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A\u0024current",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A\u0024current",
             "name": "current",
             "summary": "Current\u0020page.",
-            "url": "classes/Zest-Common-Pagination.html#property_current"
+            "url": "classes/alphaz-Common-Pagination.html#property_current"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A\u0024baseUrl",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A\u0024baseUrl",
             "name": "baseUrl",
             "summary": "Site\u0020base\u0020url.",
-            "url": "classes/Zest-Common-Pagination.html#property_baseUrl"
+            "url": "classes/alphaz-Common-Pagination.html#property_baseUrl"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A\u0024urlAppend",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A\u0024urlAppend",
             "name": "urlAppend",
             "summary": "Url\u0020append.",
-            "url": "classes/Zest-Common-Pagination.html#property_urlAppend"
+            "url": "classes/alphaz-Common-Pagination.html#property_urlAppend"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A\u0024ulCLass",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A\u0024ulCLass",
             "name": "ulCLass",
             "summary": "ul\u0020tag\u0020class.",
-            "url": "classes/Zest-Common-Pagination.html#property_ulCLass"
+            "url": "classes/alphaz-Common-Pagination.html#property_ulCLass"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A\u0024liClass",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A\u0024liClass",
             "name": "liClass",
             "summary": "li\u0020tag\u0020class.",
-            "url": "classes/Zest-Common-Pagination.html#property_liClass"
+            "url": "classes/alphaz-Common-Pagination.html#property_liClass"
         },                {
-            "fqsen": "\\Zest\\Common\\Pagination\u003A\u003A\u0024aClass",
+            "fqsen": "\\alphaz\\Common\\Pagination\u003A\u003A\u0024aClass",
             "name": "aClass",
             "summary": "a\u0020tag\u0020class.",
-            "url": "classes/Zest-Common-Pagination.html#property_aClass"
+            "url": "classes/alphaz-Common-Pagination.html#property_aClass"
         },                {
-            "fqsen": "\\Zest\\Common\\PasswordManipulation",
+            "fqsen": "\\alphaz\\Common\\PasswordManipulation",
             "name": "PasswordManipulation",
             "summary": "",
-            "url": "classes/Zest-Common-PasswordManipulation.html"
+            "url": "classes/alphaz-Common-PasswordManipulation.html"
         },                {
-            "fqsen": "\\Zest\\Common\\PasswordManipulation\u003A\u003AsetLength\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\PasswordManipulation\u003A\u003AsetLength\u0028\u0029",
             "name": "setLength",
             "summary": "Set\u0020the\u0020password\u0020default\u0020length.",
-            "url": "classes/Zest-Common-PasswordManipulation.html#method_setLength"
+            "url": "classes/alphaz-Common-PasswordManipulation.html#method_setLength"
         },                {
-            "fqsen": "\\Zest\\Common\\PasswordManipulation\u003A\u003AgetLength\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\PasswordManipulation\u003A\u003AgetLength\u0028\u0029",
             "name": "getLength",
             "summary": "Get\u0020the\u0020password\u0020default\u0020length.",
-            "url": "classes/Zest-Common-PasswordManipulation.html#method_getLength"
+            "url": "classes/alphaz-Common-PasswordManipulation.html#method_getLength"
         },                {
-            "fqsen": "\\Zest\\Common\\PasswordManipulation\u003A\u003AgeneratePassword\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\PasswordManipulation\u003A\u003AgeneratePassword\u0028\u0029",
             "name": "generatePassword",
             "summary": "Generate\u0020the\u0020password.",
-            "url": "classes/Zest-Common-PasswordManipulation.html#method_generatePassword"
+            "url": "classes/alphaz-Common-PasswordManipulation.html#method_generatePassword"
         },                {
-            "fqsen": "\\Zest\\Common\\PasswordManipulation\u003A\u003AisValid\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\PasswordManipulation\u003A\u003AisValid\u0028\u0029",
             "name": "isValid",
             "summary": "Validate\u0020the\u0020password.",
-            "url": "classes/Zest-Common-PasswordManipulation.html#method_isValid"
+            "url": "classes/alphaz-Common-PasswordManipulation.html#method_isValid"
         },                {
-            "fqsen": "\\Zest\\Common\\PasswordManipulation\u003A\u003AisN\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\PasswordManipulation\u003A\u003AisN\u0028\u0029",
             "name": "isN",
             "summary": "Check\u0020is\u0020the\u0020integer\u0020included\u0020in\u0020password.",
-            "url": "classes/Zest-Common-PasswordManipulation.html#method_isN"
+            "url": "classes/alphaz-Common-PasswordManipulation.html#method_isN"
         },                {
-            "fqsen": "\\Zest\\Common\\PasswordManipulation\u003A\u003AisS\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\PasswordManipulation\u003A\u003AisS\u0028\u0029",
             "name": "isS",
             "summary": "Check\u0020is\u0020special\u0020character\u0020is\u0020in\u0020password.",
-            "url": "classes/Zest-Common-PasswordManipulation.html#method_isS"
+            "url": "classes/alphaz-Common-PasswordManipulation.html#method_isS"
         },                {
-            "fqsen": "\\Zest\\Common\\PasswordManipulation\u003A\u003Alen\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\PasswordManipulation\u003A\u003Alen\u0028\u0029",
             "name": "len",
             "summary": "Get\u0020password\u0020length.",
-            "url": "classes/Zest-Common-PasswordManipulation.html#method_len"
+            "url": "classes/alphaz-Common-PasswordManipulation.html#method_len"
         },                {
-            "fqsen": "\\Zest\\Common\\PasswordManipulation\u003A\u003A\u0024password_len",
+            "fqsen": "\\alphaz\\Common\\PasswordManipulation\u003A\u003A\u0024password_len",
             "name": "password_len",
             "summary": "Store\u0020password\u0020default\u0020length.",
-            "url": "classes/Zest-Common-PasswordManipulation.html#property_password_len"
+            "url": "classes/alphaz-Common-PasswordManipulation.html#property_password_len"
         },                {
-            "fqsen": "\\Zest\\Common\\Root",
+            "fqsen": "\\alphaz\\Common\\Root",
             "name": "Root",
             "summary": "",
-            "url": "classes/Zest-Common-Root.html"
+            "url": "classes/alphaz-Common-Root.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Root\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Root\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020Roots\/Paths\u0020repository.",
-            "url": "classes/Zest-Common-Root.html#method___construct"
+            "url": "classes/alphaz-Common-Root.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Common\\Root\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Root\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020specified\u0020path\u0020value.",
-            "url": "classes/Zest-Common-Root.html#method_get"
+            "url": "classes/alphaz-Common-Root.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Common\\Root\u003A\u003Aroot\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Root\u003A\u003Aroot\u0028\u0029",
             "name": "root",
             "summary": "Return\u0020the\u0020root\u0020path\u0020of\u0020app.",
-            "url": "classes/Zest-Common-Root.html#method_root"
+            "url": "classes/alphaz-Common-Root.html#method_root"
         },                {
-            "fqsen": "\\Zest\\Common\\Root\u003A\u003Apaths\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Root\u003A\u003Apaths\u0028\u0029",
             "name": "paths",
             "summary": "Get\u0020the\u0020path.",
-            "url": "classes/Zest-Common-Root.html#method_paths"
+            "url": "classes/alphaz-Common-Root.html#method_paths"
         },                {
-            "fqsen": "\\Zest\\Common\\Root\u003A\u003A\u0024items",
+            "fqsen": "\\alphaz\\Common\\Root\u003A\u003A\u0024items",
             "name": "items",
             "summary": "All\u0020of\u0020the\u0020configuration\u0020items.",
-            "url": "classes/Zest-Common-Root.html#property_items"
+            "url": "classes/alphaz-Common-Root.html#property_items"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\AbstractSitemap",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\AbstractSitemap",
             "name": "AbstractSitemap",
             "summary": "",
-            "url": "classes/Zest-Common-Sitemap-AbstractSitemap.html"
+            "url": "classes/alphaz-Common-Sitemap-AbstractSitemap.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\AbstractSitemap\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\AbstractSitemap\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Determine\u0020whether\u0020the\u0020sitemap\u0020exists.",
-            "url": "classes/Zest-Common-Sitemap-AbstractSitemap.html#method_has"
+            "url": "classes/alphaz-Common-Sitemap-AbstractSitemap.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\AbstractSitemap\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\AbstractSitemap\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020the\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-AbstractSitemap.html#method_delete"
+            "url": "classes/alphaz-Common-Sitemap-AbstractSitemap.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\AbstractSitemap\u003A\u003A\u0024lastMod",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\AbstractSitemap\u003A\u003A\u0024lastMod",
             "name": "lastMod",
             "summary": "Last\u0020modify.",
-            "url": "classes/Zest-Common-Sitemap-AbstractSitemap.html#property_lastMod"
+            "url": "classes/alphaz-Common-Sitemap-AbstractSitemap.html#property_lastMod"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\AbstractSitemap\u003A\u003A\u0024file",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\AbstractSitemap\u003A\u003A\u0024file",
             "name": "file",
             "summary": "Sitemap\u0020file.",
-            "url": "classes/Zest-Common-Sitemap-AbstractSitemap.html#property_file"
+            "url": "classes/alphaz-Common-Sitemap-AbstractSitemap.html#property_file"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\AbstractSitemap\u003A\u003A\u0024ext",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\AbstractSitemap\u003A\u003A\u0024ext",
             "name": "ext",
             "summary": "Extension.",
-            "url": "classes/Zest-Common-Sitemap-AbstractSitemap.html#property_ext"
+            "url": "classes/alphaz-Common-Sitemap-AbstractSitemap.html#property_ext"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap",
             "name": "Sitemap",
             "summary": "",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#method___construct"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003Acreate\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003Acreate\u0028\u0029",
             "name": "create",
             "summary": "Create\u0020the\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#method_create"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#method_create"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003AaddItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003AaddItem\u0028\u0029",
             "name": "addItem",
             "summary": "Add\u0020item\u0020to\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#method_addItem"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#method_addItem"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003AappendItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003AappendItem\u0028\u0029",
             "name": "appendItem",
             "summary": "Append\u0020item\u0020to\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#method_appendItem"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#method_appendItem"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003ASTART",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003ASTART",
             "name": "START",
             "summary": "Start\u0020of\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#constant_START"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#constant_START"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003AEND",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003AEND",
             "name": "END",
             "summary": "End\u0020of\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#constant_END"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#constant_END"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003A\u0024validFrequencies",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003A\u0024validFrequencies",
             "name": "validFrequencies",
             "summary": "Priority.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#property_validFrequencies"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#property_validFrequencies"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003A\u0024priority",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003A\u0024priority",
             "name": "priority",
             "summary": "Priority.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#property_priority"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#property_priority"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003A\u0024changeFreq",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003A\u0024changeFreq",
             "name": "changeFreq",
             "summary": "Change\u0020frequency.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#property_changeFreq"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#property_changeFreq"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\Sitemap\u003A\u003A\u0024raw",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\Sitemap\u003A\u003A\u0024raw",
             "name": "raw",
             "summary": "XML\u0020structure.",
-            "url": "classes/Zest-Common-Sitemap-Sitemap.html#property_raw"
+            "url": "classes/alphaz-Common-Sitemap-Sitemap.html#property_raw"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapIndex",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapIndex",
             "name": "SitemapIndex",
             "summary": "",
-            "url": "classes/Zest-Common-Sitemap-SitemapIndex.html"
+            "url": "classes/alphaz-Common-Sitemap-SitemapIndex.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapIndex\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapIndex\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Common-Sitemap-SitemapIndex.html#method___construct"
+            "url": "classes/alphaz-Common-Sitemap-SitemapIndex.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapIndex\u003A\u003Acreate\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapIndex\u003A\u003Acreate\u0028\u0029",
             "name": "create",
             "summary": "Create\u0020the\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-SitemapIndex.html#method_create"
+            "url": "classes/alphaz-Common-Sitemap-SitemapIndex.html#method_create"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapIndex\u003A\u003AaddItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapIndex\u003A\u003AaddItem\u0028\u0029",
             "name": "addItem",
             "summary": "Add\u0020item\u0020to\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-SitemapIndex.html#method_addItem"
+            "url": "classes/alphaz-Common-Sitemap-SitemapIndex.html#method_addItem"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapIndex\u003A\u003AappendItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapIndex\u003A\u003AappendItem\u0028\u0029",
             "name": "appendItem",
             "summary": "Append\u0020item\u0020to\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-SitemapIndex.html#method_appendItem"
+            "url": "classes/alphaz-Common-Sitemap-SitemapIndex.html#method_appendItem"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapIndex\u003A\u003ASTART",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapIndex\u003A\u003ASTART",
             "name": "START",
             "summary": "Start\u0020of\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-SitemapIndex.html#constant_START"
+            "url": "classes/alphaz-Common-Sitemap-SitemapIndex.html#constant_START"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapIndex\u003A\u003AEND",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapIndex\u003A\u003AEND",
             "name": "END",
             "summary": "End\u0020of\u0020sitemap.",
-            "url": "classes/Zest-Common-Sitemap-SitemapIndex.html#constant_END"
+            "url": "classes/alphaz-Common-Sitemap-SitemapIndex.html#constant_END"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapIndex\u003A\u003A\u0024raw",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapIndex\u003A\u003A\u0024raw",
             "name": "raw",
             "summary": "XML\u0020structure.",
-            "url": "classes/Zest-Common-Sitemap-SitemapIndex.html#property_raw"
+            "url": "classes/alphaz-Common-Sitemap-SitemapIndex.html#property_raw"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapWriter",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapWriter",
             "name": "SitemapWriter",
             "summary": "",
-            "url": "classes/Zest-Common-Sitemap-SitemapWriter.html"
+            "url": "classes/alphaz-Common-Sitemap-SitemapWriter.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapWriter\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapWriter\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Common-Sitemap-SitemapWriter.html#method___construct"
+            "url": "classes/alphaz-Common-Sitemap-SitemapWriter.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapWriter\u003A\u003Awrite\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapWriter\u003A\u003Awrite\u0028\u0029",
             "name": "write",
             "summary": "Write\u0020on\u0020sitemap\u0020file.",
-            "url": "classes/Zest-Common-Sitemap-SitemapWriter.html#method_write"
+            "url": "classes/alphaz-Common-Sitemap-SitemapWriter.html#method_write"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapWriter\u003A\u003Aread\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapWriter\u003A\u003Aread\u0028\u0029",
             "name": "read",
             "summary": "Read\u0020the\u0020sitemap\u0020file.",
-            "url": "classes/Zest-Common-Sitemap-SitemapWriter.html#method_read"
+            "url": "classes/alphaz-Common-Sitemap-SitemapWriter.html#method_read"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapWriter\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapWriter\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020the\u0020sitemap\u0020file.",
-            "url": "classes/Zest-Common-Sitemap-SitemapWriter.html#method_close"
+            "url": "classes/alphaz-Common-Sitemap-SitemapWriter.html#method_close"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap\\SitemapWriter\u003A\u003A\u0024file",
+            "fqsen": "\\alphaz\\Common\\Sitemap\\SitemapWriter\u003A\u003A\u0024file",
             "name": "file",
             "summary": "resource.",
-            "url": "classes/Zest-Common-Sitemap-SitemapWriter.html#property_file"
+            "url": "classes/alphaz-Common-Sitemap-SitemapWriter.html#property_file"
         },                {
-            "fqsen": "\\Zest\\Common\\TimeZone",
+            "fqsen": "\\alphaz\\Common\\TimeZone",
             "name": "TimeZone",
             "summary": "",
-            "url": "classes/Zest-Common-TimeZone.html"
+            "url": "classes/alphaz-Common-TimeZone.html"
         },                {
-            "fqsen": "\\Zest\\Common\\TimeZone\u003A\u003AseteDefaultTz\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\TimeZone\u003A\u003AseteDefaultTz\u0028\u0029",
             "name": "seteDefaultTz",
             "summary": "Set\u0020Default\u0020timeZone.",
-            "url": "classes/Zest-Common-TimeZone.html#method_seteDefaultTz"
+            "url": "classes/alphaz-Common-TimeZone.html#method_seteDefaultTz"
         },                {
-            "fqsen": "\\Zest\\Common\\TimeZone\u003A\u003AtZIdentifiers\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\TimeZone\u003A\u003AtZIdentifiers\u0028\u0029",
             "name": "tZIdentifiers",
             "summary": "Get\u0020the\u0020valid\u0020timeZone\u0020identifiers.",
-            "url": "classes/Zest-Common-TimeZone.html#method_tZIdentifiers"
+            "url": "classes/alphaz-Common-TimeZone.html#method_tZIdentifiers"
         },                {
-            "fqsen": "\\Zest\\Common\\TimeZone\u003A\u003Avalidate\u0028\u0029",
+            "fqsen": "\\alphaz\\Common\\TimeZone\u003A\u003Avalidate\u0028\u0029",
             "name": "validate",
             "summary": "Validate\u0020timeZone.",
-            "url": "classes/Zest-Common-TimeZone.html#method_validate"
+            "url": "classes/alphaz-Common-TimeZone.html#method_validate"
         },                {
-            "fqsen": "\\Zest\\Common\\Version",
+            "fqsen": "\\alphaz\\Common\\Version",
             "name": "Version",
             "summary": "",
-            "url": "classes/Zest-Common-Version.html"
+            "url": "classes/alphaz-Common-Version.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Version\u003A\u003AVERSION",
+            "fqsen": "\\alphaz\\Common\\Version\u003A\u003AVERSION",
             "name": "VERSION",
             "summary": "",
-            "url": "classes/Zest-Common-Version.html#constant_VERSION"
+            "url": "classes/alphaz-Common-Version.html#constant_VERSION"
         },                {
-            "fqsen": "\\Zest\\Component\\Component",
+            "fqsen": "\\alphaz\\Component\\Component",
             "name": "Component",
             "summary": "",
-            "url": "classes/Zest-Component-Component.html"
+            "url": "classes/alphaz-Component-Component.html"
         },                {
-            "fqsen": "\\Zest\\Component\\Component\u003A\u003Adispatch\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Component\u003A\u003Adispatch\u0028\u0029",
             "name": "dispatch",
             "summary": "Dispatch\u0020the\u0020route,\u0020creating\u0020the\u0020controller\u0020object\u0020and\u0020running\u0020the\naction\u0020method.",
-            "url": "classes/Zest-Component-Component.html#method_dispatch"
+            "url": "classes/alphaz-Component-Component.html#method_dispatch"
         },                {
-            "fqsen": "\\Zest\\Component\\Components",
+            "fqsen": "\\alphaz\\Component\\Components",
             "name": "Components",
             "summary": "",
-            "url": "classes/Zest-Component-Components.html"
+            "url": "classes/alphaz-Component-Components.html"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003AgetAll\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003AgetAll\u0028\u0029",
             "name": "getAll",
             "summary": "Get\u0020all\u0020components\u0020name.",
-            "url": "classes/Zest-Component-Components.html#method_getAll"
+            "url": "classes/alphaz-Component-Components.html#method_getAll"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020component\u0020and\u0020uninstall\u0020by\u0020name.",
-            "url": "classes/Zest-Component-Components.html#method_delete"
+            "url": "classes/alphaz-Component-Components.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003Aremove\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003Aremove\u0028\u0029",
             "name": "remove",
             "summary": "Remove\u0020component\u0020by\u0020name.",
-            "url": "classes/Zest-Component-Components.html#method_remove"
+            "url": "classes/alphaz-Component-Components.html#method_remove"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003Ainstall\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003Ainstall\u0028\u0029",
             "name": "install",
             "summary": "Install\u0020the\u0020component.",
-            "url": "classes/Zest-Component-Components.html#method_install"
+            "url": "classes/alphaz-Component-Components.html#method_install"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003Auninstall\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003Auninstall\u0028\u0029",
             "name": "uninstall",
             "summary": "Uninstall\u0020the\u0020component.",
-            "url": "classes/Zest-Component-Components.html#method_uninstall"
+            "url": "classes/alphaz-Component-Components.html#method_uninstall"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003AenableOrDisable\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003AenableOrDisable\u0028\u0029",
             "name": "enableOrDisable",
             "summary": "Activate\u0020or\u0020Disable\u0020component.",
-            "url": "classes/Zest-Component-Components.html#method_enableOrDisable"
+            "url": "classes/alphaz-Component-Components.html#method_enableOrDisable"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003Aenable\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003Aenable\u0028\u0029",
             "name": "enable",
             "summary": "Activate\u0020the\u0020component.",
-            "url": "classes/Zest-Component-Components.html#method_enable"
+            "url": "classes/alphaz-Component-Components.html#method_enable"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003Adisable\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003Adisable\u0028\u0029",
             "name": "disable",
             "summary": "Disable\u0020the\u0020component.",
-            "url": "classes/Zest-Component-Components.html#method_disable"
+            "url": "classes/alphaz-Component-Components.html#method_disable"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003AgetConponentConfigByName\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003AgetConponentConfigByName\u0028\u0029",
             "name": "getConponentConfigByName",
             "summary": "Get\u0020the\u0020component\u0020json\u0020file\u0020configuration.",
-            "url": "classes/Zest-Component-Components.html#method_getConponentConfigByName"
+            "url": "classes/alphaz-Component-Components.html#method_getConponentConfigByName"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003AisSupported\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003AisSupported\u0028\u0029",
             "name": "isSupported",
-            "summary": "Determine\u0020whether\u0020the\u0020component\u0020is\u0020supported\u0020with\u0020current\u0020version\u0020of\u0020Zest.",
-            "url": "classes/Zest-Component-Components.html#method_isSupported"
+            "summary": "Determine\u0020whether\u0020the\u0020component\u0020is\u0020supported\u0020with\u0020current\u0020version\u0020of\u0020alphaz.",
+            "url": "classes/alphaz-Component-Components.html#method_isSupported"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003AmoveToTrash\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003AmoveToTrash\u0028\u0029",
             "name": "moveToTrash",
             "summary": "Move\u0020to\u0020trash\u0020component\u0020by\u0020name.",
-            "url": "classes/Zest-Component-Components.html#method_moveToTrash"
+            "url": "classes/alphaz-Component-Components.html#method_moveToTrash"
         },                {
-            "fqsen": "\\Zest\\Component\\Components\u003A\u003ArestoreFromTrash\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Components\u003A\u003ArestoreFromTrash\u0028\u0029",
             "name": "restoreFromTrash",
             "summary": "Restore\u0020from\u0020trash\u0020component\u0020by\u0020name.",
-            "url": "classes/Zest-Component-Components.html#method_restoreFromTrash"
+            "url": "classes/alphaz-Component-Components.html#method_restoreFromTrash"
         },                {
-            "fqsen": "\\Zest\\Component\\Router",
+            "fqsen": "\\alphaz\\Component\\Router",
             "name": "Router",
             "summary": "",
-            "url": "classes/Zest-Component-Router.html"
+            "url": "classes/alphaz-Component-Router.html"
         },                {
-            "fqsen": "\\Zest\\Component\\Router\u003A\u003AloadComponents\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\Router\u003A\u003AloadComponents\u0028\u0029",
             "name": "loadComponents",
             "summary": "Load\u0020the\u0020components.",
-            "url": "classes/Zest-Component-Router.html#method_loadComponents"
+            "url": "classes/alphaz-Component-Router.html#method_loadComponents"
         },                {
-            "fqsen": "\\Zest\\Component\\View\\View",
+            "fqsen": "\\alphaz\\Component\\View\\View",
             "name": "View",
             "summary": "",
-            "url": "classes/Zest-Component-View-View.html"
+            "url": "classes/alphaz-Component-View-View.html"
         },                {
-            "fqsen": "\\Zest\\Component\\View\\View\u003A\u003Arander\u0028\u0029",
+            "fqsen": "\\alphaz\\Component\\View\\View\u003A\u003Arander\u0028\u0029",
             "name": "rander",
             "summary": "Rander\u0020the\u0020view.",
-            "url": "classes/Zest-Component-View-View.html#method_rander"
+            "url": "classes/alphaz-Component-View-View.html#method_rander"
         },                {
-            "fqsen": "\\Zest\\Console\\Colorize",
+            "fqsen": "\\alphaz\\Console\\Colorize",
             "name": "Colorize",
             "summary": "",
-            "url": "classes/Zest-Console-Colorize.html"
+            "url": "classes/alphaz-Console-Colorize.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Colorize\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Colorize\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020color\u0020by\u0020key.",
-            "url": "classes/Zest-Console-Colorize.html#method_get"
+            "url": "classes/alphaz-Console-Colorize.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Console\\Colorize\u003A\u003A\u0024styles",
+            "fqsen": "\\alphaz\\Console\\Colorize\u003A\u003A\u0024styles",
             "name": "styles",
             "summary": "Foregroud\u0020colors.",
-            "url": "classes/Zest-Console-Colorize.html#property_styles"
+            "url": "classes/alphaz-Console-Colorize.html#property_styles"
         },                {
-            "fqsen": "\\Zest\\Console\\Command",
+            "fqsen": "\\alphaz\\Console\\Command",
             "name": "Command",
             "summary": "",
-            "url": "classes/Zest-Console-Command.html"
+            "url": "classes/alphaz-Console-Command.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020command\u0020instance.",
-            "url": "classes/Zest-Console-Command.html#method___construct"
+            "url": "classes/alphaz-Console-Command.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003AgetHidden\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003AgetHidden\u0028\u0029",
             "name": "getHidden",
             "summary": "Get\u0020hidden.",
-            "url": "classes/Zest-Console-Command.html#method_getHidden"
+            "url": "classes/alphaz-Console-Command.html#method_getHidden"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003AgetSign\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003AgetSign\u0028\u0029",
             "name": "getSign",
             "summary": "Get\u0020sign.",
-            "url": "classes/Zest-Console-Command.html#method_getSign"
+            "url": "classes/alphaz-Console-Command.html#method_getSign"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003AgetDescription\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003AgetDescription\u0028\u0029",
             "name": "getDescription",
             "summary": "Get\u0020description.",
-            "url": "classes/Zest-Console-Command.html#method_getDescription"
+            "url": "classes/alphaz-Console-Command.html#method_getDescription"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003AgetFlags\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003AgetFlags\u0028\u0029",
             "name": "getFlags",
             "summary": "Get\u0020flags.",
-            "url": "classes/Zest-Console-Command.html#method_getFlags"
+            "url": "classes/alphaz-Console-Command.html#method_getFlags"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003Awrite\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003Awrite\u0028\u0029",
             "name": "write",
             "summary": "Function\u0020to\u0020handle\u0020the\u0020class.",
-            "url": "classes/Zest-Console-Command.html#method_write"
+            "url": "classes/alphaz-Console-Command.html#method_write"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003Aask\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003Aask\u0028\u0029",
             "name": "ask",
             "summary": "Prompt\u0020user\u0020for\u0020input.",
-            "url": "classes/Zest-Console-Command.html#method_ask"
+            "url": "classes/alphaz-Console-Command.html#method_ask"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003Aterminate\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003Aterminate\u0028\u0029",
             "name": "terminate",
             "summary": "Terminate\u0020the\u0020console.",
-            "url": "classes/Zest-Console-Command.html#method_terminate"
+            "url": "classes/alphaz-Console-Command.html#method_terminate"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003Ahandle\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003Ahandle\u0028\u0029",
             "name": "handle",
             "summary": "Function\u0020to\u0020handle\u0020the\u0020class.",
-            "url": "classes/Zest-Console-Command.html#method_handle"
+            "url": "classes/alphaz-Console-Command.html#method_handle"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003A\u0024sign",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003A\u0024sign",
             "name": "sign",
             "summary": "Sign\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Command.html#property_sign"
+            "url": "classes/alphaz-Console-Command.html#property_sign"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003A\u0024description",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003A\u0024description",
             "name": "description",
             "summary": "Description\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Command.html#property_description"
+            "url": "classes/alphaz-Console-Command.html#property_description"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003A\u0024hidden",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003A\u0024hidden",
             "name": "hidden",
             "summary": "Should\u0020the\u0020command\u0020hidden\u0020form\u0020list.",
-            "url": "classes/Zest-Console-Command.html#property_hidden"
+            "url": "classes/alphaz-Console-Command.html#property_hidden"
         },                {
-            "fqsen": "\\Zest\\Console\\Command\u003A\u003A\u0024flags",
+            "fqsen": "\\alphaz\\Console\\Command\u003A\u003A\u0024flags",
             "name": "flags",
             "summary": "Accpet\u0020flag\u0020parameter\u0020in\u0020command.",
-            "url": "classes/Zest-Console-Command.html#property_flags"
+            "url": "classes/alphaz-Console-Command.html#property_flags"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Cache",
+            "fqsen": "\\alphaz\\Console\\Commands\\Cache",
             "name": "Cache",
             "summary": "",
-            "url": "classes/Zest-Console-Commands-Cache.html"
+            "url": "classes/alphaz-Console-Commands-Cache.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Cache\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\Cache\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020command\u0020instance.",
-            "url": "classes/Zest-Console-Commands-Cache.html#method___construct"
+            "url": "classes/alphaz-Console-Commands-Cache.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Cache\u003A\u003Ahandle\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\Cache\u003A\u003Ahandle\u0028\u0029",
             "name": "handle",
             "summary": "Function\u0020to\u0020handle\u0020the\u0020class.",
-            "url": "classes/Zest-Console-Commands-Cache.html#method_handle"
+            "url": "classes/alphaz-Console-Commands-Cache.html#method_handle"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Cache\u003A\u003A\u0024sign",
+            "fqsen": "\\alphaz\\Console\\Commands\\Cache\u003A\u003A\u0024sign",
             "name": "sign",
             "summary": "Sign\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-Cache.html#property_sign"
+            "url": "classes/alphaz-Console-Commands-Cache.html#property_sign"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Cache\u003A\u003A\u0024description",
+            "fqsen": "\\alphaz\\Console\\Commands\\Cache\u003A\u003A\u0024description",
             "name": "description",
             "summary": "Description\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-Cache.html#property_description"
+            "url": "classes/alphaz-Console-Commands-Cache.html#property_description"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Controller",
+            "fqsen": "\\alphaz\\Console\\Commands\\Controller",
             "name": "Controller",
             "summary": "",
-            "url": "classes/Zest-Console-Commands-Controller.html"
+            "url": "classes/alphaz-Console-Commands-Controller.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Controller\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\Controller\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020command\u0020instance.",
-            "url": "classes/Zest-Console-Commands-Controller.html#method___construct"
+            "url": "classes/alphaz-Console-Commands-Controller.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Controller\u003A\u003Ahandle\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\Controller\u003A\u003Ahandle\u0028\u0029",
             "name": "handle",
             "summary": "Function\u0020to\u0020handle\u0020the\u0020class.",
-            "url": "classes/Zest-Console-Commands-Controller.html#method_handle"
+            "url": "classes/alphaz-Console-Commands-Controller.html#method_handle"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Controller\u003A\u003Acontroller\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\Controller\u003A\u003Acontroller\u0028\u0029",
             "name": "controller",
             "summary": "",
-            "url": "classes/Zest-Console-Commands-Controller.html#method_controller"
+            "url": "classes/alphaz-Console-Commands-Controller.html#method_controller"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Controller\u003A\u003A\u0024sign",
+            "fqsen": "\\alphaz\\Console\\Commands\\Controller\u003A\u003A\u0024sign",
             "name": "sign",
             "summary": "Sign\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-Controller.html#property_sign"
+            "url": "classes/alphaz-Console-Commands-Controller.html#property_sign"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Controller\u003A\u003A\u0024description",
+            "fqsen": "\\alphaz\\Console\\Commands\\Controller\u003A\u003A\u0024description",
             "name": "description",
             "summary": "Description\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-Controller.html#property_description"
+            "url": "classes/alphaz-Console-Commands-Controller.html#property_description"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Controller\u003A\u003A\u0024flags",
+            "fqsen": "\\alphaz\\Console\\Commands\\Controller\u003A\u003A\u0024flags",
             "name": "flags",
             "summary": "Accpet\u0020flag\u0020parameter\u0020in\u0020command.",
-            "url": "classes/Zest-Console-Commands-Controller.html#property_flags"
+            "url": "classes/alphaz-Console-Commands-Controller.html#property_flags"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ListCmd",
+            "fqsen": "\\alphaz\\Console\\Commands\\ListCmd",
             "name": "ListCmd",
             "summary": "",
-            "url": "classes/Zest-Console-Commands-ListCmd.html"
+            "url": "classes/alphaz-Console-Commands-ListCmd.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ListCmd\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\ListCmd\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020command\u0020instance.",
-            "url": "classes/Zest-Console-Commands-ListCmd.html#method___construct"
+            "url": "classes/alphaz-Console-Commands-ListCmd.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ListCmd\u003A\u003AgetList\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\ListCmd\u003A\u003AgetList\u0028\u0029",
             "name": "getList",
             "summary": "Get\u0020the\u0020list\u0020of\u0020commandss.",
-            "url": "classes/Zest-Console-Commands-ListCmd.html#method_getList"
+            "url": "classes/alphaz-Console-Commands-ListCmd.html#method_getList"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ListCmd\u003A\u003Ahandle\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\ListCmd\u003A\u003Ahandle\u0028\u0029",
             "name": "handle",
             "summary": "Function\u0020to\u0020handle\u0020the\u0020class.",
-            "url": "classes/Zest-Console-Commands-ListCmd.html#method_handle"
+            "url": "classes/alphaz-Console-Commands-ListCmd.html#method_handle"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ListCmd\u003A\u003A\u0024sign",
+            "fqsen": "\\alphaz\\Console\\Commands\\ListCmd\u003A\u003A\u0024sign",
             "name": "sign",
             "summary": "Sign\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-ListCmd.html#property_sign"
+            "url": "classes/alphaz-Console-Commands-ListCmd.html#property_sign"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ListCmd\u003A\u003A\u0024description",
+            "fqsen": "\\alphaz\\Console\\Commands\\ListCmd\u003A\u003A\u0024description",
             "name": "description",
             "summary": "Description\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-ListCmd.html#property_description"
+            "url": "classes/alphaz-Console-Commands-ListCmd.html#property_description"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ListCmd\u003A\u003A\u0024cmds",
+            "fqsen": "\\alphaz\\Console\\Commands\\ListCmd\u003A\u003A\u0024cmds",
             "name": "cmds",
             "summary": "Commands.",
-            "url": "classes/Zest-Console-Commands-ListCmd.html#property_cmds"
+            "url": "classes/alphaz-Console-Commands-ListCmd.html#property_cmds"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\RouterListCommand",
+            "fqsen": "\\alphaz\\Console\\Commands\\RouterListCommand",
             "name": "RouterListCommand",
             "summary": "",
-            "url": "classes/Zest-Console-Commands-RouterListCommand.html"
+            "url": "classes/alphaz-Console-Commands-RouterListCommand.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\RouterListCommand\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\RouterListCommand\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020command\u0020instance.",
-            "url": "classes/Zest-Console-Commands-RouterListCommand.html#method___construct"
+            "url": "classes/alphaz-Console-Commands-RouterListCommand.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\RouterListCommand\u003A\u003Ahandle\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\RouterListCommand\u003A\u003Ahandle\u0028\u0029",
             "name": "handle",
             "summary": "Function\u0020to\u0020handle\u0020the\u0020class.",
-            "url": "classes/Zest-Console-Commands-RouterListCommand.html#method_handle"
+            "url": "classes/alphaz-Console-Commands-RouterListCommand.html#method_handle"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\RouterListCommand\u003A\u003A\u0024sign",
+            "fqsen": "\\alphaz\\Console\\Commands\\RouterListCommand\u003A\u003A\u0024sign",
             "name": "sign",
             "summary": "Sign\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-RouterListCommand.html#property_sign"
+            "url": "classes/alphaz-Console-Commands-RouterListCommand.html#property_sign"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\RouterListCommand\u003A\u003A\u0024description",
+            "fqsen": "\\alphaz\\Console\\Commands\\RouterListCommand\u003A\u003A\u0024description",
             "name": "description",
             "summary": "Description\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-RouterListCommand.html#property_description"
+            "url": "classes/alphaz-Console-Commands-RouterListCommand.html#property_description"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\RouterListCommand\u003A\u003A\u0024app",
+            "fqsen": "\\alphaz\\Console\\Commands\\RouterListCommand\u003A\u003A\u0024app",
             "name": "app",
             "summary": "App\u0020instance.",
-            "url": "classes/Zest-Console-Commands-RouterListCommand.html#property_app"
+            "url": "classes/alphaz-Console-Commands-RouterListCommand.html#property_app"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ServeCommand",
+            "fqsen": "\\alphaz\\Console\\Commands\\ServeCommand",
             "name": "ServeCommand",
             "summary": "",
-            "url": "classes/Zest-Console-Commands-ServeCommand.html"
+            "url": "classes/alphaz-Console-Commands-ServeCommand.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ServeCommand\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\ServeCommand\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020command\u0020instance.",
-            "url": "classes/Zest-Console-Commands-ServeCommand.html#method___construct"
+            "url": "classes/alphaz-Console-Commands-ServeCommand.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ServeCommand\u003A\u003Ahandle\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\ServeCommand\u003A\u003Ahandle\u0028\u0029",
             "name": "handle",
             "summary": "Function\u0020to\u0020handle\u0020the\u0020class.",
-            "url": "classes/Zest-Console-Commands-ServeCommand.html#method_handle"
+            "url": "classes/alphaz-Console-Commands-ServeCommand.html#method_handle"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ServeCommand\u003A\u003A\u0024sign",
+            "fqsen": "\\alphaz\\Console\\Commands\\ServeCommand\u003A\u003A\u0024sign",
             "name": "sign",
             "summary": "Sign\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-ServeCommand.html#property_sign"
+            "url": "classes/alphaz-Console-Commands-ServeCommand.html#property_sign"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\ServeCommand\u003A\u003A\u0024description",
+            "fqsen": "\\alphaz\\Console\\Commands\\ServeCommand\u003A\u003A\u0024description",
             "name": "description",
             "summary": "Description\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-ServeCommand.html#property_description"
+            "url": "classes/alphaz-Console-Commands-ServeCommand.html#property_description"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Version",
+            "fqsen": "\\alphaz\\Console\\Commands\\Version",
             "name": "Version",
             "summary": "",
-            "url": "classes/Zest-Console-Commands-Version.html"
+            "url": "classes/alphaz-Console-Commands-Version.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Version\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\Version\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020command\u0020instance.",
-            "url": "classes/Zest-Console-Commands-Version.html#method___construct"
+            "url": "classes/alphaz-Console-Commands-Version.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Version\u003A\u003Ahandle\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\\Version\u003A\u003Ahandle\u0028\u0029",
             "name": "handle",
             "summary": "Function\u0020to\u0020handle\u0020the\u0020class.",
-            "url": "classes/Zest-Console-Commands-Version.html#method_handle"
+            "url": "classes/alphaz-Console-Commands-Version.html#method_handle"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Version\u003A\u003A\u0024sign",
+            "fqsen": "\\alphaz\\Console\\Commands\\Version\u003A\u003A\u0024sign",
             "name": "sign",
             "summary": "Sign\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-Version.html#property_sign"
+            "url": "classes/alphaz-Console-Commands-Version.html#property_sign"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\\Version\u003A\u003A\u0024description",
+            "fqsen": "\\alphaz\\Console\\Commands\\Version\u003A\u003A\u0024description",
             "name": "description",
             "summary": "Description\u0020of\u0020the\u0020command.",
-            "url": "classes/Zest-Console-Commands-Version.html#property_description"
+            "url": "classes/alphaz-Console-Commands-Version.html#property_description"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands",
+            "fqsen": "\\alphaz\\Console\\Commands",
             "name": "Commands",
             "summary": "",
-            "url": "classes/Zest-Console-Commands.html"
+            "url": "classes/alphaz-Console-Commands.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\u003A\u003AgetCommands\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Commands\u003A\u003AgetCommands\u0028\u0029",
             "name": "getCommands",
             "summary": "Get\u0020commands.",
-            "url": "classes/Zest-Console-Commands.html#method_getCommands"
+            "url": "classes/alphaz-Console-Commands.html#method_getCommands"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands\u003A\u003A\u0024commands",
+            "fqsen": "\\alphaz\\Console\\Commands\u003A\u003A\u0024commands",
             "name": "commands",
             "summary": "Internal\u0020commands.",
-            "url": "classes/Zest-Console-Commands.html#property_commands"
+            "url": "classes/alphaz-Console-Commands.html#property_commands"
         },                {
-            "fqsen": "\\Zest\\Console\\Console",
+            "fqsen": "\\alphaz\\Console\\Console",
             "name": "Console",
             "summary": "",
-            "url": "classes/Zest-Console-Console.html"
+            "url": "classes/alphaz-Console-Console.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Console\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Console\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020console\u0020instance.",
-            "url": "classes/Zest-Console-Console.html#method___construct"
+            "url": "classes/alphaz-Console-Console.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Console\\Console\u003A\u003AparseFlags\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Console\u003A\u003AparseFlags\u0028\u0029",
             "name": "parseFlags",
             "summary": "Parse\u0020the\u0020flags\u0020from\u0020command.",
-            "url": "classes/Zest-Console-Console.html#method_parseFlags"
+            "url": "classes/alphaz-Console-Console.html#method_parseFlags"
         },                {
-            "fqsen": "\\Zest\\Console\\Console\u003A\u003AgetCommands\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Console\u003A\u003AgetCommands\u0028\u0029",
             "name": "getCommands",
             "summary": "Get\u0020all\u0020commands.",
-            "url": "classes/Zest-Console-Console.html#method_getCommands"
+            "url": "classes/alphaz-Console-Console.html#method_getCommands"
         },                {
-            "fqsen": "\\Zest\\Console\\Console\u003A\u003Arun\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Console\u003A\u003Arun\u0028\u0029",
             "name": "run",
-            "summary": "Run\u0020the\u0020Zest\u0020console.",
-            "url": "classes/Zest-Console-Console.html#method_run"
+            "summary": "Run\u0020the\u0020alphaz\u0020console.",
+            "url": "classes/alphaz-Console-Console.html#method_run"
         },                {
-            "fqsen": "\\Zest\\Console\\Console\u003A\u003A\u0024container",
+            "fqsen": "\\alphaz\\Console\\Console\u003A\u003A\u0024container",
             "name": "container",
             "summary": "Instance\u0020of\u0020container.",
-            "url": "classes/Zest-Console-Console.html#property_container"
+            "url": "classes/alphaz-Console-Console.html#property_container"
         },                {
-            "fqsen": "\\Zest\\Console\\Console\u003A\u003A\u0024commands",
+            "fqsen": "\\alphaz\\Console\\Console\u003A\u003A\u0024commands",
             "name": "commands",
             "summary": "Commanads.",
-            "url": "classes/Zest-Console-Console.html#property_commands"
+            "url": "classes/alphaz-Console-Console.html#property_commands"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\\Table",
+            "fqsen": "\\alphaz\\Console\\Input\\Table",
             "name": "Table",
             "summary": "",
-            "url": "classes/Zest-Console-Input-Table.html"
+            "url": "classes/alphaz-Console-Input-Table.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\\Table\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Input\\Table\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Create\u0020a\u0020new\u0020Table\u0020instance.",
-            "url": "classes/Zest-Console-Input-Table.html#method___construct"
+            "url": "classes/alphaz-Console-Input-Table.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\\Table\u003A\u003AprintBorder\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Input\\Table\u003A\u003AprintBorder\u0028\u0029",
             "name": "printBorder",
             "summary": "Print\u0020table\u0020border.",
-            "url": "classes/Zest-Console-Input-Table.html#method_printBorder"
+            "url": "classes/alphaz-Console-Input-Table.html#method_printBorder"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\\Table\u003A\u003AprintRow\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Input\\Table\u003A\u003AprintRow\u0028\u0029",
             "name": "printRow",
             "summary": "Print\u0020the\u0020row.",
-            "url": "classes/Zest-Console-Input-Table.html#method_printRow"
+            "url": "classes/alphaz-Console-Input-Table.html#method_printRow"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\\Table\u003A\u003Adraw\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Input\\Table\u003A\u003Adraw\u0028\u0029",
             "name": "draw",
             "summary": "Draw\u0020the\u0020table.",
-            "url": "classes/Zest-Console-Input-Table.html#method_draw"
+            "url": "classes/alphaz-Console-Input-Table.html#method_draw"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\\Table\u003A\u003A\u0024header",
+            "fqsen": "\\alphaz\\Console\\Input\\Table\u003A\u003A\u0024header",
             "name": "header",
             "summary": "Table\u0020header.",
-            "url": "classes/Zest-Console-Input-Table.html#property_header"
+            "url": "classes/alphaz-Console-Input-Table.html#property_header"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\\Table\u003A\u003A\u0024items",
+            "fqsen": "\\alphaz\\Console\\Input\\Table\u003A\u003A\u0024items",
             "name": "items",
             "summary": "Table\u0020item.",
-            "url": "classes/Zest-Console-Input-Table.html#property_items"
+            "url": "classes/alphaz-Console-Input-Table.html#property_items"
         },                {
-            "fqsen": "\\Zest\\Console\\Input",
+            "fqsen": "\\alphaz\\Console\\Input",
             "name": "Input",
             "summary": "",
-            "url": "classes/Zest-Console-Input.html"
+            "url": "classes/alphaz-Console-Input.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\u003A\u003Asecret\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Input\u003A\u003Asecret\u0028\u0029",
             "name": "secret",
             "summary": "Prompt\u0020for\u0020input\u0020secret\u0020input\u0020like\u0020password.",
-            "url": "classes/Zest-Console-Input.html#method_secret"
+            "url": "classes/alphaz-Console-Input.html#method_secret"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\u003A\u003Aconfirm\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Input\u003A\u003Aconfirm\u0028\u0029",
             "name": "confirm",
             "summary": "Prompt\u0020for\u0020input\u0020confirm.",
-            "url": "classes/Zest-Console-Input.html#method_confirm"
+            "url": "classes/alphaz-Console-Input.html#method_confirm"
         },                {
-            "fqsen": "\\Zest\\Console\\Input\u003A\u003Aask\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Input\u003A\u003Aask\u0028\u0029",
             "name": "ask",
             "summary": "Prompt\u0020for\u0020input\u0020input.",
-            "url": "classes/Zest-Console-Input.html#method_ask"
+            "url": "classes/alphaz-Console-Input.html#method_ask"
         },                {
-            "fqsen": "\\Zest\\Console\\Output",
+            "fqsen": "\\alphaz\\Console\\Output",
             "name": "Output",
             "summary": "",
-            "url": "classes/Zest-Console-Output.html"
+            "url": "classes/alphaz-Console-Output.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003A\u0024quiet",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003A\u0024quiet",
             "name": "quiet",
             "summary": "Quiet.",
-            "url": "classes/Zest-Console-Output.html#property_quiet"
+            "url": "classes/alphaz-Console-Output.html#property_quiet"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003Abell\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003Abell\u0028\u0029",
             "name": "bell",
             "summary": "Ring\u0020the\u0020bell.",
-            "url": "classes/Zest-Console-Output.html#method_bell"
+            "url": "classes/alphaz-Console-Output.html#method_bell"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003Atable\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003Atable\u0028\u0029",
             "name": "table",
             "summary": "Create\u0020the\u0020table\u0020on\u0020console.",
-            "url": "classes/Zest-Console-Output.html#method_table"
+            "url": "classes/alphaz-Console-Output.html#method_table"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003Awrite\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003Awrite\u0028\u0029",
             "name": "write",
             "summary": "Write\u0020on\u0020console.",
-            "url": "classes/Zest-Console-Output.html#method_write"
+            "url": "classes/alphaz-Console-Output.html#method_write"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003Aerror\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003Aerror\u0028\u0029",
             "name": "error",
             "summary": "Output\u0020the\u0020error.",
-            "url": "classes/Zest-Console-Output.html#method_error"
+            "url": "classes/alphaz-Console-Output.html#method_error"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003Adanger\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003Adanger\u0028\u0029",
             "name": "danger",
             "summary": "Output\u0020the\u0020danger.",
-            "url": "classes/Zest-Console-Output.html#method_danger"
+            "url": "classes/alphaz-Console-Output.html#method_danger"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003Ainfo\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003Ainfo\u0028\u0029",
             "name": "info",
             "summary": "Output\u0020the\u0020info.",
-            "url": "classes/Zest-Console-Output.html#method_info"
+            "url": "classes/alphaz-Console-Output.html#method_info"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003Awarning\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003Awarning\u0028\u0029",
             "name": "warning",
             "summary": "Output\u0020the\u0020warning.",
-            "url": "classes/Zest-Console-Output.html#method_warning"
+            "url": "classes/alphaz-Console-Output.html#method_warning"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003Asuccess\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003Asuccess\u0028\u0029",
             "name": "success",
             "summary": "Output\u0020the\u0020warning.",
-            "url": "classes/Zest-Console-Output.html#method_success"
+            "url": "classes/alphaz-Console-Output.html#method_success"
         },                {
-            "fqsen": "\\Zest\\Console\\Output\u003A\u003Aexit\u0028\u0029",
+            "fqsen": "\\alphaz\\Console\\Output\u003A\u003Aexit\u0028\u0029",
             "name": "exit",
             "summary": "Exit.",
-            "url": "classes/Zest-Console-Output.html#method_exit"
+            "url": "classes/alphaz-Console-Output.html#method_exit"
         },                {
-            "fqsen": "\\Zest\\Container\\Container",
+            "fqsen": "\\alphaz\\Container\\Container",
             "name": "Container",
             "summary": "",
-            "url": "classes/Zest-Container-Container.html"
+            "url": "classes/alphaz-Container-Container.html"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AparseHint\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AparseHint\u0028\u0029",
             "name": "parseHint",
             "summary": "Parse\u0020the\u0020hint\u0020parameter.",
-            "url": "classes/Zest-Container-Container.html#method_parseHint"
+            "url": "classes/alphaz-Container-Container.html#method_parseHint"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003Aregister\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003Aregister\u0028\u0029",
             "name": "register",
             "summary": "Register\u0020a\u0020type\u0020hint.",
-            "url": "classes/Zest-Container-Container.html#method_register"
+            "url": "classes/alphaz-Container-Container.html#method_register"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AregisterSingleton\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AregisterSingleton\u0028\u0029",
             "name": "registerSingleton",
             "summary": "Register\u0020a\u0020type\u0020hint\u0020and\u0020return\u0020the\u0020same\u0020instance\u0020every\u0020time.",
-            "url": "classes/Zest-Container-Container.html#method_registerSingleton"
+            "url": "classes/alphaz-Container-Container.html#method_registerSingleton"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AregisterInstance\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AregisterInstance\u0028\u0029",
             "name": "registerInstance",
             "summary": "Register\u0020a\u0020singleton\u0020instance.",
-            "url": "classes/Zest-Container-Container.html#method_registerInstance"
+            "url": "classes/alphaz-Container-Container.html#method_registerInstance"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AregisterContextualDependency\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AregisterContextualDependency\u0028\u0029",
             "name": "registerContextualDependency",
             "summary": "Registers\u0020a\u0020contextual\u0020dependency.",
-            "url": "classes/Zest-Container-Container.html#method_registerContextualDependency"
+            "url": "classes/alphaz-Container-Container.html#method_registerContextualDependency"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AresolveAlias\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AresolveAlias\u0028\u0029",
             "name": "resolveAlias",
             "summary": "Return\u0020the\u0020name\u0020based\u0020on\u0020its\u0020alias.",
-            "url": "classes/Zest-Container-Container.html#method_resolveAlias"
+            "url": "classes/alphaz-Container-Container.html#method_resolveAlias"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AresolveHint\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AresolveHint\u0028\u0029",
             "name": "resolveHint",
             "summary": "Resolves\u0020a\u0020type\u0020hint.",
-            "url": "classes/Zest-Container-Container.html#method_resolveHint"
+            "url": "classes/alphaz-Container-Container.html#method_resolveHint"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AresolveContextualDependency\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AresolveContextualDependency\u0028\u0029",
             "name": "resolveContextualDependency",
             "summary": "Resolves\u0020a\u0020contextual\u0020dependency.",
-            "url": "classes/Zest-Container-Container.html#method_resolveContextualDependency"
+            "url": "classes/alphaz-Container-Container.html#method_resolveContextualDependency"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AmergeParameters\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AmergeParameters\u0028\u0029",
             "name": "mergeParameters",
             "summary": "Merges\u0020the\u0020provided\u0020parameters\u0020with\u0020the\u0020reflection\u0020parameters\u0020into\u0020one\u0020array.",
-            "url": "classes/Zest-Container-Container.html#method_mergeParameters"
+            "url": "classes/alphaz-Container-Container.html#method_mergeParameters"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AgetDeclaringFunction\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AgetDeclaringFunction\u0028\u0029",
             "name": "getDeclaringFunction",
             "summary": "Returns\u0020the\u0020name\u0020of\u0020function.",
-            "url": "classes/Zest-Container-Container.html#method_getDeclaringFunction"
+            "url": "classes/alphaz-Container-Container.html#method_getDeclaringFunction"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AresolveParameter\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AresolveParameter\u0028\u0029",
             "name": "resolveParameter",
             "summary": "Resolve\u0020a\u0020parameter.",
-            "url": "classes/Zest-Container-Container.html#method_resolveParameter"
+            "url": "classes/alphaz-Container-Container.html#method_resolveParameter"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AresolveParameters\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AresolveParameters\u0028\u0029",
             "name": "resolveParameters",
             "summary": "Resolve\u0020parameters.",
-            "url": "classes/Zest-Container-Container.html#method_resolveParameters"
+            "url": "classes/alphaz-Container-Container.html#method_resolveParameters"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AclosureFactory\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AclosureFactory\u0028\u0029",
             "name": "closureFactory",
             "summary": "Creates\u0020a\u0020class\u0020instance\u0020using\u0020closure.",
-            "url": "classes/Zest-Container-Container.html#method_closureFactory"
+            "url": "classes/alphaz-Container-Container.html#method_closureFactory"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AreflectionFactory\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AreflectionFactory\u0028\u0029",
             "name": "reflectionFactory",
             "summary": "Creates\u0020a\u0020class\u0020instance\u0020using\u0020reflection.",
-            "url": "classes/Zest-Container-Container.html#method_reflectionFactory"
+            "url": "classes/alphaz-Container-Container.html#method_reflectionFactory"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003Afactory\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003Afactory\u0028\u0029",
             "name": "factory",
             "summary": "Creates\u0020a\u0020class\u0020instance.",
-            "url": "classes/Zest-Container-Container.html#method_factory"
+            "url": "classes/alphaz-Container-Container.html#method_factory"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Checks\u0020if\u0020a\u0020class\u0020is\u0020registered\u0020in\u0020the\u0020container.",
-            "url": "classes/Zest-Container-Container.html#method_has"
+            "url": "classes/alphaz-Container-Container.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003AisSingleton\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003AisSingleton\u0028\u0029",
             "name": "isSingleton",
             "summary": "Returns\u0020TRUE\u0020if\u0020a\u0020class\u0020has\u0020been\u0020registered\u0020as\u0020a\u0020singleton\u0020and\u0020FALSE\u0020if\u0020not.",
-            "url": "classes/Zest-Container-Container.html#method_isSingleton"
+            "url": "classes/alphaz-Container-Container.html#method_isSingleton"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Returns\u0020a\u0020class\u0020instance.",
-            "url": "classes/Zest-Container-Container.html#method_get"
+            "url": "classes/alphaz-Container-Container.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003Aexec\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003Aexec\u0028\u0029",
             "name": "exec",
             "summary": "Execute\u0020a\u0020callable\u0020and\u0020inject\u0020its\u0020dependencies.",
-            "url": "classes/Zest-Container-Container.html#method_exec"
+            "url": "classes/alphaz-Container-Container.html#method_exec"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003A\u0024hints",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003A\u0024hints",
             "name": "hints",
             "summary": "Registered\u0020type\u0020hints.",
-            "url": "classes/Zest-Container-Container.html#property_hints"
+            "url": "classes/alphaz-Container-Container.html#property_hints"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003A\u0024aliases",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003A\u0024aliases",
             "name": "aliases",
             "summary": "Aliases.",
-            "url": "classes/Zest-Container-Container.html#property_aliases"
+            "url": "classes/alphaz-Container-Container.html#property_aliases"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003A\u0024instances",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003A\u0024instances",
             "name": "instances",
             "summary": "Singleton\u0020instances.",
-            "url": "classes/Zest-Container-Container.html#property_instances"
+            "url": "classes/alphaz-Container-Container.html#property_instances"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003A\u0024contextualDependencies",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003A\u0024contextualDependencies",
             "name": "contextualDependencies",
             "summary": "Contextual\u0020dependencies.",
-            "url": "classes/Zest-Container-Container.html#property_contextualDependencies"
+            "url": "classes/alphaz-Container-Container.html#property_contextualDependencies"
         },                {
-            "fqsen": "\\Zest\\Container\\Container\u003A\u003A\u0024replacers",
+            "fqsen": "\\alphaz\\Container\\Container\u003A\u003A\u0024replacers",
             "name": "replacers",
             "summary": "Instance\u0020replacers.",
-            "url": "classes/Zest-Container-Container.html#property_replacers"
+            "url": "classes/alphaz-Container-Container.html#property_replacers"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract",
+            "fqsen": "\\alphaz\\Container\\ContainerContract",
             "name": "ContainerContract",
             "summary": "",
-            "url": "classes/Zest-Container-ContainerContract.html"
+            "url": "classes/alphaz-Container-ContainerContract.html"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003Aregister\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003Aregister\u0028\u0029",
             "name": "register",
             "summary": "Register\u0020a\u0020type\u0020hint.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_register"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_register"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003AregisterSingleton\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003AregisterSingleton\u0028\u0029",
             "name": "registerSingleton",
             "summary": "Register\u0020a\u0020type\u0020hint\u0020and\u0020return\u0020the\u0020same\u0020instance\u0020every\u0020time.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_registerSingleton"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_registerSingleton"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003AregisterInstance\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003AregisterInstance\u0028\u0029",
             "name": "registerInstance",
             "summary": "Register\u0020a\u0020singleton\u0020instance.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_registerInstance"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_registerInstance"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003AregisterContextualDependency\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003AregisterContextualDependency\u0028\u0029",
             "name": "registerContextualDependency",
             "summary": "Registers\u0020a\u0020contextual\u0020dependency.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_registerContextualDependency"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_registerContextualDependency"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003AclosureFactory\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003AclosureFactory\u0028\u0029",
             "name": "closureFactory",
             "summary": "Creates\u0020a\u0020class\u0020instance\u0020using\u0020closure.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_closureFactory"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_closureFactory"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003AreflectionFactory\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003AreflectionFactory\u0028\u0029",
             "name": "reflectionFactory",
             "summary": "Creates\u0020a\u0020class\u0020instance\u0020using\u0020reflection.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_reflectionFactory"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_reflectionFactory"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003Afactory\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003Afactory\u0028\u0029",
             "name": "factory",
             "summary": "Creates\u0020a\u0020class\u0020instance.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_factory"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_factory"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Checks\u0020if\u0020a\u0020class\u0020is\u0020registered\u0020in\u0020the\u0020container.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_has"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003AisSingleton\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003AisSingleton\u0028\u0029",
             "name": "isSingleton",
             "summary": "Returns\u0020TRUE\u0020if\u0020a\u0020class\u0020has\u0020been\u0020registered\u0020as\u0020a\u0020singleton\u0020and\u0020FALSE\u0020if\u0020not.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_isSingleton"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_isSingleton"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Returns\u0020a\u0020class\u0020instance.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_get"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Container\\ContainerContract\u003A\u003Aexec\u0028\u0029",
+            "fqsen": "\\alphaz\\Container\\ContainerContract\u003A\u003Aexec\u0028\u0029",
             "name": "exec",
             "summary": "Execute\u0020a\u0020callable\u0020and\u0020inject\u0020its\u0020dependencies.",
-            "url": "classes/Zest-Container-ContainerContract.html#method_exec"
+            "url": "classes/alphaz-Container-ContainerContract.html#method_exec"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Auth",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Auth",
             "name": "Auth",
             "summary": "",
-            "url": "classes/Zest-Contracts-Auth-Auth.html"
+            "url": "classes/alphaz-Contracts-Auth-Auth.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Auth\u003A\u003Asignup\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Auth\u003A\u003Asignup\u0028\u0029",
             "name": "signup",
             "summary": "Instance\u0020of\u0020signup\u0020class.",
-            "url": "classes/Zest-Contracts-Auth-Auth.html#method_signup"
+            "url": "classes/alphaz-Contracts-Auth-Auth.html#method_signup"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Auth\u003A\u003Asignin\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Auth\u003A\u003Asignin\u0028\u0029",
             "name": "signin",
             "summary": "Instance\u0020of\u0020signin\u0020class.",
-            "url": "classes/Zest-Contracts-Auth-Auth.html#method_signin"
+            "url": "classes/alphaz-Contracts-Auth-Auth.html#method_signin"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Auth\u003A\u003Alogout\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Auth\u003A\u003Alogout\u0028\u0029",
             "name": "logout",
             "summary": "Instance\u0020of\u0020logout\u0020class.",
-            "url": "classes/Zest-Contracts-Auth-Auth.html#method_logout"
+            "url": "classes/alphaz-Contracts-Auth-Auth.html#method_logout"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Auth\u003A\u003Aupdate\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Auth\u003A\u003Aupdate\u0028\u0029",
             "name": "update",
             "summary": "Instance\u0020of\u0020update\u0020class.",
-            "url": "classes/Zest-Contracts-Auth-Auth.html#method_update"
+            "url": "classes/alphaz-Contracts-Auth-Auth.html#method_update"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Auth\u003A\u003Averify\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Auth\u003A\u003Averify\u0028\u0029",
             "name": "verify",
             "summary": "Instance\u0020of\u0020verify\u0020class.",
-            "url": "classes/Zest-Contracts-Auth-Auth.html#method_verify"
+            "url": "classes/alphaz-Contracts-Auth-Auth.html#method_verify"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Auth\u003A\u003Areset\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Auth\u003A\u003Areset\u0028\u0029",
             "name": "reset",
             "summary": "Instance\u0020of\u0020reset\u0020class.",
-            "url": "classes/Zest-Contracts-Auth-Auth.html#method_reset"
+            "url": "classes/alphaz-Contracts-Auth-Auth.html#method_reset"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Update",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Update",
             "name": "Update",
             "summary": "",
-            "url": "classes/Zest-Contracts-Auth-Update.html"
+            "url": "classes/alphaz-Contracts-Auth-Update.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Update\u003A\u003Aupdate\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Update\u003A\u003Aupdate\u0028\u0029",
             "name": "update",
             "summary": "Update\u0020the\u0020users.",
-            "url": "classes/Zest-Contracts-Auth-Update.html#method_update"
+            "url": "classes/alphaz-Contracts-Auth-Update.html#method_update"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\Update\u003A\u003AupdatePassword\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\Update\u003A\u003AupdatePassword\u0028\u0029",
             "name": "updatePassword",
             "summary": "Check\u0020is\u0020username\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Contracts-Auth-Update.html#method_updatePassword"
+            "url": "classes/alphaz-Contracts-Auth-Update.html#method_updatePassword"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User",
             "name": "User",
             "summary": "",
-            "url": "classes/Zest-Contracts-Auth-User.html"
+            "url": "classes/alphaz-Contracts-Auth-User.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003AgetAll\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003AgetAll\u0028\u0029",
             "name": "getAll",
             "summary": "Get\u0020all\u0020the\u0020users.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_getAll"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_getAll"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003AgetByWhere\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003AgetByWhere\u0028\u0029",
             "name": "getByWhere",
             "summary": "Get\u0020users\u0020using\u0020specific\u0020field.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_getByWhere"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_getByWhere"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020user\u0020by\u0020id.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_delete"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003AisUsername\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003AisUsername\u0028\u0029",
             "name": "isUsername",
             "summary": "Check\u0020is\u0020username\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_isUsername"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_isUsername"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003AisEmail\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003AisEmail\u0028\u0029",
             "name": "isEmail",
             "summary": "Check\u0020is\u0020email\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_isEmail"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_isEmail"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003AisToken\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003AisToken\u0028\u0029",
             "name": "isToken",
             "summary": "Check\u0020is\u0020is\u0020verification\u0020token\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_isToken"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_isToken"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003AisResetToken\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003AisResetToken\u0028\u0029",
             "name": "isResetToken",
             "summary": "Check\u0020is\u0020reset\u0020token\u0020is\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_isResetToken"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_isResetToken"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003AloginUser\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003AloginUser\u0028\u0029",
             "name": "loginUser",
             "summary": "Get\u0020the\u0020details\u0020of\u0020login\u0020user.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_loginUser"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_loginUser"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003AsessionUser\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003AsessionUser\u0028\u0029",
             "name": "sessionUser",
             "summary": "Get\u0020the\u0020current\u0020session\u0020user.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_sessionUser"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_sessionUser"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003AisLogin\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003AisLogin\u0028\u0029",
             "name": "isLogin",
             "summary": "Check\u0020user\u0020is\u0020login\u0020or\u0020not.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_isLogin"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_isLogin"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth\\User\u003A\u003Alogout\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Auth\\User\u003A\u003Alogout\u0028\u0029",
             "name": "logout",
             "summary": "Logout\u0020the\u0020user.",
-            "url": "classes/Zest-Contracts-Auth-User.html#method_logout"
+            "url": "classes/alphaz-Contracts-Auth-User.html#method_logout"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Benchmark\\Benchmark",
+            "fqsen": "\\alphaz\\Contracts\\Benchmark\\Benchmark",
             "name": "Benchmark",
             "summary": "",
-            "url": "classes/Zest-Contracts-Benchmark-Benchmark.html"
+            "url": "classes/alphaz-Contracts-Benchmark-Benchmark.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Benchmark\\Benchmark\u003A\u003Astart\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Benchmark\\Benchmark\u003A\u003Astart\u0028\u0029",
             "name": "start",
             "summary": "",
-            "url": "classes/Zest-Contracts-Benchmark-Benchmark.html#method_start"
+            "url": "classes/alphaz-Contracts-Benchmark-Benchmark.html#method_start"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Benchmark\\Benchmark\u003A\u003Aend\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Benchmark\\Benchmark\u003A\u003Aend\u0028\u0029",
             "name": "end",
             "summary": "",
-            "url": "classes/Zest-Contracts-Benchmark-Benchmark.html#method_end"
+            "url": "classes/alphaz-Contracts-Benchmark-Benchmark.html#method_end"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Benchmark\\Benchmark\u003A\u003AelapsedTime\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Benchmark\\Benchmark\u003A\u003AelapsedTime\u0028\u0029",
             "name": "elapsedTime",
             "summary": "",
-            "url": "classes/Zest-Contracts-Benchmark-Benchmark.html#method_elapsedTime"
+            "url": "classes/alphaz-Contracts-Benchmark-Benchmark.html#method_elapsedTime"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache",
             "name": "Cache",
             "summary": "",
-            "url": "classes/Zest-Contracts-Cache-Cache.html"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method___construct"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003AgetAdapter\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003AgetAdapter\u0028\u0029",
             "name": "getAdapter",
             "summary": "Get\u0020the\u0020adapter\u0020of\u0020cache.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_getAdapter"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_getAdapter"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003AsetProperAdapter\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003AsetProperAdapter\u0028\u0029",
             "name": "setProperAdapter",
             "summary": "Set\u0020the\u0020valid\u0020adapter.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_setProperAdapter"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_setProperAdapter"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003AgetDefaultTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003AgetDefaultTtl\u0028\u0029",
             "name": "getDefaultTtl",
             "summary": "Get\u0020default\u0020ttl.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_getDefaultTtl"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_getDefaultTtl"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003AgetItemTtl\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003AgetItemTtl\u0028\u0029",
             "name": "getItemTtl",
             "summary": "Get\u0020item\u0020ttl.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_getItemTtl"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_getItemTtl"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020value\u0020from\u0020cache.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_get"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003AgetMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003AgetMultiple\u0028\u0029",
             "name": "getMultiple",
             "summary": "Get\u0020the\u0020multiple\u0020values\u0020from\u0020cache.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_getMultiple"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_getMultiple"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Save\u0020item\u0020to\u0020cache.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_set"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003AsetMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003AsetMultiple\u0028\u0029",
             "name": "setMultiple",
             "summary": "Save\u0020multiple\u0020items\u0020to\u0020cache.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_setMultiple"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_setMultiple"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Determine\u0020if\u0020cache\u0020exixts.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_has"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020item\u0020form\u0020cache.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_delete"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003AdeleteMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003AdeleteMultiple\u0028\u0029",
             "name": "deleteMultiple",
             "summary": "Delete\u0020multiples\u0020items\u0020form\u0020cache.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_deleteMultiple"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_deleteMultiple"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache\\Cache\u003A\u003Aclear\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Cache\\Cache\u003A\u003Aclear\u0028\u0029",
             "name": "clear",
             "summary": "Clear\u0020all\u0020caches.",
-            "url": "classes/Zest-Contracts-Cache-Cache.html#method_clear"
+            "url": "classes/alphaz-Contracts-Cache-Cache.html#method_clear"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Common\\Configuration",
+            "fqsen": "\\alphaz\\Contracts\\Common\\Configuration",
             "name": "Configuration",
             "summary": "",
-            "url": "classes/Zest-Contracts-Common-Configuration.html"
+            "url": "classes/alphaz-Contracts-Common-Configuration.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Common\\Configuration\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Common\\Configuration\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Determine\u0020if\u0020the\u0020given\u0020configuration\u0020value\u0020exists.",
-            "url": "classes/Zest-Contracts-Common-Configuration.html#method_has"
+            "url": "classes/alphaz-Contracts-Common-Configuration.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Common\\Configuration\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Common\\Configuration\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020specified\u0020configuration\u0020value.",
-            "url": "classes/Zest-Contracts-Common-Configuration.html#method_get"
+            "url": "classes/alphaz-Contracts-Common-Configuration.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Common\\Configuration\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Common\\Configuration\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\u0020a\u0020given\u0020configuration\u0020value.",
-            "url": "classes/Zest-Contracts-Common-Configuration.html#method_set"
+            "url": "classes/alphaz-Contracts-Common-Configuration.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Common\\Root",
+            "fqsen": "\\alphaz\\Contracts\\Common\\Root",
             "name": "Root",
             "summary": "",
-            "url": "classes/Zest-Contracts-Common-Root.html"
+            "url": "classes/alphaz-Contracts-Common-Root.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Common\\Root\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Common\\Root\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020specified\u0020path\u0020value.",
-            "url": "classes/Zest-Contracts-Common-Root.html#method_get"
+            "url": "classes/alphaz-Contracts-Common-Root.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Adapter\\AbstractAdapter",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Adapter\\AbstractAdapter",
             "name": "AbstractAdapter",
             "summary": "",
-            "url": "classes/Zest-Contracts-Encryption-Adapter-AbstractAdapter.html"
+            "url": "classes/alphaz-Contracts-Encryption-Adapter-AbstractAdapter.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Adapter\\AbstractAdapter\u003A\u003Aencrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Adapter\\AbstractAdapter\u003A\u003Aencrypt\u0028\u0029",
             "name": "encrypt",
             "summary": "Encrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Contracts-Encryption-Adapter-AbstractAdapter.html#method_encrypt"
+            "url": "classes/alphaz-Contracts-Encryption-Adapter-AbstractAdapter.html#method_encrypt"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Adapter\\AbstractAdapter\u003A\u003Adecrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Adapter\\AbstractAdapter\u003A\u003Adecrypt\u0028\u0029",
             "name": "decrypt",
             "summary": "Decrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Contracts-Encryption-Adapter-AbstractAdapter.html#method_decrypt"
+            "url": "classes/alphaz-Contracts-Encryption-Adapter-AbstractAdapter.html#method_decrypt"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Encrypt",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Encrypt",
             "name": "Encrypt",
             "summary": "",
-            "url": "classes/Zest-Contracts-Encryption-Encrypt.html"
+            "url": "classes/alphaz-Contracts-Encryption-Encrypt.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Encrypt\u003A\u003AsetAdapter\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Encrypt\u003A\u003AsetAdapter\u0028\u0029",
             "name": "setAdapter",
             "summary": "Set\u0020the\u0020adapter.",
-            "url": "classes/Zest-Contracts-Encryption-Encrypt.html#method_setAdapter"
+            "url": "classes/alphaz-Contracts-Encryption-Encrypt.html#method_setAdapter"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Encrypt\u003A\u003Aencrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Encrypt\u003A\u003Aencrypt\u0028\u0029",
             "name": "encrypt",
             "summary": "Encrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Contracts-Encryption-Encrypt.html#method_encrypt"
+            "url": "classes/alphaz-Contracts-Encryption-Encrypt.html#method_encrypt"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Encrypt\u003A\u003Adecrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Encrypt\u003A\u003Adecrypt\u0028\u0029",
             "name": "decrypt",
             "summary": "Decrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Contracts-Encryption-Encrypt.html#method_decrypt"
+            "url": "classes/alphaz-Contracts-Encryption-Encrypt.html#method_decrypt"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Encryption",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Encryption",
             "name": "Encryption",
             "summary": "",
-            "url": "classes/Zest-Contracts-Encryption-Encryption.html"
+            "url": "classes/alphaz-Contracts-Encryption-Encryption.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Encryption\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Encryption\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Contracts-Encryption-Encryption.html#method___construct"
+            "url": "classes/alphaz-Contracts-Encryption-Encryption.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Encryption\u003A\u003AsetAdapter\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Encryption\u003A\u003AsetAdapter\u0028\u0029",
             "name": "setAdapter",
             "summary": "Set\u0020the\u0020adapter.",
-            "url": "classes/Zest-Contracts-Encryption-Encryption.html#method_setAdapter"
+            "url": "classes/alphaz-Contracts-Encryption-Encryption.html#method_setAdapter"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Encryption\u003A\u003Aencrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Encryption\u003A\u003Aencrypt\u0028\u0029",
             "name": "encrypt",
             "summary": "Encrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Contracts-Encryption-Encryption.html#method_encrypt"
+            "url": "classes/alphaz-Contracts-Encryption-Encryption.html#method_encrypt"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Encryption\u003A\u003Adecrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Encryption\u003A\u003Adecrypt\u0028\u0029",
             "name": "decrypt",
             "summary": "Decrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Contracts-Encryption-Encryption.html#method_decrypt"
+            "url": "classes/alphaz-Contracts-Encryption-Encryption.html#method_decrypt"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Site\\Key",
+            "fqsen": "\\alphaz\\Contracts\\Site\\Key",
             "name": "Key",
             "summary": "",
-            "url": "classes/Zest-Contracts-Site-Key.html"
+            "url": "classes/alphaz-Contracts-Site-Key.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Site\\Key\u003A\u003Aencode\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Site\\Key\u003A\u003Aencode\u0028\u0029",
             "name": "encode",
             "summary": "Converts\u0020a\u0020binary\u0020key\u0020into\u0020its\u0020hexadecimal\u0020representation.",
-            "url": "classes/Zest-Contracts-Site-Key.html#method_encode"
+            "url": "classes/alphaz-Contracts-Site-Key.html#method_encode"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Site\\Key\u003A\u003Adecode\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Site\\Key\u003A\u003Adecode\u0028\u0029",
             "name": "decode",
             "summary": "Converts\u0020a\u0020hexadecimal\u0020key\u0020into\u0020its\u0020binary\u0020representation.",
-            "url": "classes/Zest-Contracts-Site-Key.html#method_decode"
+            "url": "classes/alphaz-Contracts-Site-Key.html#method_decode"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Site\\Key\u003A\u003Agenerate\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Site\\Key\u003A\u003Agenerate\u0028\u0029",
             "name": "generate",
             "summary": "Generates\u0020a\u0020key.",
-            "url": "classes/Zest-Contracts-Site-Key.html#method_generate"
+            "url": "classes/alphaz-Contracts-Site-Key.html#method_generate"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Site\\Key\u003A\u003AgenerateEncode\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Site\\Key\u003A\u003AgenerateEncode\u0028\u0029",
             "name": "generateEncode",
             "summary": "Generates\u0020a\u0020hex\u0020encoded\u0020key.",
-            "url": "classes/Zest-Contracts-Site-Key.html#method_generateEncode"
+            "url": "classes/alphaz-Contracts-Site-Key.html#method_generateEncode"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\AbstractSitemap",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\AbstractSitemap",
             "name": "AbstractSitemap",
             "summary": "",
-            "url": "classes/Zest-Contracts-Sitemap-AbstractSitemap.html"
+            "url": "classes/alphaz-Contracts-Sitemap-AbstractSitemap.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\AbstractSitemap\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\AbstractSitemap\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Determine\u0020whether\u0020the\u0020sitemap\u0020exists.",
-            "url": "classes/Zest-Contracts-Sitemap-AbstractSitemap.html#method_has"
+            "url": "classes/alphaz-Contracts-Sitemap-AbstractSitemap.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\AbstractSitemap\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\AbstractSitemap\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020the\u0020sitemap.",
-            "url": "classes/Zest-Contracts-Sitemap-AbstractSitemap.html#method_delete"
+            "url": "classes/alphaz-Contracts-Sitemap-AbstractSitemap.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\Sitemap",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\Sitemap",
             "name": "Sitemap",
             "summary": "",
-            "url": "classes/Zest-Contracts-Sitemap-Sitemap.html"
+            "url": "classes/alphaz-Contracts-Sitemap-Sitemap.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\Sitemap\u003A\u003AaddItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\Sitemap\u003A\u003AaddItem\u0028\u0029",
             "name": "addItem",
             "summary": "Add\u0020item\u0020to\u0020sitemap.",
-            "url": "classes/Zest-Contracts-Sitemap-Sitemap.html#method_addItem"
+            "url": "classes/alphaz-Contracts-Sitemap-Sitemap.html#method_addItem"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\SitemapIndex",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\SitemapIndex",
             "name": "SitemapIndex",
             "summary": "",
-            "url": "classes/Zest-Contracts-Sitemap-SitemapIndex.html"
+            "url": "classes/alphaz-Contracts-Sitemap-SitemapIndex.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\SitemapIndex\u003A\u003AaddItem\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\SitemapIndex\u003A\u003AaddItem\u0028\u0029",
             "name": "addItem",
             "summary": "Add\u0020item\u0020to\u0020sitemap.",
-            "url": "classes/Zest-Contracts-Sitemap-SitemapIndex.html#method_addItem"
+            "url": "classes/alphaz-Contracts-Sitemap-SitemapIndex.html#method_addItem"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\SitemapWriter",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\SitemapWriter",
             "name": "SitemapWriter",
             "summary": "",
-            "url": "classes/Zest-Contracts-Sitemap-SitemapWriter.html"
+            "url": "classes/alphaz-Contracts-Sitemap-SitemapWriter.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\SitemapWriter\u003A\u003Awrite\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\SitemapWriter\u003A\u003Awrite\u0028\u0029",
             "name": "write",
             "summary": "Write\u0020on\u0020sitemap\u0020file.",
-            "url": "classes/Zest-Contracts-Sitemap-SitemapWriter.html#method_write"
+            "url": "classes/alphaz-Contracts-Sitemap-SitemapWriter.html#method_write"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\SitemapWriter\u003A\u003Aread\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\SitemapWriter\u003A\u003Aread\u0028\u0029",
             "name": "read",
             "summary": "Read\u0020the\u0020sitemap\u0020file.",
-            "url": "classes/Zest-Contracts-Sitemap-SitemapWriter.html#method_read"
+            "url": "classes/alphaz-Contracts-Sitemap-SitemapWriter.html#method_read"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap\\SitemapWriter\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap\\SitemapWriter\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020the\u0020sitemap\u0020file.",
-            "url": "classes/Zest-Contracts-Sitemap-SitemapWriter.html#method_close"
+            "url": "classes/alphaz-Contracts-Sitemap-SitemapWriter.html#method_close"
         },                {
-            "fqsen": "\\Zest\\Contracts\\SystemMessage\\SystemMessage",
+            "fqsen": "\\alphaz\\Contracts\\SystemMessage\\SystemMessage",
             "name": "SystemMessage",
             "summary": "",
-            "url": "classes/Zest-Contracts-SystemMessage-SystemMessage.html"
+            "url": "classes/alphaz-Contracts-SystemMessage-SystemMessage.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\SystemMessage\\SystemMessage\u003A\u003Aadd\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\SystemMessage\\SystemMessage\u003A\u003Aadd\u0028\u0029",
             "name": "add",
             "summary": "Add\u0020the\u0020system\u0020message.",
-            "url": "classes/Zest-Contracts-SystemMessage-SystemMessage.html#method_add"
+            "url": "classes/alphaz-Contracts-SystemMessage-SystemMessage.html#method_add"
         },                {
-            "fqsen": "\\Zest\\Contracts\\SystemMessage\\SystemMessage\u003A\u003Aview\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\SystemMessage\\SystemMessage\u003A\u003Aview\u0028\u0029",
             "name": "view",
             "summary": "View\u0020the\u0020system\u0020message.",
-            "url": "classes/Zest-Contracts-SystemMessage-SystemMessage.html#method_view"
+            "url": "classes/alphaz-Contracts-SystemMessage-SystemMessage.html#method_view"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Time\\Time",
+            "fqsen": "\\alphaz\\Contracts\\Time\\Time",
             "name": "Time",
             "summary": "",
-            "url": "classes/Zest-Contracts-Time-Time.html"
+            "url": "classes/alphaz-Contracts-Time-Time.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Time\\Time\u003A\u003Anow\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Time\\Time\u003A\u003Anow\u0028\u0029",
             "name": "now",
             "summary": "Get\u0020\u0022now\u0022\u0020time.",
-            "url": "classes/Zest-Contracts-Time-Time.html#method_now"
+            "url": "classes/alphaz-Contracts-Time-Time.html#method_now"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Time\\Time\u003A\u003AdaysInMonth\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Time\\Time\u003A\u003AdaysInMonth\u0028\u0029",
             "name": "daysInMonth",
             "summary": "Number\u0020of\u0020days\u0020in\u0020a\u0020month.",
-            "url": "classes/Zest-Contracts-Time-Time.html#method_daysInMonth"
+            "url": "classes/alphaz-Contracts-Time-Time.html#method_daysInMonth"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Time\\Time\u003A\u003AisLeapYear\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Time\\Time\u003A\u003AisLeapYear\u0028\u0029",
             "name": "isLeapYear",
             "summary": "Determine\u0020whether\u0020the\u0020year\u0020is\u0020leap\u0020or\u0020not.",
-            "url": "classes/Zest-Contracts-Time-Time.html#method_isLeapYear"
+            "url": "classes/alphaz-Contracts-Time-Time.html#method_isLeapYear"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Time\\Time\u003A\u003AtimestampToGmt\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Time\\Time\u003A\u003AtimestampToGmt\u0028\u0029",
             "name": "timestampToGmt",
             "summary": "Converts\u0020a\u0020timestamp\u0020to\u0020GMT.",
-            "url": "classes/Zest-Contracts-Time-Time.html#method_timestampToGmt"
+            "url": "classes/alphaz-Contracts-Time-Time.html#method_timestampToGmt"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Time\\Time\u003A\u003Aago\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Time\\Time\u003A\u003Aago\u0028\u0029",
             "name": "ago",
             "summary": "Converts\u0020the\u0020timestamp\u0020in\u0020to\u0020ago\u0020form.",
-            "url": "classes/Zest-Contracts-Time-Time.html#method_ago"
+            "url": "classes/alphaz-Contracts-Time-Time.html#method_ago"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Time\\Time\u003A\u003AformatsSeconds\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Time\\Time\u003A\u003AformatsSeconds\u0028\u0029",
             "name": "formatsSeconds",
             "summary": "Converts\u0020the\u0020timestamp\u0020in\u0020to\u0020h\u003Am\u003As\u0020form.",
-            "url": "classes/Zest-Contracts-Time-Time.html#method_formatsSeconds"
+            "url": "classes/alphaz-Contracts-Time-Time.html#method_formatsSeconds"
         },                {
-            "fqsen": "\\Zest\\Contracts\\View\\View",
+            "fqsen": "\\alphaz\\Contracts\\View\\View",
             "name": "View",
             "summary": "",
-            "url": "classes/Zest-Contracts-View-View.html"
+            "url": "classes/alphaz-Contracts-View-View.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\View\\View\u003A\u003ArenderTemplate\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\View\\View\u003A\u003ArenderTemplate\u0028\u0029",
             "name": "renderTemplate",
             "summary": "Render\u0020a\u0020view\u0020template.",
-            "url": "classes/Zest-Contracts-View-View.html#method_renderTemplate"
+            "url": "classes/alphaz-Contracts-View-View.html#method_renderTemplate"
         },                {
-            "fqsen": "\\Zest\\Contracts\\View\\View\u003A\u003Acompile\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\View\\View\u003A\u003Acompile\u0028\u0029",
             "name": "compile",
             "summary": "Compile.",
-            "url": "classes/Zest-Contracts-View-View.html#method_compile"
+            "url": "classes/alphaz-Contracts-View-View.html#method_compile"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Zip\\Zip",
+            "fqsen": "\\alphaz\\Contracts\\Zip\\Zip",
             "name": "Zip",
             "summary": "",
-            "url": "classes/Zest-Contracts-Zip-Zip.html"
+            "url": "classes/alphaz-Contracts-Zip-Zip.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Zip\\Zip\u003A\u003Aextract\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Zip\\Zip\u003A\u003Aextract\u0028\u0029",
             "name": "extract",
             "summary": "Open\u0020zip\u0020extract\u0020zip.",
-            "url": "classes/Zest-Contracts-Zip-Zip.html#method_extract"
+            "url": "classes/alphaz-Contracts-Zip-Zip.html#method_extract"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Zip\\Zip\u003A\u003Acompress\u0028\u0029",
+            "fqsen": "\\alphaz\\Contracts\\Zip\\Zip\u003A\u003Acompress\u0028\u0029",
             "name": "compress",
             "summary": "Compress\u0020file\u0020into\u0020zip.",
-            "url": "classes/Zest-Contracts-Zip-Zip.html#method_compress"
+            "url": "classes/alphaz-Contracts-Zip-Zip.html#method_compress"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller",
+            "fqsen": "\\alphaz\\Controller\\Controller",
             "name": "Controller",
             "summary": "",
-            "url": "classes/Zest-Controller-Controller.html"
+            "url": "classes/alphaz-Controller-Controller.html"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Controller\\Controller\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Class\u0020constructor.",
-            "url": "classes/Zest-Controller-Controller.html#method___construct"
+            "url": "classes/alphaz-Controller-Controller.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller\u003A\u003A__set\u0028\u0029",
+            "fqsen": "\\alphaz\\Controller\\Controller\u003A\u003A__set\u0028\u0029",
             "name": "__set",
             "summary": "Overriding...\nMagic\u0020method\u0020called\u0020when\u0020a\u0020non\u002Dexistent\u0020or\u0020inaccessible\u0020property\u0020is\nwrite\u0020on\u0020an\u0020object\u0020of\u0020this\u0020class.",
-            "url": "classes/Zest-Controller-Controller.html#method___set"
+            "url": "classes/alphaz-Controller-Controller.html#method___set"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller\u003A\u003A__get\u0028\u0029",
+            "fqsen": "\\alphaz\\Controller\\Controller\u003A\u003A__get\u0028\u0029",
             "name": "__get",
             "summary": "Overriding...\nMagic\u0020method\u0020called\u0020when\u0020a\u0020non\u002Dexistent\u0020or\u0020inaccessible\u0020property\u0020is\ncalled\u0020on\u0020an\u0020object\u0020of\u0020this\u0020class.",
-            "url": "classes/Zest-Controller-Controller.html#method___get"
+            "url": "classes/alphaz-Controller-Controller.html#method___get"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller\u003A\u003A__call\u0028\u0029",
+            "fqsen": "\\alphaz\\Controller\\Controller\u003A\u003A__call\u0028\u0029",
             "name": "__call",
             "summary": "Overriding...\nMagic\u0020method\u0020called\u0020when\u0020a\u0020non\u002Dexistent\u0020or\u0020inaccessible\u0020method\u0020is\ncalled\u0020on\u0020an\u0020object\u0020of\u0020this\u0020class.\u0020Used\u0020to\u0020execute\u0020before\u0020and\u0020after\nfilter\u0020methods\u0020on\u0020action\u0020methods.\u0020Action\u0020methods\u0020need\u0020to\u0020be\u0020named\nwith\u0020an\u0020\u0022Action\u0022\u0020suffix,\u0020e.g.\u0020indexAction,\u0020showAction\u0020etc.",
-            "url": "classes/Zest-Controller-Controller.html#method___call"
+            "url": "classes/alphaz-Controller-Controller.html#method___call"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller\u003A\u003Abefore\u0028\u0029",
+            "fqsen": "\\alphaz\\Controller\\Controller\u003A\u003Abefore\u0028\u0029",
             "name": "before",
             "summary": "Before\u0020filter\u0020\u002D\u0020called\u0020before\u0020an\u0020action\u0020method.",
-            "url": "classes/Zest-Controller-Controller.html#method_before"
+            "url": "classes/alphaz-Controller-Controller.html#method_before"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller\u003A\u003Aafter\u0028\u0029",
+            "fqsen": "\\alphaz\\Controller\\Controller\u003A\u003Aafter\u0028\u0029",
             "name": "after",
             "summary": "After\u0020filter\u0020\u002D\u0020called\u0020after\u0020an\u0020action\u0020method.",
-            "url": "classes/Zest-Controller-Controller.html#method_after"
+            "url": "classes/alphaz-Controller-Controller.html#method_after"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller\u003A\u003A__wakeup\u0028\u0029",
+            "fqsen": "\\alphaz\\Controller\\Controller\u003A\u003A__wakeup\u0028\u0029",
             "name": "__wakeup",
             "summary": "Prevent\u0020unserializing.",
-            "url": "classes/Zest-Controller-Controller.html#method___wakeup"
+            "url": "classes/alphaz-Controller-Controller.html#method___wakeup"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller\u003A\u003A\u0024route_params",
+            "fqsen": "\\alphaz\\Controller\\Controller\u003A\u003A\u0024route_params",
             "name": "route_params",
             "summary": "Parameters\u0020from\u0020the\u0020matched\u0020route.",
-            "url": "classes/Zest-Controller-Controller.html#property_route_params"
+            "url": "classes/alphaz-Controller-Controller.html#property_route_params"
         },                {
-            "fqsen": "\\Zest\\Controller\\Controller\u003A\u003A\u0024input",
+            "fqsen": "\\alphaz\\Controller\\Controller\u003A\u003A\u0024input",
             "name": "input",
             "summary": "Data\u0020form\u0020the\u0020input.",
-            "url": "classes/Zest-Controller-Controller.html#property_input"
+            "url": "classes/alphaz-Controller-Controller.html#property_input"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies",
+            "fqsen": "\\alphaz\\Cookies\\Cookies",
             "name": "Cookies",
             "summary": "",
-            "url": "classes/Zest-Cookies-Cookies.html"
+            "url": "classes/alphaz-Cookies-Cookies.html"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\u0020the\u0020cookie\u0020value.",
-            "url": "classes/Zest-Cookies-Cookies.html#method_set"
+            "url": "classes/alphaz-Cookies-Cookies.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003AgetPathAndDomain\u0028\u0029",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003AgetPathAndDomain\u0028\u0029",
             "name": "getPathAndDomain",
             "summary": "Get\u0020the\u0020path\u0020and\u0020domain,\u0020or\u0020the\u0020default\u0020values.",
-            "url": "classes/Zest-Cookies-Cookies.html#method_getPathAndDomain"
+            "url": "classes/alphaz-Cookies-Cookies.html#method_getPathAndDomain"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003AsetDefaultPathAndDomain\u0028\u0029",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003AsetDefaultPathAndDomain\u0028\u0029",
             "name": "setDefaultPathAndDomain",
             "summary": "Set\u0020the\u0020default\u0020path\u0020and\u0020domain\u0020for\u0020the\u0020jar.",
-            "url": "classes/Zest-Cookies-Cookies.html#method_setDefaultPathAndDomain"
+            "url": "classes/alphaz-Cookies-Cookies.html#method_setDefaultPathAndDomain"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003AsetMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003AsetMultiple\u0028\u0029",
             "name": "setMultiple",
             "summary": "Set\u0020the\u0020multiple\u0020cookies\u0020value.",
-            "url": "classes/Zest-Cookies-Cookies.html#method_setMultiple"
+            "url": "classes/alphaz-Cookies-Cookies.html#method_setMultiple"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Determine\u0020if\u0020cookie\u0020set\u0020or\u0020not.",
-            "url": "classes/Zest-Cookies-Cookies.html#method_has"
+            "url": "classes/alphaz-Cookies-Cookies.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020cookie\u0020value.",
-            "url": "classes/Zest-Cookies-Cookies.html#method_get"
+            "url": "classes/alphaz-Cookies-Cookies.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003AgetMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003AgetMultiple\u0028\u0029",
             "name": "getMultiple",
             "summary": "Get\u0020multiple\u0020values\u0020from\u0020cookie.",
-            "url": "classes/Zest-Cookies-Cookies.html#method_getMultiple"
+            "url": "classes/alphaz-Cookies-Cookies.html#method_getMultiple"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020the\u0020cookie.",
-            "url": "classes/Zest-Cookies-Cookies.html#method_delete"
+            "url": "classes/alphaz-Cookies-Cookies.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003AdeleteMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003AdeleteMultiple\u0028\u0029",
             "name": "deleteMultiple",
             "summary": "Delete\u0020multiple\u0020cookies.",
-            "url": "classes/Zest-Cookies-Cookies.html#method_deleteMultiple"
+            "url": "classes/alphaz-Cookies-Cookies.html#method_deleteMultiple"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003A\u0024path",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003A\u0024path",
             "name": "path",
             "summary": "The\u0020default\u0020path\u0020\u0028if\u0020specified\u0029.",
-            "url": "classes/Zest-Cookies-Cookies.html#property_path"
+            "url": "classes/alphaz-Cookies-Cookies.html#property_path"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003A\u0024domain",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003A\u0024domain",
             "name": "domain",
             "summary": "The\u0020default\u0020domain\u0020\u0028if\u0020specified\u0029.",
-            "url": "classes/Zest-Cookies-Cookies.html#property_domain"
+            "url": "classes/alphaz-Cookies-Cookies.html#property_domain"
         },                {
-            "fqsen": "\\Zest\\Cookies\\Cookies\u003A\u003A\u0024secure",
+            "fqsen": "\\alphaz\\Cookies\\Cookies\u003A\u003A\u0024secure",
             "name": "secure",
             "summary": "The\u0020default\u0020secure\u0020setting\u0020\u0028defaults\u0020to\u0020false\u0029.",
-            "url": "classes/Zest-Cookies-Cookies.html#property_secure"
+            "url": "classes/alphaz-Cookies-Cookies.html#property_secure"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays",
+            "fqsen": "\\alphaz\\Data\\Arrays",
             "name": "Arrays",
             "summary": "",
-            "url": "classes/Zest-Data-Arrays.html"
+            "url": "classes/alphaz-Data-Arrays.html"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AisReallyArray\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AisReallyArray\u0028\u0029",
             "name": "isReallyArray",
             "summary": "Determine\u0020is\u0020given\u0020value\u0020is\u0020really,\u0020array\u003F.",
-            "url": "classes/Zest-Data-Arrays.html#method_isReallyArray"
+            "url": "classes/alphaz-Data-Arrays.html#method_isReallyArray"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AisSequential\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AisSequential\u0028\u0029",
             "name": "isSequential",
             "summary": "Determine\u0020array\u0020is\u0020\u0028sqquential\u0029.",
-            "url": "classes/Zest-Data-Arrays.html#method_isSequential"
+            "url": "classes/alphaz-Data-Arrays.html#method_isSequential"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AisAssoc\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AisAssoc\u0028\u0029",
             "name": "isAssoc",
             "summary": "Determine\u0020array\u0020is\u0020Assoc.",
-            "url": "classes/Zest-Data-Arrays.html#method_isAssoc"
+            "url": "classes/alphaz-Data-Arrays.html#method_isAssoc"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AisMulti\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AisMulti\u0028\u0029",
             "name": "isMulti",
             "summary": "Determine\u0020array\u0020is\u0020multi\u002Ddimensional.",
-            "url": "classes/Zest-Data-Arrays.html#method_isMulti"
+            "url": "classes/alphaz-Data-Arrays.html#method_isMulti"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AgetType\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AgetType\u0028\u0029",
             "name": "getType",
             "summary": "Get\u0020type\u0020of\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_getType"
+            "url": "classes/alphaz-Data-Arrays.html#method_getType"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Aadd\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Aadd\u0028\u0029",
             "name": "add",
             "summary": "Add\u0020an\u0020element\u0020to\u0020an\u0020array\u0020using\u0020\u0022dot\u0022\u0020notation\u0020if\u0020it\u0020doesn\u0027t\u0020exist.",
-            "url": "classes/Zest-Data-Arrays.html#method_add"
+            "url": "classes/alphaz-Data-Arrays.html#method_add"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\u0020an\u0020array\u0020item\u0020to\u0020a\u0020given\u0020value\u0020using\u0020\u0022operator\u0022\u0020notation.",
-            "url": "classes/Zest-Data-Arrays.html#method_set"
+            "url": "classes/alphaz-Data-Arrays.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020an\u0020item\u0020from\u0020an\u0020array\u0020using\u0020\u0022operator\u0022\u0020notation.",
-            "url": "classes/Zest-Data-Arrays.html#method_get"
+            "url": "classes/alphaz-Data-Arrays.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Determine\u0020if\u0020an\u0020item\u0020or\u0020items\u0020exist\u0020in\u0020an\u0020array\u0020using\u0020\u0027Operator\u0027\u0020notation.",
-            "url": "classes/Zest-Data-Arrays.html#method_has"
+            "url": "classes/alphaz-Data-Arrays.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AmultiToAssoc\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AmultiToAssoc\u0028\u0029",
             "name": "multiToAssoc",
             "summary": "Convert\u0020a\u0020multi\u002Ddimensional\u0020array\u0020to\u0020assoc.",
-            "url": "classes/Zest-Data-Arrays.html#method_multiToAssoc"
+            "url": "classes/alphaz-Data-Arrays.html#method_multiToAssoc"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Adot\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Adot\u0028\u0029",
             "name": "dot",
             "summary": "Converted\u0020a\u0020multi\u002Ddimensional\u0020associative\u0020array\u0020with\u0020\u0060dot\u0060.",
-            "url": "classes/Zest-Data-Arrays.html#method_dot"
+            "url": "classes/alphaz-Data-Arrays.html#method_dot"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AmultiToAssocWithSpecificOpr\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AmultiToAssocWithSpecificOpr\u0028\u0029",
             "name": "multiToAssocWithSpecificOpr",
             "summary": "Converted\u0020a\u0020multi\u002Ddimensional\u0020associative\u0020array\u0020with\u0020\u0060operator\u0060.",
-            "url": "classes/Zest-Data-Arrays.html#method_multiToAssocWithSpecificOpr"
+            "url": "classes/alphaz-Data-Arrays.html#method_multiToAssocWithSpecificOpr"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Aprepend\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Aprepend\u0028\u0029",
             "name": "prepend",
             "summary": "Push\u0020an\u0020item\u0020onto\u0020the\u0020beginning\u0020of\u0020an\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_prepend"
+            "url": "classes/alphaz-Data-Arrays.html#method_prepend"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Aappend\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Aappend\u0028\u0029",
             "name": "append",
             "summary": "Push\u0020an\u0020item\u0020onto\u0020the\u0020end\u0020of\u0020an\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_append"
+            "url": "classes/alphaz-Data-Arrays.html#method_append"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Aunique\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Aunique\u0028\u0029",
             "name": "unique",
             "summary": "Get\u0020the\u0020unique\u0020elements\u0020from\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_unique"
+            "url": "classes/alphaz-Data-Arrays.html#method_unique"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AsubSetOfArray\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AsubSetOfArray\u0028\u0029",
             "name": "subSetOfArray",
             "summary": "Get\u0020a\u0020subset\u0020of\u0020the\u0020items\u0020from\u0020the\u0020given\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_subSetOfArray"
+            "url": "classes/alphaz-Data-Arrays.html#method_subSetOfArray"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Aforget\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Aforget\u0028\u0029",
             "name": "forget",
             "summary": "Remove\u0020one\u0020or\u0020many\u0020array\u0020items\u0020from\u0020a\u0020given\u0020array\u0020using\u0020\u0022operator\u0022\u0020notation.",
-            "url": "classes/Zest-Data-Arrays.html#method_forget"
+            "url": "classes/alphaz-Data-Arrays.html#method_forget"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Aexcept\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Aexcept\u0028\u0029",
             "name": "except",
             "summary": "Get\u0020all\u0020of\u0020the\u0020given\u0020array\u0020except\u0020for\u0020a\u0020specified\u0020array\u0020of\u0020keys.",
-            "url": "classes/Zest-Data-Arrays.html#method_except"
+            "url": "classes/alphaz-Data-Arrays.html#method_except"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Apull\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Apull\u0028\u0029",
             "name": "pull",
             "summary": "Get\u0020a\u0020value\u0020from\u0020the\u0020array,\u0020and\u0020remove\u0020it.",
-            "url": "classes/Zest-Data-Arrays.html#method_pull"
+            "url": "classes/alphaz-Data-Arrays.html#method_pull"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AarrayChangeCaseKey\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AarrayChangeCaseKey\u0028\u0029",
             "name": "arrayChangeCaseKey",
             "summary": "Changes\u0020the\u0020case\u0020of\u0020all\u0020keys\u0020in\u0020an\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_arrayChangeCaseKey"
+            "url": "classes/alphaz-Data-Arrays.html#method_arrayChangeCaseKey"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AarrayChangeCaseValue\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AarrayChangeCaseValue\u0028\u0029",
             "name": "arrayChangeCaseValue",
             "summary": "Changes\u0020the\u0020case\u0020of\u0020all\u0020values\u0020in\u0020an\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_arrayChangeCaseValue"
+            "url": "classes/alphaz-Data-Arrays.html#method_arrayChangeCaseValue"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AremoveDuplicates\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AremoveDuplicates\u0028\u0029",
             "name": "removeDuplicates",
             "summary": "Remove\u0020duplicate\u0020values\u0020from\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_removeDuplicates"
+            "url": "classes/alphaz-Data-Arrays.html#method_removeDuplicates"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AmostOrLeastOccurring\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AmostOrLeastOccurring\u0028\u0029",
             "name": "mostOrLeastOccurring",
             "summary": "Get\u0020the\u0020most\u007Cleast\u0020occurring\u0020value\u0020from\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_mostOrLeastOccurring"
+            "url": "classes/alphaz-Data-Arrays.html#method_mostOrLeastOccurring"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AmostOccurring\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AmostOccurring\u0028\u0029",
             "name": "mostOccurring",
             "summary": "Get\u0020the\u0020most\u0020occurring\u0020value\u0020from\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_mostOccurring"
+            "url": "classes/alphaz-Data-Arrays.html#method_mostOccurring"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003AleastOccurring\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003AleastOccurring\u0028\u0029",
             "name": "leastOccurring",
             "summary": "Get\u0020the\u0020least\u0020occurring\u0020value\u0020from\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_leastOccurring"
+            "url": "classes/alphaz-Data-Arrays.html#method_leastOccurring"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Aquery\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Aquery\u0028\u0029",
             "name": "query",
             "summary": "Convert\u0020the\u0020array\u0020into\u0020a\u0020query\u0020string.",
-            "url": "classes/Zest-Data-Arrays.html#method_query"
+            "url": "classes/alphaz-Data-Arrays.html#method_query"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Awhere\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Awhere\u0028\u0029",
             "name": "where",
             "summary": "Filter\u0020the\u0020array\u0020using\u0020the\u0020given\u0020callback.",
-            "url": "classes/Zest-Data-Arrays.html#method_where"
+            "url": "classes/alphaz-Data-Arrays.html#method_where"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Ashuffle\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Ashuffle\u0028\u0029",
             "name": "shuffle",
             "summary": "Shuffle\u0020the\u0020given\u0020array\u0020for\u0020associative\u0020arrays,\u0020preserves\u0020key\u003D\u003Evalue\u0020pairs.",
-            "url": "classes/Zest-Data-Arrays.html#method_shuffle"
+            "url": "classes/alphaz-Data-Arrays.html#method_shuffle"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Arandom\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Arandom\u0028\u0029",
             "name": "random",
             "summary": "Get\u0020one\u0020or\u0020a\u0020specified\u0020number\u0020of\u0020random\u0020values\u0020from\u0020an\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_random"
+            "url": "classes/alphaz-Data-Arrays.html#method_random"
         },                {
-            "fqsen": "\\Zest\\Data\\Arrays\u003A\u003Apluck\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Arrays\u003A\u003Apluck\u0028\u0029",
             "name": "pluck",
             "summary": "Get\u0020multiple\u0020values\u0020of\u0020same\u0020keys\u0020from\u0020multi\u002Ddimessional\u0020array.",
-            "url": "classes/Zest-Data-Arrays.html#method_pluck"
+            "url": "classes/alphaz-Data-Arrays.html#method_pluck"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract",
             "name": "ArraysContract",
             "summary": "",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AisReallyArray\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AisReallyArray\u0028\u0029",
             "name": "isReallyArray",
             "summary": "Determine\u0020is\u0020given\u0020value\u0020is\u0020really,\u0020array\u003F.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_isReallyArray"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_isReallyArray"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AisSequential\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AisSequential\u0028\u0029",
             "name": "isSequential",
             "summary": "Determine\u0020array\u0020is\u0020\u0028sqquential\u0029.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_isSequential"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_isSequential"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AisAssoc\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AisAssoc\u0028\u0029",
             "name": "isAssoc",
             "summary": "Determine\u0020array\u0020is\u0020Assoc.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_isAssoc"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_isAssoc"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AisMulti\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AisMulti\u0028\u0029",
             "name": "isMulti",
             "summary": "Determine\u0020array\u0020is\u0020multi\u002Ddimensional.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_isMulti"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_isMulti"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AgetType\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AgetType\u0028\u0029",
             "name": "getType",
             "summary": "Get\u0020type\u0020of\u0020array.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_getType"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_getType"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Aadd\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Aadd\u0028\u0029",
             "name": "add",
             "summary": "Add\u0020an\u0020element\u0020to\u0020an\u0020array\u0020using\u0020\u0022dot\u0022\u0020notation\u0020if\u0020it\u0020doesn\u0027t\u0020exist.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_add"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_add"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\u0020an\u0020array\u0020item\u0020to\u0020a\u0020given\u0020value\u0020using\u0020\u0022operator\u0022\u0020notation.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_set"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020an\u0020item\u0020from\u0020an\u0020array\u0020using\u0020\u0022operator\u0022\u0020notation.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_get"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Determine\u0020if\u0020an\u0020item\u0020or\u0020items\u0020exist\u0020in\u0020an\u0020array\u0020using\u0020\u0027Operator\u0027\u0020notation.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_has"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Adot\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Adot\u0028\u0029",
             "name": "dot",
             "summary": "Converted\u0020a\u0020multi\u002Ddimensional\u0020associative\u0020array\u0020with\u0020\u0060dot\u0060.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_dot"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_dot"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AmultiToAssocWithSpecificOpr\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AmultiToAssocWithSpecificOpr\u0028\u0029",
             "name": "multiToAssocWithSpecificOpr",
             "summary": "Converted\u0020a\u0020multi\u002Ddimensional\u0020associative\u0020array\u0020with\u0020\u0060operator\u0060.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_multiToAssocWithSpecificOpr"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_multiToAssocWithSpecificOpr"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Aforget\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Aforget\u0028\u0029",
             "name": "forget",
             "summary": "Remove\u0020one\u0020or\u0020many\u0020array\u0020items\u0020from\u0020a\u0020given\u0020array\u0020using\u0020\u0022operator\u0022\u0020notation.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_forget"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_forget"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Aexcept\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Aexcept\u0028\u0029",
             "name": "except",
             "summary": "Get\u0020all\u0020of\u0020the\u0020given\u0020array\u0020except\u0020for\u0020a\u0020specified\u0020array\u0020of\u0020keys.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_except"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_except"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Apull\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Apull\u0028\u0029",
             "name": "pull",
             "summary": "Get\u0020a\u0020value\u0020from\u0020the\u0020array,\u0020and\u0020remove\u0020it.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_pull"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_pull"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AarrayChangeCaseKey\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AarrayChangeCaseKey\u0028\u0029",
             "name": "arrayChangeCaseKey",
             "summary": "Changes\u0020the\u0020case\u0020of\u0020all\u0020keys\u0020in\u0020an\u0020array.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_arrayChangeCaseKey"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_arrayChangeCaseKey"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AarrayChangeCaseValue\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AarrayChangeCaseValue\u0028\u0029",
             "name": "arrayChangeCaseValue",
             "summary": "Changes\u0020the\u0020case\u0020of\u0020all\u0020values\u0020in\u0020an\u0020array.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_arrayChangeCaseValue"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_arrayChangeCaseValue"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AremoveDuplicates\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AremoveDuplicates\u0028\u0029",
             "name": "removeDuplicates",
             "summary": "Remove\u0020duplicate\u0020values\u0020from\u0020array.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_removeDuplicates"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_removeDuplicates"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AmostOccurring\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AmostOccurring\u0028\u0029",
             "name": "mostOccurring",
             "summary": "Get\u0020the\u0020most\u0020occurring\u0020value\u0020from\u0020array.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_mostOccurring"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_mostOccurring"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003AleastOccurring\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003AleastOccurring\u0028\u0029",
             "name": "leastOccurring",
             "summary": "Get\u0020the\u0020least\u0020occurring\u0020value\u0020from\u0020array.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_leastOccurring"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_leastOccurring"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Aquery\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Aquery\u0028\u0029",
             "name": "query",
             "summary": "Convert\u0020the\u0020array\u0020into\u0020a\u0020query\u0020string.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_query"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_query"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Awhere\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Awhere\u0028\u0029",
             "name": "where",
             "summary": "Filter\u0020the\u0020array\u0020using\u0020the\u0020given\u0020callback.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_where"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_where"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Ashuffle\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Ashuffle\u0028\u0029",
             "name": "shuffle",
             "summary": "Shuffle\u0020the\u0020given\u0020array\u0020for\u0020associative\u0020arrays,\u0020preserves\u0020key\u003D\u003Evalue\u0020pairs.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_shuffle"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_shuffle"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Arandom\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Arandom\u0028\u0029",
             "name": "random",
             "summary": "Get\u0020one\u0020or\u0020a\u0020specified\u0020number\u0020of\u0020random\u0020values\u0020from\u0020an\u0020array.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_random"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_random"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ArraysContract\u003A\u003Apluck\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ArraysContract\u003A\u003Apluck\u0028\u0029",
             "name": "pluck",
             "summary": "Get\u0020multiple\u0020values\u0020of\u0020same\u0020keys\u0020from\u0020multi\u002Ddimessional\u0020array.",
-            "url": "classes/Zest-Data-Contracts-ArraysContract.html#method_pluck"
+            "url": "classes/alphaz-Data-Contracts-ArraysContract.html#method_pluck"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ConversionContract",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ConversionContract",
             "name": "ConversionContract",
             "summary": "",
-            "url": "classes/Zest-Data-Contracts-ConversionContract.html"
+            "url": "classes/alphaz-Data-Contracts-ConversionContract.html"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ConversionContract\u003A\u003AarrayToObject\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ConversionContract\u003A\u003AarrayToObject\u0028\u0029",
             "name": "arrayToObject",
             "summary": "Convert\u0020arrays\u0020to\u0020Object.",
-            "url": "classes/Zest-Data-Contracts-ConversionContract.html#method_arrayToObject"
+            "url": "classes/alphaz-Data-Contracts-ConversionContract.html#method_arrayToObject"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ConversionContract\u003A\u003AobjectToArray\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ConversionContract\u003A\u003AobjectToArray\u0028\u0029",
             "name": "objectToArray",
             "summary": "Convert\u0020Objects\u0020to\u0020arrays.",
-            "url": "classes/Zest-Data-Contracts-ConversionContract.html#method_objectToArray"
+            "url": "classes/alphaz-Data-Contracts-ConversionContract.html#method_objectToArray"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ConversionContract\u003A\u003AbitToBytes\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ConversionContract\u003A\u003AbitToBytes\u0028\u0029",
             "name": "bitToBytes",
             "summary": "Convert\u0020the\u0020bit\u0020into\u0020bytes.",
-            "url": "classes/Zest-Data-Contracts-ConversionContract.html#method_bitToBytes"
+            "url": "classes/alphaz-Data-Contracts-ConversionContract.html#method_bitToBytes"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ConversionContract\u003A\u003AviewToHumanize\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ConversionContract\u003A\u003AviewToHumanize\u0028\u0029",
             "name": "viewToHumanize",
             "summary": "Convert\u0020the\u0020views\u0020to\u0020relative\u0020unit.",
-            "url": "classes/Zest-Data-Contracts-ConversionContract.html#method_viewToHumanize"
+            "url": "classes/alphaz-Data-Contracts-ConversionContract.html#method_viewToHumanize"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ConversionContract\u003A\u003AxmlToArray\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ConversionContract\u003A\u003AxmlToArray\u0028\u0029",
             "name": "xmlToArray",
             "summary": "Convert\u0020XML\u0020to\u0020arrays.",
-            "url": "classes/Zest-Data-Contracts-ConversionContract.html#method_xmlToArray"
+            "url": "classes/alphaz-Data-Contracts-ConversionContract.html#method_xmlToArray"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\ConversionContract\u003A\u003Aunit\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\ConversionContract\u003A\u003Aunit\u0028\u0029",
             "name": "unit",
             "summary": "Unit\u0020conversion.",
-            "url": "classes/Zest-Data-Contracts-ConversionContract.html#method_unit"
+            "url": "classes/alphaz-Data-Contracts-ConversionContract.html#method_unit"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\StrContract",
+            "fqsen": "\\alphaz\\Data\\Contracts\\StrContract",
             "name": "StrContract",
             "summary": "",
-            "url": "classes/Zest-Data-Contracts-StrContract.html"
+            "url": "classes/alphaz-Data-Contracts-StrContract.html"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\StrContract\u003A\u003Areverse\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\StrContract\u003A\u003Areverse\u0028\u0029",
             "name": "reverse",
             "summary": "Reverse\u0020the\u0020string.",
-            "url": "classes/Zest-Data-Contracts-StrContract.html#method_reverse"
+            "url": "classes/alphaz-Data-Contracts-StrContract.html#method_reverse"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\StrContract\u003A\u003Aconcat\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\StrContract\u003A\u003Aconcat\u0028\u0029",
             "name": "concat",
             "summary": "Concat\u0020the\u0020strings.",
-            "url": "classes/Zest-Data-Contracts-StrContract.html#method_concat"
+            "url": "classes/alphaz-Data-Contracts-StrContract.html#method_concat"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts\\StrContract\u003A\u003Acount\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Contracts\\StrContract\u003A\u003Acount\u0028\u0029",
             "name": "count",
             "summary": "Count\u0020the\u0020string.",
-            "url": "classes/Zest-Data-Contracts-StrContract.html#method_count"
+            "url": "classes/alphaz-Data-Contracts-StrContract.html#method_count"
         },                {
-            "fqsen": "\\Zest\\Data\\Conversion",
+            "fqsen": "\\alphaz\\Data\\Conversion",
             "name": "Conversion",
             "summary": "",
-            "url": "classes/Zest-Data-Conversion.html"
+            "url": "classes/alphaz-Data-Conversion.html"
         },                {
-            "fqsen": "\\Zest\\Data\\Conversion\u003A\u003AarrayToObject\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Conversion\u003A\u003AarrayToObject\u0028\u0029",
             "name": "arrayToObject",
             "summary": "Convert\u0020arrays\u0020to\u0020Object.",
-            "url": "classes/Zest-Data-Conversion.html#method_arrayToObject"
+            "url": "classes/alphaz-Data-Conversion.html#method_arrayToObject"
         },                {
-            "fqsen": "\\Zest\\Data\\Conversion\u003A\u003AobjectToArray\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Conversion\u003A\u003AobjectToArray\u0028\u0029",
             "name": "objectToArray",
             "summary": "Convert\u0020Objects\u0020to\u0020arrays.",
-            "url": "classes/Zest-Data-Conversion.html#method_objectToArray"
+            "url": "classes/alphaz-Data-Conversion.html#method_objectToArray"
         },                {
-            "fqsen": "\\Zest\\Data\\Conversion\u003A\u003AbitToBytes\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Conversion\u003A\u003AbitToBytes\u0028\u0029",
             "name": "bitToBytes",
             "summary": "Convert\u0020the\u0020bit\u0020into\u0020bytes.",
-            "url": "classes/Zest-Data-Conversion.html#method_bitToBytes"
+            "url": "classes/alphaz-Data-Conversion.html#method_bitToBytes"
         },                {
-            "fqsen": "\\Zest\\Data\\Conversion\u003A\u003AviewToHumanize\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Conversion\u003A\u003AviewToHumanize\u0028\u0029",
             "name": "viewToHumanize",
             "summary": "Convert\u0020the\u0020views\u0020to\u0020relative\u0020unit.",
-            "url": "classes/Zest-Data-Conversion.html#method_viewToHumanize"
+            "url": "classes/alphaz-Data-Conversion.html#method_viewToHumanize"
         },                {
-            "fqsen": "\\Zest\\Data\\Conversion\u003A\u003AxmlToArray\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Conversion\u003A\u003AxmlToArray\u0028\u0029",
             "name": "xmlToArray",
             "summary": "Convert\u0020XML\u0020to\u0020arrays.",
-            "url": "classes/Zest-Data-Conversion.html#method_xmlToArray"
+            "url": "classes/alphaz-Data-Conversion.html#method_xmlToArray"
         },                {
-            "fqsen": "\\Zest\\Data\\Conversion\u003A\u003Aunit\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Conversion\u003A\u003Aunit\u0028\u0029",
             "name": "unit",
             "summary": "Unit\u0020conversion.",
-            "url": "classes/Zest-Data-Conversion.html#method_unit"
+            "url": "classes/alphaz-Data-Conversion.html#method_unit"
         },                {
-            "fqsen": "\\Zest\\Data\\Str",
+            "fqsen": "\\alphaz\\Data\\Str",
             "name": "Str",
             "summary": "",
-            "url": "classes/Zest-Data-Str.html"
+            "url": "classes/alphaz-Data-Str.html"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003Aencoding\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003Aencoding\u0028\u0029",
             "name": "encoding",
             "summary": "Get\u0020the\u0020encoding.",
-            "url": "classes/Zest-Data-Str.html#method_encoding"
+            "url": "classes/alphaz-Data-Str.html#method_encoding"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003Areverse\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003Areverse\u0028\u0029",
             "name": "reverse",
             "summary": "Reverse\u0020the\u0020string.",
-            "url": "classes/Zest-Data-Str.html#method_reverse"
+            "url": "classes/alphaz-Data-Str.html#method_reverse"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003Aconcat\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003Aconcat\u0028\u0029",
             "name": "concat",
             "summary": "Concat\u0020the\u0020strings.",
-            "url": "classes/Zest-Data-Str.html#method_concat"
+            "url": "classes/alphaz-Data-Str.html#method_concat"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003Acount\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003Acount\u0028\u0029",
             "name": "count",
             "summary": "Count\u0020the\u0020string.",
-            "url": "classes/Zest-Data-Str.html#method_count"
+            "url": "classes/alphaz-Data-Str.html#method_count"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003AhasUpperCase\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003AhasUpperCase\u0028\u0029",
             "name": "hasUpperCase",
             "summary": "Check\u0020if\u0020string\u0020has\u0020atleast\u0020one\u0020uppercase.",
-            "url": "classes/Zest-Data-Str.html#method_hasUpperCase"
+            "url": "classes/alphaz-Data-Str.html#method_hasUpperCase"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003AhasLowerCase\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003AhasLowerCase\u0028\u0029",
             "name": "hasLowerCase",
             "summary": "Check\u0020if\u0020string\u0020has\u0020atleast\u0020one\u0020lowercase.",
-            "url": "classes/Zest-Data-Str.html#method_hasLowerCase"
+            "url": "classes/alphaz-Data-Str.html#method_hasLowerCase"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003AConvertCase\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003AConvertCase\u0028\u0029",
             "name": "ConvertCase",
             "summary": "Change\u0020case\u0020of\u0020character\u0020to\u0020opposite\u0020case.",
-            "url": "classes/Zest-Data-Str.html#method_ConvertCase"
+            "url": "classes/alphaz-Data-Str.html#method_ConvertCase"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003AisBase64\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003AisBase64\u0028\u0029",
             "name": "isBase64",
             "summary": "Check\u0020if\u0020the\u0020input\u0020string\u0020is\u0020valid\u0020base64.",
-            "url": "classes/Zest-Data-Str.html#method_isBase64"
+            "url": "classes/alphaz-Data-Str.html#method_isBase64"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003Asubstring\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003Asubstring\u0028\u0029",
             "name": "substring",
             "summary": "Return\u0020part\u0020of\u0020a\u0020string.",
-            "url": "classes/Zest-Data-Str.html#method_substring"
+            "url": "classes/alphaz-Data-Str.html#method_substring"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003AstripWhitespaces\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003AstripWhitespaces\u0028\u0029",
             "name": "stripWhitespaces",
             "summary": "Strip\u0020whitespace\u0020\u0028or\u0020other\u0020characters\u0029\u0020from\u0020the\u0020beginning\u0020and\u0020end\u0020of\u0020a\u0020string.",
-            "url": "classes/Zest-Data-Str.html#method_stripWhitespaces"
+            "url": "classes/alphaz-Data-Str.html#method_stripWhitespaces"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003Arepeat\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003Arepeat\u0028\u0029",
             "name": "repeat",
             "summary": "Repeats\u0020string\u0020\u0024amount\u007C1\u0020times.",
-            "url": "classes/Zest-Data-Str.html#method_repeat"
+            "url": "classes/alphaz-Data-Str.html#method_repeat"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003Aslice\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003Aslice\u0028\u0029",
             "name": "slice",
             "summary": "extracts\u0020a\u0020section\u0020of\u0020a\u0020string.",
-            "url": "classes/Zest-Data-Str.html#method_slice"
+            "url": "classes/alphaz-Data-Str.html#method_slice"
         },                {
-            "fqsen": "\\Zest\\Data\\Str\u003A\u003Ashuffle\u0028\u0029",
+            "fqsen": "\\alphaz\\Data\\Str\u003A\u003Ashuffle\u0028\u0029",
             "name": "shuffle",
             "summary": "Randomly\u0020shuffles\u0020the\u0020given\u0020string.",
-            "url": "classes/Zest-Data-Str.html#method_shuffle"
+            "url": "classes/alphaz-Data-Str.html#method_shuffle"
         },                {
-            "fqsen": "\\Zest\\Database\\Db",
+            "fqsen": "\\alphaz\\Database\\Db",
             "name": "Db",
             "summary": "",
-            "url": "classes/Zest-Database-Db.html"
+            "url": "classes/alphaz-Database-Db.html"
         },                {
-            "fqsen": "\\Zest\\Database\\Db\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Db\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "",
-            "url": "classes/Zest-Database-Db.html#method___construct"
+            "url": "classes/alphaz-Database-Db.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Database\\Db\u003A\u003A\u0024db",
+            "fqsen": "\\alphaz\\Database\\Db\u003A\u003A\u0024db",
             "name": "db",
             "summary": "",
-            "url": "classes/Zest-Database-Db.html#property_db"
+            "url": "classes/alphaz-Database-Db.html#property_db"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb",
             "name": "MySqlDb",
             "summary": "PHP\u0020class\nDatabase\u0020name\u0020should\u0020be\u0020provided\u0020once\u0020needed.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Set\u0020the\u0020values.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method___construct"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aconnect\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aconnect\u0028\u0029",
             "name": "connect",
             "summary": "Open\u0020database\u0020connection.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_connect"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_connect"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020database\u0020connection.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_close"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_close"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AdbSettings\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AdbSettings\u0028\u0029",
             "name": "dbSettings",
             "summary": "Database\u0020default\u0020setting.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_dbSettings"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_dbSettings"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Ainsert\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Ainsert\u0028\u0029",
             "name": "insert",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020insert\u0020into\u0020db.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_insert"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_insert"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aupdate\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aupdate\u0028\u0029",
             "name": "update",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020Update\u0020data\u0020in\u0020database.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_update"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_update"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aquote\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aquote\u0028\u0029",
             "name": "quote",
             "summary": "quote\u0020the\u0020string.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_quote"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_quote"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aselect\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Aselect\u0028\u0029",
             "name": "select",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020select\u0020data\u0020from\u0020database.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_select"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_select"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020delete\u0020data\u0020from\u0020database.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_delete"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Acount\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003Acount\u0028\u0029",
             "name": "count",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020count\u0020data\u0020from\u0020database.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_count"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_count"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AcreateDb\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AcreateDb\u0028\u0029",
             "name": "createDb",
             "summary": "Creating\u0020database\u0020if\u0020not\u0020exists.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_createDb"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_createDb"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AdeleteDb\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AdeleteDb\u0028\u0029",
             "name": "deleteDb",
             "summary": "Deleting\u0020database\u0020if\u0020not\u0020exists.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_deleteDb"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_deleteDb"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AdeleteTbl\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AdeleteTbl\u0028\u0029",
             "name": "deleteTbl",
             "summary": "Deleting\u0020table\u0020if\u0020not\u0020exists.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_deleteTbl"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_deleteTbl"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AcreateTbl\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003AcreateTbl\u0028\u0029",
             "name": "createTbl",
             "summary": "Creating\u0020table.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#method_createTbl"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#method_createTbl"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003A\u0024settings",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003A\u0024settings",
             "name": "settings",
             "summary": "For\u0020sotring\u0020database\u0020settings.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#property_settings"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#property_settings"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003A\u0024db",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003A\u0024db",
             "name": "db",
             "summary": "For\u0020sotring\u0020database\u0020connection\u0020reference.",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#property_db"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#property_db"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003A\u0024query",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL\\MySqlDb\u003A\u003A\u0024query",
             "name": "query",
             "summary": "",
-            "url": "classes/Zest-Database-Drives-MYSQL-MySqlDb.html#property_query"
+            "url": "classes/alphaz-Database-Drives-MYSQL-MySqlDb.html#property_query"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite",
             "name": "SqLite",
             "summary": "PHP\u0020class\nDatabase\u0020name\u0020should\u0020be\u0020provided\u0020once\u0020needed.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Set\u0020the\u0020values.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method___construct"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aconnect\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aconnect\u0028\u0029",
             "name": "connect",
             "summary": "Open\u0020database\u0020connection.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_connect"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_connect"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020database\u0020connection.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_close"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_close"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003Ainsert\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003Ainsert\u0028\u0029",
             "name": "insert",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020insert\u0020into\u0020db.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_insert"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_insert"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aupdate\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aupdate\u0028\u0029",
             "name": "update",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020Update\u0020data\u0020in\u0020database.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_update"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_update"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aquote\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aquote\u0028\u0029",
             "name": "quote",
             "summary": "quote\u0020the\u0020string.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_quote"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_quote"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aselect\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003Aselect\u0028\u0029",
             "name": "select",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020select\u0020data\u0020from\u0020database.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_select"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_select"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020delete\u0020data\u0020from\u0020database.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_delete"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003Acount\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003Acount\u0028\u0029",
             "name": "count",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020count\u0020data\u0020from\u0020database.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_count"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_count"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003AdeleteDb\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003AdeleteDb\u0028\u0029",
             "name": "deleteDb",
             "summary": "Deleting\u0020database\u0020if\u0020not\u0020exists.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_deleteDb"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_deleteDb"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003AdeleteTbl\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003AdeleteTbl\u0028\u0029",
             "name": "deleteTbl",
             "summary": "Deleting\u0020table\u0020if\u0020not\u0020exists.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_deleteTbl"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_deleteTbl"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003AcreateTbl\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003AcreateTbl\u0028\u0029",
             "name": "createTbl",
             "summary": "Creating\u0020table.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#method_createTbl"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#method_createTbl"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003A\u0024db",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003A\u0024db",
             "name": "db",
             "summary": "For\u0020sotring\u0020database\u0020connection\u0020reference.",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#property_db"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#property_db"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite\\SqLite\u003A\u003A\u0024query",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite\\SqLite\u003A\u003A\u0024query",
             "name": "query",
             "summary": "",
-            "url": "classes/Zest-Database-Drives-SqLite-SqLite.html#property_query"
+            "url": "classes/alphaz-Database-Drives-SqLite-SqLite.html#property_query"
         },                {
-            "fqsen": "\\Zest\\Database\\MYSQL",
+            "fqsen": "\\alphaz\\Database\\MYSQL",
             "name": "MYSQL",
             "summary": "PHP\u0020class\nDatabase\u0020name\u0020should\u0020be\u0020provided\u0020once\u0020needed.",
-            "url": "classes/Zest-Database-MYSQL.html"
+            "url": "classes/alphaz-Database-MYSQL.html"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query",
+            "fqsen": "\\alphaz\\Database\\Query\\Query",
             "name": "Query",
             "summary": "",
-            "url": "classes/Zest-Database-Query-Query.html"
+            "url": "classes/alphaz-Database-Query-Query.html"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query\u003A\u003Ainsert\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Query\\Query\u003A\u003Ainsert\u0028\u0029",
             "name": "insert",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020insert\u0020into\u0020db.",
-            "url": "classes/Zest-Database-Query-Query.html#method_insert"
+            "url": "classes/alphaz-Database-Query-Query.html#method_insert"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query\u003A\u003Aupdate\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Query\\Query\u003A\u003Aupdate\u0028\u0029",
             "name": "update",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020Update\u0020data\u0020in\u0020database.",
-            "url": "classes/Zest-Database-Query-Query.html#method_update"
+            "url": "classes/alphaz-Database-Query-Query.html#method_update"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query\u003A\u003Aselect\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Query\\Query\u003A\u003Aselect\u0028\u0029",
             "name": "select",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020select\u0020data\u0020from\u0020database.",
-            "url": "classes/Zest-Database-Query-Query.html#method_select"
+            "url": "classes/alphaz-Database-Query-Query.html#method_select"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Query\\Query\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Prepare\u0020a\u0020query\u0020to\u0020delete\u0020data\u0020from\u0020database.",
-            "url": "classes/Zest-Database-Query-Query.html#method_delete"
+            "url": "classes/alphaz-Database-Query-Query.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query\u003A\u003AprepareWhere\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Query\\Query\u003A\u003AprepareWhere\u0028\u0029",
             "name": "prepareWhere",
             "summary": "prepare\u0020the\u0020where\u0020statement.",
-            "url": "classes/Zest-Database-Query-Query.html#method_prepareWhere"
+            "url": "classes/alphaz-Database-Query-Query.html#method_prepareWhere"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query\u003A\u003AuseQuery\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Query\\Query\u003A\u003AuseQuery\u0028\u0029",
             "name": "useQuery",
             "summary": "Prepare\u0020the\u0020use\u0020statement.",
-            "url": "classes/Zest-Database-Query-Query.html#method_useQuery"
+            "url": "classes/alphaz-Database-Query-Query.html#method_useQuery"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query\u003A\u003AcreateDb\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Query\\Query\u003A\u003AcreateDb\u0028\u0029",
             "name": "createDb",
             "summary": "Creating\u0020database\u0020query\u0020if\u0020not\u0020exists.",
-            "url": "classes/Zest-Database-Query-Query.html#method_createDb"
+            "url": "classes/alphaz-Database-Query-Query.html#method_createDb"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query\u003A\u003AdeleteDb\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Query\\Query\u003A\u003AdeleteDb\u0028\u0029",
             "name": "deleteDb",
             "summary": "Deleting\u0020database\u0020query\u0020if\u0020not\u0020exists.",
-            "url": "classes/Zest-Database-Query-Query.html#method_deleteDb"
+            "url": "classes/alphaz-Database-Query-Query.html#method_deleteDb"
         },                {
-            "fqsen": "\\Zest\\Database\\Query\\Query\u003A\u003AdeleteTbl\u0028\u0029",
+            "fqsen": "\\alphaz\\Database\\Query\\Query\u003A\u003AdeleteTbl\u0028\u0029",
             "name": "deleteTbl",
             "summary": "Deleting\u0020table\u0020\u0020query\u0020if\u0020not\u0020exists.",
-            "url": "classes/Zest-Database-Query-Query.html#method_deleteTbl"
+            "url": "classes/alphaz-Database-Query-Query.html#method_deleteTbl"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\AbstractAdapter",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\AbstractAdapter",
             "name": "AbstractAdapter",
             "summary": "",
-            "url": "classes/Zest-Encryption-Adapter-AbstractAdapter.html"
+            "url": "classes/alphaz-Encryption-Adapter-AbstractAdapter.html"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\AbstractAdapter\u003A\u003Aencrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\AbstractAdapter\u003A\u003Aencrypt\u0028\u0029",
             "name": "encrypt",
             "summary": "Encrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Adapter-AbstractAdapter.html#method_encrypt"
+            "url": "classes/alphaz-Encryption-Adapter-AbstractAdapter.html#method_encrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\AbstractAdapter\u003A\u003Adecrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\AbstractAdapter\u003A\u003Adecrypt\u0028\u0029",
             "name": "decrypt",
             "summary": "Decrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Adapter-AbstractAdapter.html#method_decrypt"
+            "url": "classes/alphaz-Encryption-Adapter-AbstractAdapter.html#method_decrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\AbstractAdapter\u003A\u003A\u0024key",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\AbstractAdapter\u003A\u003A\u0024key",
             "name": "key",
             "summary": "Store\u0020the\u0020secret\u0020key.",
-            "url": "classes/Zest-Encryption-Adapter-AbstractAdapter.html#property_key"
+            "url": "classes/alphaz-Encryption-Adapter-AbstractAdapter.html#property_key"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\OpenSslEncryption",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\OpenSslEncryption",
             "name": "OpenSslEncryption",
             "summary": "",
-            "url": "classes/Zest-Encryption-Adapter-OpenSslEncryption.html"
+            "url": "classes/alphaz-Encryption-Adapter-OpenSslEncryption.html"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__Construct.",
-            "url": "classes/Zest-Encryption-Adapter-OpenSslEncryption.html#method___construct"
+            "url": "classes/alphaz-Encryption-Adapter-OpenSslEncryption.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003Aencrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003Aencrypt\u0028\u0029",
             "name": "encrypt",
             "summary": "Encrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Adapter-OpenSslEncryption.html#method_encrypt"
+            "url": "classes/alphaz-Encryption-Adapter-OpenSslEncryption.html#method_encrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003Adecrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003Adecrypt\u0028\u0029",
             "name": "decrypt",
             "summary": "Decrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Adapter-OpenSslEncryption.html#method_decrypt"
+            "url": "classes/alphaz-Encryption-Adapter-OpenSslEncryption.html#method_decrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003Aiv_bytes\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003Aiv_bytes\u0028\u0029",
             "name": "iv_bytes",
             "summary": "Get\u0020the\u0020length\u0020of\u0020cipher.",
-            "url": "classes/Zest-Encryption-Adapter-OpenSslEncryption.html#method_iv_bytes"
+            "url": "classes/alphaz-Encryption-Adapter-OpenSslEncryption.html#method_iv_bytes"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003A\u0024iv",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003A\u0024iv",
             "name": "iv",
             "summary": "Store\u0020the\u0020cipher\u0020iv.",
-            "url": "classes/Zest-Encryption-Adapter-OpenSslEncryption.html#property_iv"
+            "url": "classes/alphaz-Encryption-Adapter-OpenSslEncryption.html#property_iv"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003A\u0024cipher",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\OpenSslEncryption\u003A\u003A\u0024cipher",
             "name": "cipher",
             "summary": "Cipher.",
-            "url": "classes/Zest-Encryption-Adapter-OpenSslEncryption.html#property_cipher"
+            "url": "classes/alphaz-Encryption-Adapter-OpenSslEncryption.html#property_cipher"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\SodiumEncryption",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\SodiumEncryption",
             "name": "SodiumEncryption",
             "summary": "",
-            "url": "classes/Zest-Encryption-Adapter-SodiumEncryption.html"
+            "url": "classes/alphaz-Encryption-Adapter-SodiumEncryption.html"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\SodiumEncryption\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\SodiumEncryption\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__Construct.",
-            "url": "classes/Zest-Encryption-Adapter-SodiumEncryption.html#method___construct"
+            "url": "classes/alphaz-Encryption-Adapter-SodiumEncryption.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\SodiumEncryption\u003A\u003Aencrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\SodiumEncryption\u003A\u003Aencrypt\u0028\u0029",
             "name": "encrypt",
             "summary": "Encrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Adapter-SodiumEncryption.html#method_encrypt"
+            "url": "classes/alphaz-Encryption-Adapter-SodiumEncryption.html#method_encrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter\\SodiumEncryption\u003A\u003Adecrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Adapter\\SodiumEncryption\u003A\u003Adecrypt\u0028\u0029",
             "name": "decrypt",
             "summary": "Decrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Adapter-SodiumEncryption.html#method_decrypt"
+            "url": "classes/alphaz-Encryption-Adapter-SodiumEncryption.html#method_decrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encrypt",
+            "fqsen": "\\alphaz\\Encryption\\Encrypt",
             "name": "Encrypt",
             "summary": "",
-            "url": "classes/Zest-Encryption-Encrypt.html"
+            "url": "classes/alphaz-Encryption-Encrypt.html"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encrypt\u003A\u003AsetAdapter\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Encrypt\u003A\u003AsetAdapter\u0028\u0029",
             "name": "setAdapter",
             "summary": "Set\u0020the\u0020adapter.",
-            "url": "classes/Zest-Encryption-Encrypt.html#method_setAdapter"
+            "url": "classes/alphaz-Encryption-Encrypt.html#method_setAdapter"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encrypt\u003A\u003Aencrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Encrypt\u003A\u003Aencrypt\u0028\u0029",
             "name": "encrypt",
             "summary": "Encrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Encrypt.html#method_encrypt"
+            "url": "classes/alphaz-Encryption-Encrypt.html#method_encrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encrypt\u003A\u003Adecrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Encrypt\u003A\u003Adecrypt\u0028\u0029",
             "name": "decrypt",
             "summary": "Decrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Encrypt.html#method_decrypt"
+            "url": "classes/alphaz-Encryption-Encrypt.html#method_decrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encrypt\u003A\u003A\u0024adapter",
+            "fqsen": "\\alphaz\\Encryption\\Encrypt\u003A\u003A\u0024adapter",
             "name": "adapter",
             "summary": "Store\u0020the\u0020adapter\u0020object.",
-            "url": "classes/Zest-Encryption-Encrypt.html#property_adapter"
+            "url": "classes/alphaz-Encryption-Encrypt.html#property_adapter"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encryption",
+            "fqsen": "\\alphaz\\Encryption\\Encryption",
             "name": "Encryption",
             "summary": "",
-            "url": "classes/Zest-Encryption-Encryption.html"
+            "url": "classes/alphaz-Encryption-Encryption.html"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encryption\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Encryption\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Encryption-Encryption.html#method___construct"
+            "url": "classes/alphaz-Encryption-Encryption.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encryption\u003A\u003AsetAdapter\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Encryption\u003A\u003AsetAdapter\u0028\u0029",
             "name": "setAdapter",
             "summary": "Set\u0020the\u0020adapter.",
-            "url": "classes/Zest-Encryption-Encryption.html#method_setAdapter"
+            "url": "classes/alphaz-Encryption-Encryption.html#method_setAdapter"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encryption\u003A\u003Aencrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Encryption\u003A\u003Aencrypt\u0028\u0029",
             "name": "encrypt",
             "summary": "Encrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Encryption.html#method_encrypt"
+            "url": "classes/alphaz-Encryption-Encryption.html#method_encrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encryption\u003A\u003Adecrypt\u0028\u0029",
+            "fqsen": "\\alphaz\\Encryption\\Encryption\u003A\u003Adecrypt\u0028\u0029",
             "name": "decrypt",
             "summary": "Decrypt\u0020the\u0020message.",
-            "url": "classes/Zest-Encryption-Encryption.html#method_decrypt"
+            "url": "classes/alphaz-Encryption-Encryption.html#method_decrypt"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Encryption\u003A\u003A\u0024adapter",
+            "fqsen": "\\alphaz\\Encryption\\Encryption\u003A\u003A\u0024adapter",
             "name": "adapter",
             "summary": "Store\u0020the\u0020adapter\u0020object.",
-            "url": "classes/Zest-Encryption-Encryption.html#property_adapter"
+            "url": "classes/alphaz-Encryption-Encryption.html#property_adapter"
         },                {
-            "fqsen": "\\Zest\\Exception\\Exception",
+            "fqsen": "\\alphaz\\Exception\\Exception",
             "name": "Exception",
             "summary": "",
-            "url": "classes/Zest-Exception-Exception.html"
+            "url": "classes/alphaz-Exception-Exception.html"
         },                {
-            "fqsen": "\\Zest\\Exception\\Exception\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Exception\\Exception\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Exception-Exception.html#method___construct"
+            "url": "classes/alphaz-Exception-Exception.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling",
+            "fqsen": "\\alphaz\\Files\\FileHandling",
             "name": "FileHandling",
             "summary": "",
-            "url": "classes/Zest-Files-FileHandling.html"
+            "url": "classes/alphaz-Files-FileHandling.html"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling\u003A\u003Aopen\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileHandling\u003A\u003Aopen\u0028\u0029",
             "name": "open",
             "summary": "Open\u0020the\u0020file.",
-            "url": "classes/Zest-Files-FileHandling.html#method_open"
+            "url": "classes/alphaz-Files-FileHandling.html#method_open"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling\u003A\u003Aread\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileHandling\u003A\u003Aread\u0028\u0029",
             "name": "read",
             "summary": "Read\u0020the\u0020file.",
-            "url": "classes/Zest-Files-FileHandling.html#method_read"
+            "url": "classes/alphaz-Files-FileHandling.html#method_read"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling\u003A\u003Awrite\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileHandling\u003A\u003Awrite\u0028\u0029",
             "name": "write",
             "summary": "Write\u0020on\u0020file.",
-            "url": "classes/Zest-Files-FileHandling.html#method_write"
+            "url": "classes/alphaz-Files-FileHandling.html#method_write"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileHandling\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\u0020the\u0020file.",
-            "url": "classes/Zest-Files-FileHandling.html#method_delete"
+            "url": "classes/alphaz-Files-FileHandling.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileHandling\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020the\u0020file\u0020resource.",
-            "url": "classes/Zest-Files-FileHandling.html#method_close"
+            "url": "classes/alphaz-Files-FileHandling.html#method_close"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling\u003A\u003AaddCustomMode\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileHandling\u003A\u003AaddCustomMode\u0028\u0029",
             "name": "addCustomMode",
             "summary": "Add\u0020custom\u0020mode.",
-            "url": "classes/Zest-Files-FileHandling.html#method_addCustomMode"
+            "url": "classes/alphaz-Files-FileHandling.html#method_addCustomMode"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling\u003A\u003A\u0024resource",
+            "fqsen": "\\alphaz\\Files\\FileHandling\u003A\u003A\u0024resource",
             "name": "resource",
             "summary": "Resource.",
-            "url": "classes/Zest-Files-FileHandling.html#property_resource"
+            "url": "classes/alphaz-Files-FileHandling.html#property_resource"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling\u003A\u003A\u0024file",
+            "fqsen": "\\alphaz\\Files\\FileHandling\u003A\u003A\u0024file",
             "name": "file",
             "summary": "File.",
-            "url": "classes/Zest-Files-FileHandling.html#property_file"
+            "url": "classes/alphaz-Files-FileHandling.html#property_file"
         },                {
-            "fqsen": "\\Zest\\Files\\FileHandling\u003A\u003A\u0024modes",
+            "fqsen": "\\alphaz\\Files\\FileHandling\u003A\u003A\u0024modes",
             "name": "modes",
             "summary": "Modes\u0020of\u0020file.",
-            "url": "classes/Zest-Files-FileHandling.html#property_modes"
+            "url": "classes/alphaz-Files-FileHandling.html#property_modes"
         },                {
-            "fqsen": "\\Zest\\Files\\FileInfo",
+            "fqsen": "\\alphaz\\Files\\FileInfo",
             "name": "FileInfo",
             "summary": "",
-            "url": "classes/Zest-Files-FileInfo.html"
+            "url": "classes/alphaz-Files-FileInfo.html"
         },                {
-            "fqsen": "\\Zest\\Files\\FileInfo\u003A\u003AgetMineType\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileInfo\u003A\u003AgetMineType\u0028\u0029",
             "name": "getMineType",
             "summary": "Returns\u0020the\u0020MIME\u0020type\u0020of\u0020the\u0020file.",
-            "url": "classes/Zest-Files-FileInfo.html#method_getMineType"
+            "url": "classes/alphaz-Files-FileInfo.html#method_getMineType"
         },                {
-            "fqsen": "\\Zest\\Files\\FileInfo\u003A\u003AgetMineEncoding\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileInfo\u003A\u003AgetMineEncoding\u0028\u0029",
             "name": "getMineEncoding",
             "summary": "Returns\u0020the\u0020MIME\u0020encoding\u0020of\u0020the\u0020file.",
-            "url": "classes/Zest-Files-FileInfo.html#method_getMineEncoding"
+            "url": "classes/alphaz-Files-FileInfo.html#method_getMineEncoding"
         },                {
-            "fqsen": "\\Zest\\Files\\FileInfo\u003A\u003AgetMine\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileInfo\u003A\u003AgetMine\u0028\u0029",
             "name": "getMine",
             "summary": "Returns\u0020the\u0020MIME\u0020type\u007Cencoding\u0020of\u0020the\u0020file.",
-            "url": "classes/Zest-Files-FileInfo.html#method_getMine"
+            "url": "classes/alphaz-Files-FileInfo.html#method_getMine"
         },                {
-            "fqsen": "\\Zest\\Files\\FileInfo\u003A\u003AgetHash\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileInfo\u003A\u003AgetHash\u0028\u0029",
             "name": "getHash",
             "summary": "Generates\u0020a\u0020hash\u0020using\u0020the\u0020contents\u0020of\u0020the\u0020file.",
-            "url": "classes/Zest-Files-FileInfo.html#method_getHash"
+            "url": "classes/alphaz-Files-FileInfo.html#method_getHash"
         },                {
-            "fqsen": "\\Zest\\Files\\FileInfo\u003A\u003AvalidateHash\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileInfo\u003A\u003AvalidateHash\u0028\u0029",
             "name": "validateHash",
             "summary": "Returns\u0020TRUE\u0020if\u0020the\u0020file\u0020matches\u0020the\u0020provided\u0020hash\u0020and\u0020FALSE\u0020if\u0020not.",
-            "url": "classes/Zest-Files-FileInfo.html#method_validateHash"
+            "url": "classes/alphaz-Files-FileInfo.html#method_validateHash"
         },                {
-            "fqsen": "\\Zest\\Files\\FileInfo\u003A\u003AgetHmac\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileInfo\u003A\u003AgetHmac\u0028\u0029",
             "name": "getHmac",
             "summary": "Generates\u0020a\u0020HMAC\u0020using\u0020the\u0020contents\u0020of\u0020the\u0020file.",
-            "url": "classes/Zest-Files-FileInfo.html#method_getHmac"
+            "url": "classes/alphaz-Files-FileInfo.html#method_getHmac"
         },                {
-            "fqsen": "\\Zest\\Files\\FileInfo\u003A\u003AvalidateHmac\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\FileInfo\u003A\u003AvalidateHmac\u0028\u0029",
             "name": "validateHmac",
             "summary": "Returns\u0020TRUE\u0020if\u0020the\u0020file\u0020matches\u0020the\u0020provided\u0020HMAC\u0020and\u0020FALSE\u0020if\u0020not.",
-            "url": "classes/Zest-Files-FileInfo.html#method_validateHmac"
+            "url": "classes/alphaz-Files-FileInfo.html#method_validateHmac"
         },                {
-            "fqsen": "\\Zest\\Files\\Files",
+            "fqsen": "\\alphaz\\Files\\Files",
             "name": "Files",
             "summary": "",
-            "url": "classes/Zest-Files-Files.html"
+            "url": "classes/alphaz-Files-Files.html"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Files-Files.html#method___construct"
+            "url": "classes/alphaz-Files-Files.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AsystemDirs\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AsystemDirs\u0028\u0029",
             "name": "systemDirs",
-            "summary": "Create\u0020zest\u0020system\u0020dir.",
-            "url": "classes/Zest-Files-Files.html#method_systemDirs"
+            "summary": "Create\u0020alphaz\u0020system\u0020dir.",
+            "url": "classes/alphaz-Files-Files.html#method_systemDirs"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AchangeDefaultChmod\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AchangeDefaultChmod\u0028\u0029",
             "name": "changeDefaultChmod",
             "summary": "Change\u0020the\u0020default\u0020chmod.",
-            "url": "classes/Zest-Files-Files.html#method_changeDefaultChmod"
+            "url": "classes/alphaz-Files-Files.html#method_changeDefaultChmod"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003ArecursiveCreateDir\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003ArecursiveCreateDir\u0028\u0029",
             "name": "recursiveCreateDir",
             "summary": "Create\u0020recurisve\u0020dir.",
-            "url": "classes/Zest-Files-Files.html#method_recursiveCreateDir"
+            "url": "classes/alphaz-Files-Files.html#method_recursiveCreateDir"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AaddMineTypes\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AaddMineTypes\u0028\u0029",
             "name": "addMineTypes",
             "summary": "Add\u0020the\u0020mine\u0020type.",
-            "url": "classes/Zest-Files-Files.html#method_addMineTypes"
+            "url": "classes/alphaz-Files-Files.html#method_addMineTypes"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AaddExt\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AaddExt\u0028\u0029",
             "name": "addExt",
             "summary": "Add\u0020the\u0020extemsio.",
-            "url": "classes/Zest-Files-Files.html#method_addExt"
+            "url": "classes/alphaz-Files-Files.html#method_addExt"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AmkDir\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AmkDir\u0028\u0029",
             "name": "mkDir",
             "summary": "Make\u0020the\u0020dir.",
-            "url": "classes/Zest-Files-Files.html#method_mkDir"
+            "url": "classes/alphaz-Files-Files.html#method_mkDir"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003Apermission\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003Apermission\u0028\u0029",
             "name": "permission",
             "summary": "Change\u0020the\u0020permission.",
-            "url": "classes/Zest-Files-Files.html#method_permission"
+            "url": "classes/alphaz-Files-Files.html#method_permission"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003Achown\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003Achown\u0028\u0029",
             "name": "chown",
             "summary": "Change\u0020the\u0020owner\u0020of\u0020an\u0020array\u0020of\u0020files.",
-            "url": "classes/Zest-Files-Files.html#method_chown"
+            "url": "classes/alphaz-Files-Files.html#method_chown"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003Atouch\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003Atouch\u0028\u0029",
             "name": "touch",
             "summary": "Sets\u0020access\u0020and\u0020modification\u0020time\u0020of\u0020file.",
-            "url": "classes/Zest-Files-Files.html#method_touch"
+            "url": "classes/alphaz-Files-Files.html#method_touch"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AcopyFile\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AcopyFile\u0028\u0029",
             "name": "copyFile",
             "summary": "Copy\u0020file.",
-            "url": "classes/Zest-Files-Files.html#method_copyFile"
+            "url": "classes/alphaz-Files-Files.html#method_copyFile"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AcopyFiles\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AcopyFiles\u0028\u0029",
             "name": "copyFiles",
             "summary": "Copy\u0020files.",
-            "url": "classes/Zest-Files-Files.html#method_copyFiles"
+            "url": "classes/alphaz-Files-Files.html#method_copyFiles"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AmoveFile\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AmoveFile\u0028\u0029",
             "name": "moveFile",
             "summary": "Move\u0020file.",
-            "url": "classes/Zest-Files-Files.html#method_moveFile"
+            "url": "classes/alphaz-Files-Files.html#method_moveFile"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AmoveFiles\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AmoveFiles\u0028\u0029",
             "name": "moveFiles",
             "summary": "Move\u0020files.",
-            "url": "classes/Zest-Files-Files.html#method_moveFiles"
+            "url": "classes/alphaz-Files-Files.html#method_moveFiles"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AdeleteFile\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AdeleteFile\u0028\u0029",
             "name": "deleteFile",
             "summary": "Delete\u0020file.",
-            "url": "classes/Zest-Files-Files.html#method_deleteFile"
+            "url": "classes/alphaz-Files-Files.html#method_deleteFile"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AdeleteFiles\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AdeleteFiles\u0028\u0029",
             "name": "deleteFiles",
             "summary": "Delete\u0020files.",
-            "url": "classes/Zest-Files-Files.html#method_deleteFiles"
+            "url": "classes/alphaz-Files-Files.html#method_deleteFiles"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AcopyDir\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AcopyDir\u0028\u0029",
             "name": "copyDir",
             "summary": "Copy\u0020dir.",
-            "url": "classes/Zest-Files-Files.html#method_copyDir"
+            "url": "classes/alphaz-Files-Files.html#method_copyDir"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AcopyDirs\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AcopyDirs\u0028\u0029",
             "name": "copyDirs",
             "summary": "Copy\u0020dirs.",
-            "url": "classes/Zest-Files-Files.html#method_copyDirs"
+            "url": "classes/alphaz-Files-Files.html#method_copyDirs"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AmoveDir\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AmoveDir\u0028\u0029",
             "name": "moveDir",
             "summary": "Move\u0020dir.",
-            "url": "classes/Zest-Files-Files.html#method_moveDir"
+            "url": "classes/alphaz-Files-Files.html#method_moveDir"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AmoveDirs\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AmoveDirs\u0028\u0029",
             "name": "moveDirs",
             "summary": "Move\u0020dirs.",
-            "url": "classes/Zest-Files-Files.html#method_moveDirs"
+            "url": "classes/alphaz-Files-Files.html#method_moveDirs"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AdeleteDir\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AdeleteDir\u0028\u0029",
             "name": "deleteDir",
             "summary": "Delete\u0020dir.",
-            "url": "classes/Zest-Files-Files.html#method_deleteDir"
+            "url": "classes/alphaz-Files-Files.html#method_deleteDir"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AdeleteDirs\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AdeleteDirs\u0028\u0029",
             "name": "deleteDirs",
             "summary": "Delete\u0020dirs.",
-            "url": "classes/Zest-Files-Files.html#method_deleteDirs"
+            "url": "classes/alphaz-Files-Files.html#method_deleteDirs"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AfileUpload\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AfileUpload\u0028\u0029",
             "name": "fileUpload",
             "summary": "Upload\u0020file.",
-            "url": "classes/Zest-Files-Files.html#method_fileUpload"
+            "url": "classes/alphaz-Files-Files.html#method_fileUpload"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003AfilesUpload\u0028\u0029",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003AfilesUpload\u0028\u0029",
             "name": "filesUpload",
             "summary": "Upload\u0020files.",
-            "url": "classes/Zest-Files-Files.html#method_filesUpload"
+            "url": "classes/alphaz-Files-Files.html#method_filesUpload"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003A\u0024mineTypes",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003A\u0024mineTypes",
             "name": "mineTypes",
             "summary": "Mine\u0020Types\u0020of\u0020files.",
-            "url": "classes/Zest-Files-Files.html#property_mineTypes"
+            "url": "classes/alphaz-Files-Files.html#property_mineTypes"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003A\u0024types",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003A\u0024types",
             "name": "types",
             "summary": "Types.",
-            "url": "classes/Zest-Files-Files.html#property_types"
+            "url": "classes/alphaz-Files-Files.html#property_types"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003A\u0024recursiveDirectories",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003A\u0024recursiveDirectories",
             "name": "recursiveDirectories",
             "summary": "The\u0020default\u0020value\u0020for\u0020recursive\u0020create\u0020dirs.",
-            "url": "classes/Zest-Files-Files.html#property_recursiveDirectories"
+            "url": "classes/alphaz-Files-Files.html#property_recursiveDirectories"
         },                {
-            "fqsen": "\\Zest\\Files\\Files\u003A\u003A\u0024defCHMOD",
+            "fqsen": "\\alphaz\\Files\\Files\u003A\u003A\u0024defCHMOD",
             "name": "defCHMOD",
             "summary": "Default\u0020chmod.",
-            "url": "classes/Zest-Files-Files.html#property_defCHMOD"
+            "url": "classes/alphaz-Files-Files.html#property_defCHMOD"
         },                {
             "fqsen": "\\printl\u0028\u0029",
             "name": "printl",
@@ -4366,2609 +4366,2609 @@ Search.appendIndex(
             "summary": "",
             "url": "namespaces/default.html#function_maintenanceInstance"
         },                {
-            "fqsen": "\\Zest\\Hashing\\AbstractHashing",
+            "fqsen": "\\alphaz\\Hashing\\AbstractHashing",
             "name": "AbstractHashing",
             "summary": "",
-            "url": "classes/Zest-Hashing-AbstractHashing.html"
+            "url": "classes/alphaz-Hashing-AbstractHashing.html"
         },                {
-            "fqsen": "\\Zest\\Hashing\\AbstractHashing\u003A\u003Ainfo\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\AbstractHashing\u003A\u003Ainfo\u0028\u0029",
             "name": "info",
             "summary": "Get\u0020information\u0020about\u0020the\u0020given\u0020hash.",
-            "url": "classes/Zest-Hashing-AbstractHashing.html#method_info"
+            "url": "classes/alphaz-Hashing-AbstractHashing.html#method_info"
         },                {
-            "fqsen": "\\Zest\\Hashing\\AbstractHashing\u003A\u003Averify\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\AbstractHashing\u003A\u003Averify\u0028\u0029",
             "name": "verify",
             "summary": "Verify\u0020the\u0020hash\u0020value.",
-            "url": "classes/Zest-Hashing-AbstractHashing.html#method_verify"
+            "url": "classes/alphaz-Hashing-AbstractHashing.html#method_verify"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Argon2IdHashing",
+            "fqsen": "\\alphaz\\Hashing\\Argon2IdHashing",
             "name": "Argon2IdHashing",
             "summary": "",
-            "url": "classes/Zest-Hashing-Argon2IdHashing.html"
+            "url": "classes/alphaz-Hashing-Argon2IdHashing.html"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Argon2IdHashing\u003A\u003Aalgorithm\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Argon2IdHashing\u003A\u003Aalgorithm\u0028\u0029",
             "name": "algorithm",
             "summary": "Get\u0020the\u0020algroithm.",
-            "url": "classes/Zest-Hashing-Argon2IdHashing.html#method_algorithm"
+            "url": "classes/alphaz-Hashing-Argon2IdHashing.html#method_algorithm"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Argon2IdHashing\u003A\u003AalgorithmKeys\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Argon2IdHashing\u003A\u003AalgorithmKeys\u0028\u0029",
             "name": "algorithmKeys",
             "summary": "Get\u0020the\u0020algroithm\u0020keys.",
-            "url": "classes/Zest-Hashing-Argon2IdHashing.html#method_algorithmKeys"
+            "url": "classes/alphaz-Hashing-Argon2IdHashing.html#method_algorithmKeys"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing",
             "name": "ArgonHashing",
             "summary": "",
-            "url": "classes/Zest-Hashing-ArgonHashing.html"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method___construct"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003Averify\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003Averify\u0028\u0029",
             "name": "verify",
             "summary": "Verify\u0020the\u0020hash\u0020value.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_verify"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_verify"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003Amake\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003Amake\u0028\u0029",
             "name": "make",
             "summary": "Generate\u0020the\u0020hash.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_make"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_make"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003AneedsRehash\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003AneedsRehash\u0028\u0029",
             "name": "needsRehash",
             "summary": "Check\u0020if\u0020the\u0020given\u0020hash\u0020has\u0020been\u0020hashed\u0020using\u0020the\u0020given\u0020options.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_needsRehash"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_needsRehash"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003AsetMemory\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003AsetMemory\u0028\u0029",
             "name": "setMemory",
             "summary": "Set\u0020the\u0020memory.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_setMemory"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_setMemory"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003AsetTime\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003AsetTime\u0028\u0029",
             "name": "setTime",
             "summary": "Set\u0020the\u0020time.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_setTime"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_setTime"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003AsetThreads\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003AsetThreads\u0028\u0029",
             "name": "setThreads",
             "summary": "Set\u0020the\u0020threads.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_setThreads"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_setThreads"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003AgetMemory\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003AgetMemory\u0028\u0029",
             "name": "getMemory",
             "summary": "Get\u0020the\u0020memory.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_getMemory"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_getMemory"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003AgetTime\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003AgetTime\u0028\u0029",
             "name": "getTime",
             "summary": "Get\u0020the\u0020time.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_getTime"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_getTime"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003AgetThreads\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003AgetThreads\u0028\u0029",
             "name": "getThreads",
             "summary": "Get\u0020the\u0020threads.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_getThreads"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_getThreads"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003Aalgorithm\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003Aalgorithm\u0028\u0029",
             "name": "algorithm",
             "summary": "Get\u0020the\u0020algroithm.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_algorithm"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_algorithm"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003AalgorithmKeys\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003AalgorithmKeys\u0028\u0029",
             "name": "algorithmKeys",
             "summary": "Get\u0020the\u0020algroithm\u0020keys.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#method_algorithmKeys"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#method_algorithmKeys"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003A\u0024memory",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003A\u0024memory",
             "name": "memory",
             "summary": "The\u0020default\u0020memory\u0020cost.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#property_memory"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#property_memory"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003A\u0024time",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003A\u0024time",
             "name": "time",
             "summary": "The\u0020default\u0020time\u0020cost.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#property_time"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#property_time"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003A\u0024threads",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003A\u0024threads",
             "name": "threads",
             "summary": "The\u0020default\u0020threads\u0020cost.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#property_threads"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#property_threads"
         },                {
-            "fqsen": "\\Zest\\Hashing\\ArgonHashing\u003A\u003A\u0024verifyAlgorithm",
+            "fqsen": "\\alphaz\\Hashing\\ArgonHashing\u003A\u003A\u0024verifyAlgorithm",
             "name": "verifyAlgorithm",
             "summary": "Determine\u0020whether\u0020to\u0020perform\u0020an\u0020algorithm\u0020check.",
-            "url": "classes/Zest-Hashing-ArgonHashing.html#property_verifyAlgorithm"
+            "url": "classes/alphaz-Hashing-ArgonHashing.html#property_verifyAlgorithm"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing",
             "name": "BcryptHashing",
             "summary": "",
-            "url": "classes/Zest-Hashing-BcryptHashing.html"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Hashing-BcryptHashing.html#method___construct"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing\u003A\u003Averify\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing\u003A\u003Averify\u0028\u0029",
             "name": "verify",
             "summary": "Verify\u0020the\u0020hash\u0020value.",
-            "url": "classes/Zest-Hashing-BcryptHashing.html#method_verify"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html#method_verify"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing\u003A\u003Amake\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing\u003A\u003Amake\u0028\u0029",
             "name": "make",
             "summary": "Generate\u0020the\u0020hash.",
-            "url": "classes/Zest-Hashing-BcryptHashing.html#method_make"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html#method_make"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing\u003A\u003AneedsRehash\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing\u003A\u003AneedsRehash\u0028\u0029",
             "name": "needsRehash",
             "summary": "Check\u0020if\u0020the\u0020given\u0020hash\u0020has\u0020been\u0020hashed\u0020using\u0020the\u0020given\u0020options.",
-            "url": "classes/Zest-Hashing-BcryptHashing.html#method_needsRehash"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html#method_needsRehash"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing\u003A\u003AsetCost\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing\u003A\u003AsetCost\u0028\u0029",
             "name": "setCost",
             "summary": "Set\u0020the\u0020cost.",
-            "url": "classes/Zest-Hashing-BcryptHashing.html#method_setCost"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html#method_setCost"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing\u003A\u003AgetCost\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing\u003A\u003AgetCost\u0028\u0029",
             "name": "getCost",
             "summary": "Get\u0020the\u0020cost\u0020value.",
-            "url": "classes/Zest-Hashing-BcryptHashing.html#method_getCost"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html#method_getCost"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing\u003A\u003Aalgorithm\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing\u003A\u003Aalgorithm\u0028\u0029",
             "name": "algorithm",
             "summary": "Get\u0020the\u0020algroithm.",
-            "url": "classes/Zest-Hashing-BcryptHashing.html#method_algorithm"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html#method_algorithm"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing\u003A\u003A\u0024cost",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing\u003A\u003A\u0024cost",
             "name": "cost",
             "summary": "The\u0020default\u0020cost.",
-            "url": "classes/Zest-Hashing-BcryptHashing.html#property_cost"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html#property_cost"
         },                {
-            "fqsen": "\\Zest\\Hashing\\BcryptHashing\u003A\u003A\u0024verifyAlgorithm",
+            "fqsen": "\\alphaz\\Hashing\\BcryptHashing\u003A\u003A\u0024verifyAlgorithm",
             "name": "verifyAlgorithm",
             "summary": "Determine\u0020whether\u0020to\u0020perform\u0020an\u0020algorithm\u0020check.",
-            "url": "classes/Zest-Hashing-BcryptHashing.html#property_verifyAlgorithm"
+            "url": "classes/alphaz-Hashing-BcryptHashing.html#property_verifyAlgorithm"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hash",
+            "fqsen": "\\alphaz\\Hashing\\Hash",
             "name": "Hash",
             "summary": "",
-            "url": "classes/Zest-Hashing-Hash.html"
+            "url": "classes/alphaz-Hashing-Hash.html"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hash\u003A\u003Aself\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Hash\u003A\u003Aself\u0028\u0029",
             "name": "self",
             "summary": "__construct.",
-            "url": "classes/Zest-Hashing-Hash.html#method_self"
+            "url": "classes/alphaz-Hashing-Hash.html#method_self"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hash\u003A\u003Amake\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Hash\u003A\u003Amake\u0028\u0029",
             "name": "make",
             "summary": "Generate\u0020the\u0020hash.",
-            "url": "classes/Zest-Hashing-Hash.html#method_make"
+            "url": "classes/alphaz-Hashing-Hash.html#method_make"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hash\u003A\u003Averify\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Hash\u003A\u003Averify\u0028\u0029",
             "name": "verify",
             "summary": "Verify\u0020the\u0020hash.",
-            "url": "classes/Zest-Hashing-Hash.html#method_verify"
+            "url": "classes/alphaz-Hashing-Hash.html#method_verify"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hash\u003A\u003AneedsRehash\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Hash\u003A\u003AneedsRehash\u0028\u0029",
             "name": "needsRehash",
             "summary": "Check\u0020if\u0020the\u0020given\u0020hash\u0020has\u0020been\u0020hashed\u0020using\u0020the\u0020given\u0020options.",
-            "url": "classes/Zest-Hashing-Hash.html#method_needsRehash"
+            "url": "classes/alphaz-Hashing-Hash.html#method_needsRehash"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hash\u003A\u003A\u0024driver",
+            "fqsen": "\\alphaz\\Hashing\\Hash\u003A\u003A\u0024driver",
             "name": "driver",
             "summary": "Store\u0020the\u0020instance\u0020of\u0020Hash\u0020driver.",
-            "url": "classes/Zest-Hashing-Hash.html#property_driver"
+            "url": "classes/alphaz-Hashing-Hash.html#property_driver"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hashing",
+            "fqsen": "\\alphaz\\Hashing\\Hashing",
             "name": "Hashing",
             "summary": "",
-            "url": "classes/Zest-Hashing-Hashing.html"
+            "url": "classes/alphaz-Hashing-Hashing.html"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hashing\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Hashing\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Hashing-Hashing.html#method___construct"
+            "url": "classes/alphaz-Hashing-Hashing.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hashing\u003A\u003Amake\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Hashing\u003A\u003Amake\u0028\u0029",
             "name": "make",
             "summary": "Generate\u0020the\u0020hash.",
-            "url": "classes/Zest-Hashing-Hashing.html#method_make"
+            "url": "classes/alphaz-Hashing-Hashing.html#method_make"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hashing\u003A\u003Averify\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Hashing\u003A\u003Averify\u0028\u0029",
             "name": "verify",
             "summary": "Verify\u0020the\u0020hash.",
-            "url": "classes/Zest-Hashing-Hashing.html#method_verify"
+            "url": "classes/alphaz-Hashing-Hashing.html#method_verify"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hashing\u003A\u003AneedsRehash\u0028\u0029",
+            "fqsen": "\\alphaz\\Hashing\\Hashing\u003A\u003AneedsRehash\u0028\u0029",
             "name": "needsRehash",
             "summary": "Check\u0020if\u0020the\u0020given\u0020hash\u0020has\u0020been\u0020hashed\u0020using\u0020the\u0020given\u0020options.",
-            "url": "classes/Zest-Hashing-Hashing.html#method_needsRehash"
+            "url": "classes/alphaz-Hashing-Hashing.html#method_needsRehash"
         },                {
-            "fqsen": "\\Zest\\Hashing\\Hashing\u003A\u003A\u0024driver",
+            "fqsen": "\\alphaz\\Hashing\\Hashing\u003A\u003A\u0024driver",
             "name": "driver",
             "summary": "Store\u0020the\u0020instance\u0020of\u0020Hash\u0020driver.",
-            "url": "classes/Zest-Hashing-Hashing.html#property_driver"
+            "url": "classes/alphaz-Hashing-Hashing.html#property_driver"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient",
             "name": "AbstractClient",
             "summary": "",
-            "url": "classes/Zest-http-Clients-AbstractClient.html"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AsetUrl\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AsetUrl\u0028\u0029",
             "name": "setUrl",
             "summary": "Set\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_setUrl"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_setUrl"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetUrl\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetUrl\u0028\u0029",
             "name": "getUrl",
             "summary": "Get\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getUrl"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getUrl"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AsetMethod\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AsetMethod\u0028\u0029",
             "name": "setMethod",
             "summary": "Set\u0020the\u0020method.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_setMethod"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_setMethod"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetMethod\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetMethod\u0028\u0029",
             "name": "getMethod",
             "summary": "Get\u0020the\u0020method.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getMethod"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getMethod"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AsetField\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AsetField\u0028\u0029",
             "name": "setField",
             "summary": "Set\u0020the\u0020fields.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_setField"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_setField"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AsetFields\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AsetFields\u0028\u0029",
             "name": "setFields",
             "summary": "Set\u0020fields.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_setFields"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_setFields"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetField\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetField\u0028\u0029",
             "name": "getField",
             "summary": "Get\u0020a\u0020field.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getField"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getField"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AremoveField\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AremoveField\u0028\u0029",
             "name": "removeField",
             "summary": "Remove\u0020a\u0020field.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_removeField"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_removeField"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AprepareQuery\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AprepareQuery\u0028\u0029",
             "name": "prepareQuery",
             "summary": "Prepare\u0020the\u0020HTTP\u0020query.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_prepareQuery"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_prepareQuery"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetQuery\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetQuery\u0028\u0029",
             "name": "getQuery",
             "summary": "Get\u0020the\u0020HTTP\u0020query.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getQuery"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getQuery"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetQueryLength\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetQueryLength\u0028\u0029",
             "name": "getQueryLength",
             "summary": "Get\u0020HTTP\u0020query\u0020length.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getQueryLength"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getQueryLength"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AsetRequestHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AsetRequestHeader\u0028\u0029",
             "name": "setRequestHeader",
             "summary": "Set\u0020a\u0020request\u0020header.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_setRequestHeader"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_setRequestHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AsetRequestHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AsetRequestHeaders\u0028\u0029",
             "name": "setRequestHeaders",
             "summary": "Set\u0020all\u0020request\u0020headers.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_setRequestHeaders"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_setRequestHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetRequestHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetRequestHeader\u0028\u0029",
             "name": "getRequestHeader",
             "summary": "Get\u0020a\u0020request\u0020header.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getRequestHeader"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getRequestHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetRequestHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetRequestHeaders\u0028\u0029",
             "name": "getRequestHeaders",
             "summary": "Get\u0020all\u0020request\u0020headers.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getRequestHeaders"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getRequestHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AhasRequestHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AhasRequestHeaders\u0028\u0029",
             "name": "hasRequestHeaders",
             "summary": "Determine\u0020if\u0020there\u0020are\u0020request\u0020headers.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_hasRequestHeaders"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_hasRequestHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetResponseHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetResponseHeader\u0028\u0029",
             "name": "getResponseHeader",
             "summary": "Get\u0020a\u0020response\u0020header.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getResponseHeader"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getResponseHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetResponseHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetResponseHeaders\u0028\u0029",
             "name": "getResponseHeaders",
             "summary": "Get\u0020all\u0020response\u0020headers.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getResponseHeaders"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getResponseHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AhasResponseHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AhasResponseHeaders\u0028\u0029",
             "name": "hasResponseHeaders",
             "summary": "Determine\u0020if\u0020there\u0020are\u0020response\u0020headers.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_hasResponseHeaders"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_hasResponseHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetRawResponseHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetRawResponseHeader\u0028\u0029",
             "name": "getRawResponseHeader",
             "summary": "Get\u0020raw\u0020response\u0020header.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getRawResponseHeader"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getRawResponseHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetBody\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetBody\u0028\u0029",
             "name": "getBody",
             "summary": "Get\u0020the\u0020response\u0020body.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getBody"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getBody"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetCode\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetCode\u0028\u0029",
             "name": "getCode",
             "summary": "Get\u0020the\u0020response\u0020code.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getCode"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getCode"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetHttpVersion\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetHttpVersion\u0028\u0029",
             "name": "getHttpVersion",
             "summary": "Get\u0020the\u0020response\u0020HTTP\u0020version.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getHttpVersion"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getHttpVersion"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetMessage\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetMessage\u0028\u0029",
             "name": "getMessage",
             "summary": "Get\u0020the\u0020response\u0020HTTP\u0020message.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getMessage"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getMessage"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetResponse\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetResponse\u0028\u0029",
             "name": "getResponse",
             "summary": "Get\u0020the\u0020raw\u0020response.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getResponse"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getResponse"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AhasResource\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AhasResource\u0028\u0029",
             "name": "hasResource",
             "summary": "Determine\u0020whether\u0020or\u0020not\u0020resource\u0020is\u0020available.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_hasResource"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_hasResource"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AgetResource\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AgetResource\u0028\u0029",
             "name": "getResource",
             "summary": "Get\u0020the\u0020resource.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_getResource"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_getResource"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003AdecodeBody\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003AdecodeBody\u0028\u0029",
             "name": "decodeBody",
             "summary": "Decode\u0020the\u0020body.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_decodeBody"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_decodeBody"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003Aopen\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003Aopen\u0028\u0029",
             "name": "open",
             "summary": "Create\u0020and\u0020open\u0020the\u0020client\u0020resource.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_open"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_open"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003Asend\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003Asend\u0028\u0029",
             "name": "send",
             "summary": "Method\u0020to\u0020send\u0020the\u0020request\u0020and\u0020get\u0020the\u0020response.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_send"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_send"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020the\u0020client\u0020resource.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#method_close"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#method_close"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024resource",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024resource",
             "name": "resource",
             "summary": "Client\u0020resource\u0020object.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_resource"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_resource"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024url",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024url",
             "name": "url",
             "summary": "URL.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_url"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_url"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024method",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024method",
             "name": "method",
             "summary": "Method.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_method"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_method"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024fields",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024fields",
             "name": "fields",
             "summary": "Fields.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_fields"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_fields"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024query",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024query",
             "name": "query",
             "summary": "Query.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_query"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_query"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024requestHeaders",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024requestHeaders",
             "name": "requestHeaders",
             "summary": "Request\u0020headers.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_requestHeaders"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_requestHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024version",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024version",
             "name": "version",
             "summary": "HTTP\u0020version\u0020from\u0020response.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_version"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_version"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024code",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024code",
             "name": "code",
             "summary": "Response\u0020code.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_code"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_code"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024message",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024message",
             "name": "message",
             "summary": "Response\u0020message.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_message"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_message"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024response",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024response",
             "name": "response",
             "summary": "Raw\u0020response\u0020string.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_response"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_response"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024responseHeader",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024responseHeader",
             "name": "responseHeader",
             "summary": "Raw\u0020response\u0020header.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_responseHeader"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_responseHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024responseHeaders",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024responseHeaders",
             "name": "responseHeaders",
             "summary": "Response\u0020headers.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_responseHeaders"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_responseHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024body",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024body",
             "name": "body",
             "summary": "Response\u0020body.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_body"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_body"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024options",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024options",
             "name": "options",
             "summary": "CURL\u0020options.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_options"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_options"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024context",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024context",
             "name": "context",
             "summary": "Stream\u0020context.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_context"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_context"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024contextOptions",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024contextOptions",
             "name": "contextOptions",
             "summary": "Stream\u0020context\u0020options.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_contextOptions"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_contextOptions"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024contextParams",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024contextParams",
             "name": "contextParams",
             "summary": "Stream\u0020context\u0020parameters.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_contextParams"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_contextParams"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024httpResponseHeaders",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024httpResponseHeaders",
             "name": "httpResponseHeaders",
             "summary": "HTTP\u0020Response\u0020Headers.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_httpResponseHeaders"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_httpResponseHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\AbstractClient\u003A\u003A\u0024mode",
+            "fqsen": "\\alphaz\\http\\Clients\\AbstractClient\u003A\u003A\u0024mode",
             "name": "mode",
             "summary": "Stream\u0020mode.",
-            "url": "classes/Zest-http-Clients-AbstractClient.html#property_mode"
+            "url": "classes/alphaz-http-Clients-AbstractClient.html#property_mode"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\Client",
+            "fqsen": "\\alphaz\\http\\Clients\\Client",
             "name": "Client",
             "summary": "",
-            "url": "classes/Zest-http-Clients-Client.html"
+            "url": "classes/alphaz-http-Clients-Client.html"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\Client\u003A\u003Acurl\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\Client\u003A\u003Acurl\u0028\u0029",
             "name": "curl",
             "summary": "Access\u0020to\u0020curl\u0020clients.",
-            "url": "classes/Zest-http-Clients-Client.html#method_curl"
+            "url": "classes/alphaz-http-Clients-Client.html#method_curl"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL",
             "name": "CURL",
             "summary": "",
-            "url": "classes/Zest-http-Clients-CURL.html"
+            "url": "classes/alphaz-http-Clients-CURL.html"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-http-Clients-CURL.html#method___construct"
+            "url": "classes/alphaz-http-Clients-CURL.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AsetMethod\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AsetMethod\u0028\u0029",
             "name": "setMethod",
             "summary": "Set\u0020the\u0020method.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_setMethod"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_setMethod"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003Acurl\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003Acurl\u0028\u0029",
             "name": "curl",
             "summary": "Return\u0020cURL\u0020resource\u0020\u0028alias\u0020to\u0020\u0024this\u002D\u003EgetResource\u0028\u0029\u0029.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_curl"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_curl"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003Aopen\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003Aopen\u0028\u0029",
             "name": "open",
             "summary": "Create\u0020and\u0020open\u0020cURL\u0020resource.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_open"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_open"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AsetOption\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AsetOption\u0028\u0029",
             "name": "setOption",
             "summary": "Set\u0020curl\u0020session\u0020option.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_setOption"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_setOption"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AsetOptios\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AsetOptios\u0028\u0029",
             "name": "setOptios",
             "summary": "Set\u0020curl\u0020session\u0020options.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_setOptios"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_setOptios"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AsetReturnHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AsetReturnHeader\u0028\u0029",
             "name": "setReturnHeader",
             "summary": "Set\u0020curl\u0020return\u0020header.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_setReturnHeader"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_setReturnHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AsetReturnTransfer\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AsetReturnTransfer\u0028\u0029",
             "name": "setReturnTransfer",
             "summary": "Set\u0020curl\u0020return\u0020tranfer\u0020header.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_setReturnTransfer"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_setReturnTransfer"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AisReturnHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AisReturnHeader\u0028\u0029",
             "name": "isReturnHeader",
             "summary": "Set\u0020curl\u0020return\u0020header.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_isReturnHeader"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_isReturnHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AisReturnTransfer\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AisReturnTransfer\u0028\u0029",
             "name": "isReturnTransfer",
             "summary": "Set\u0020curl\u0020return\u0020tranfer\u0020header.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_isReturnTransfer"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_isReturnTransfer"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AgetOption\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AgetOption\u0028\u0029",
             "name": "getOption",
             "summary": "Get\u0020curl\u0020session\u0020option.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_getOption"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_getOption"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AgetInfo\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AgetInfo\u0028\u0029",
             "name": "getInfo",
             "summary": "Get\u0020curl\u0020last\u0020session\u0020info.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_getInfo"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_getInfo"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003Asend\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003Asend\u0028\u0029",
             "name": "send",
             "summary": "Method\u0020to\u0020send\u0020the\u0020request\u0020and\u0020get\u0020the\u0020response.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_send"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_send"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003Aversion\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003Aversion\u0028\u0029",
             "name": "version",
             "summary": "Return\u0020the\u0020cURL\u0020version.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_version"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_version"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003Aclose\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003Aclose\u0028\u0029",
             "name": "close",
             "summary": "Close\u0020the\u0020cURL\u0020connection.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_close"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_close"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\CURL\u003A\u003AparseResponseHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Clients\\CURL\u003A\u003AparseResponseHeaders\u0028\u0029",
             "name": "parseResponseHeaders",
             "summary": "Parse\u0020headers.",
-            "url": "classes/Zest-http-Clients-CURL.html#method_parseResponseHeaders"
+            "url": "classes/alphaz-http-Clients-CURL.html#method_parseResponseHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Clients\\Stream",
+            "fqsen": "\\alphaz\\http\\Clients\\Stream",
             "name": "Stream",
             "summary": "",
-            "url": "classes/Zest-http-Clients-Stream.html"
+            "url": "classes/alphaz-http-Clients-Stream.html"
         },                {
-            "fqsen": "\\Zest\\http\\Headers",
+            "fqsen": "\\alphaz\\http\\Headers",
             "name": "Headers",
             "summary": "",
-            "url": "classes/Zest-http-Headers.html"
+            "url": "classes/alphaz-http-Headers.html"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Get\u0020the\u0020headers.",
-            "url": "classes/Zest-http-Headers.html#method___construct"
+            "url": "classes/alphaz-http-Headers.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003AsetHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003AsetHeader\u0028\u0029",
             "name": "setHeader",
             "summary": "append\u0020new\u0020header.",
-            "url": "classes/Zest-http-Headers.html#method_setHeader"
+            "url": "classes/alphaz-http-Headers.html#method_setHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003AsetHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003AsetHeaders\u0028\u0029",
             "name": "setHeaders",
             "summary": "Set\u0020response\u0020headers.",
-            "url": "classes/Zest-http-Headers.html#method_setHeaders"
+            "url": "classes/alphaz-http-Headers.html#method_setHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003Aupdate\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003Aupdate\u0028\u0029",
             "name": "update",
             "summary": "Update\u0020existing\u0020header.",
-            "url": "classes/Zest-http-Headers.html#method_update"
+            "url": "classes/alphaz-http-Headers.html#method_update"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003Agets\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003Agets\u0028\u0029",
             "name": "gets",
             "summary": "Get\u0020all\u0020headers.",
-            "url": "classes/Zest-http-Headers.html#method_gets"
+            "url": "classes/alphaz-http-Headers.html#method_gets"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Determine\u0020if\u0020header\u0020exists.",
-            "url": "classes/Zest-http-Headers.html#method_get"
+            "url": "classes/alphaz-http-Headers.html#method_get"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Get\u0020the\u0020header\u0020by\u0020key.",
-            "url": "classes/Zest-http-Headers.html#method_has"
+            "url": "classes/alphaz-http-Headers.html#method_has"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003Aremove\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003Aremove\u0028\u0029",
             "name": "remove",
             "summary": "Remove\u0020the\u0020header\u0020by\u0020key.",
-            "url": "classes/Zest-http-Headers.html#method_remove"
+            "url": "classes/alphaz-http-Headers.html#method_remove"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003AnormalizeKey\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003AnormalizeKey\u0028\u0029",
             "name": "normalizeKey",
             "summary": "Normalize\u0020header\u0020name.",
-            "url": "classes/Zest-http-Headers.html#method_normalizeKey"
+            "url": "classes/alphaz-http-Headers.html#method_normalizeKey"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003Asend\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003Asend\u0028\u0029",
             "name": "send",
             "summary": "Send\u0020response.",
-            "url": "classes/Zest-http-Headers.html#method_send"
+            "url": "classes/alphaz-http-Headers.html#method_send"
         },                {
-            "fqsen": "\\Zest\\http\\Headers\u003A\u003AsendHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Headers\u003A\u003AsendHeaders\u0028\u0029",
             "name": "sendHeaders",
             "summary": "Send\u0020headers.",
-            "url": "classes/Zest-http-Headers.html#method_sendHeaders"
+            "url": "classes/alphaz-http-Headers.html#method_sendHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP",
+            "fqsen": "\\alphaz\\http\\HTTP",
             "name": "HTTP",
             "summary": "",
-            "url": "classes/Zest-http-HTTP.html"
+            "url": "classes/alphaz-http-HTTP.html"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-http-HTTP.html#method___construct"
+            "url": "classes/alphaz-http-HTTP.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetRequestMethod\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetRequestMethod\u0028\u0029",
             "name": "getRequestMethod",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027REQUEST_METHOD\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getRequestMethod"
+            "url": "classes/alphaz-http-HTTP.html#method_getRequestMethod"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetRequestUrl\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetRequestUrl\u0028\u0029",
             "name": "getRequestUrl",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027REQUEST_URI\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getRequestUrl"
+            "url": "classes/alphaz-http-HTTP.html#method_getRequestUrl"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetContentType\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetContentType\u0028\u0029",
             "name": "getContentType",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027CONTENT_TYPE\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getContentType"
+            "url": "classes/alphaz-http-HTTP.html#method_getContentType"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetQueryString\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetQueryString\u0028\u0029",
             "name": "getQueryString",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027QUERY_STRING\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getQueryString"
+            "url": "classes/alphaz-http-HTTP.html#method_getQueryString"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetServerPort\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetServerPort\u0028\u0029",
             "name": "getServerPort",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027SERVER_PORT\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getServerPort"
+            "url": "classes/alphaz-http-HTTP.html#method_getServerPort"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetDocumentRoot\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetDocumentRoot\u0028\u0029",
             "name": "getDocumentRoot",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027DOCUMENT_ROOT\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getDocumentRoot"
+            "url": "classes/alphaz-http-HTTP.html#method_getDocumentRoot"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetHost\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetHost\u0028\u0029",
             "name": "getHost",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027HTTP_HOST\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getHost"
+            "url": "classes/alphaz-http-HTTP.html#method_getHost"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetServerName\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetServerName\u0028\u0029",
             "name": "getServerName",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027SERVER_NAME\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getServerName"
+            "url": "classes/alphaz-http-HTTP.html#method_getServerName"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003Agethttp\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003Agethttp\u0028\u0029",
             "name": "gethttp",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027HTTP\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_gethttp"
+            "url": "classes/alphaz-http-HTTP.html#method_gethttp"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003Agethttps\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003Agethttps\u0028\u0029",
             "name": "gethttps",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027HTTPS\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_gethttps"
+            "url": "classes/alphaz-http-HTTP.html#method_gethttps"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetSelf\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetSelf\u0028\u0029",
             "name": "getSelf",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027PHP_SELF\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getSelf"
+            "url": "classes/alphaz-http-HTTP.html#method_getSelf"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003AgetReference\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003AgetReference\u0028\u0029",
             "name": "getReference",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER\u005B\u0027HTTP_REFERER\u0027\u005D.",
-            "url": "classes/Zest-http-HTTP.html#method_getReference"
+            "url": "classes/alphaz-http-HTTP.html#method_getReference"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024requestUri",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024requestUri",
             "name": "requestUri",
             "summary": "Request\u0020URI.",
-            "url": "classes/Zest-http-HTTP.html#property_requestUri"
+            "url": "classes/alphaz-http-HTTP.html#property_requestUri"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024segments",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024segments",
             "name": "segments",
             "summary": "Path\u0020segments.",
-            "url": "classes/Zest-http-HTTP.html#property_segments"
+            "url": "classes/alphaz-http-HTTP.html#property_segments"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024basePath",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024basePath",
             "name": "basePath",
             "summary": "Base\u0020path.",
-            "url": "classes/Zest-http-HTTP.html#property_basePath"
+            "url": "classes/alphaz-http-HTTP.html#property_basePath"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024headers",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024headers",
             "name": "headers",
             "summary": "Headers.",
-            "url": "classes/Zest-http-HTTP.html#property_headers"
+            "url": "classes/alphaz-http-HTTP.html#property_headers"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024rawData",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024rawData",
             "name": "rawData",
             "summary": "Raw\u0020data.",
-            "url": "classes/Zest-http-HTTP.html#property_rawData"
+            "url": "classes/alphaz-http-HTTP.html#property_rawData"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024parsedData",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024parsedData",
             "name": "parsedData",
             "summary": "Parsed\u0020data.",
-            "url": "classes/Zest-http-HTTP.html#property_parsedData"
+            "url": "classes/alphaz-http-HTTP.html#property_parsedData"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024get",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024get",
             "name": "get",
             "summary": "GET\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_get"
+            "url": "classes/alphaz-http-HTTP.html#property_get"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024post",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024post",
             "name": "post",
             "summary": "POST\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_post"
+            "url": "classes/alphaz-http-HTTP.html#property_post"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024files",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024files",
             "name": "files",
             "summary": "FILES\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_files"
+            "url": "classes/alphaz-http-HTTP.html#property_files"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024put",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024put",
             "name": "put",
             "summary": "PUT\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_put"
+            "url": "classes/alphaz-http-HTTP.html#property_put"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024patch",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024patch",
             "name": "patch",
             "summary": "PATCH\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_patch"
+            "url": "classes/alphaz-http-HTTP.html#property_patch"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024delete",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024delete",
             "name": "delete",
             "summary": "DELETE\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_delete"
+            "url": "classes/alphaz-http-HTTP.html#property_delete"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024session",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024session",
             "name": "session",
             "summary": "SESSION\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_session"
+            "url": "classes/alphaz-http-HTTP.html#property_session"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024cookie",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024cookie",
             "name": "cookie",
             "summary": "COOKIE\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_cookie"
+            "url": "classes/alphaz-http-HTTP.html#property_cookie"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024server",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024server",
             "name": "server",
             "summary": "SERVER\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_server"
+            "url": "classes/alphaz-http-HTTP.html#property_server"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024env",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024env",
             "name": "env",
             "summary": "ENV\u0020array.",
-            "url": "classes/Zest-http-HTTP.html#property_env"
+            "url": "classes/alphaz-http-HTTP.html#property_env"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024version",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024version",
             "name": "version",
             "summary": "HTTP\u0020version.",
-            "url": "classes/Zest-http-HTTP.html#property_version"
+            "url": "classes/alphaz-http-HTTP.html#property_version"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024code",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024code",
             "name": "code",
             "summary": "Protocol.",
-            "url": "classes/Zest-http-HTTP.html#property_code"
+            "url": "classes/alphaz-http-HTTP.html#property_code"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024reasonPhrase",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024reasonPhrase",
             "name": "reasonPhrase",
             "summary": "reasonPhrase.",
-            "url": "classes/Zest-http-HTTP.html#property_reasonPhrase"
+            "url": "classes/alphaz-http-HTTP.html#property_reasonPhrase"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024scheme",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024scheme",
             "name": "scheme",
             "summary": "Uri\u0020scheme\u0020\u0028without\u0020\u0022\u003A\/\/\u0022\u0020suffix\u0029.",
-            "url": "classes/Zest-http-HTTP.html#property_scheme"
+            "url": "classes/alphaz-http-HTTP.html#property_scheme"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024user",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024user",
             "name": "user",
             "summary": "Uri\u0020user.",
-            "url": "classes/Zest-http-HTTP.html#property_user"
+            "url": "classes/alphaz-http-HTTP.html#property_user"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024password",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024password",
             "name": "password",
             "summary": "Uri\u0020password.",
-            "url": "classes/Zest-http-HTTP.html#property_password"
+            "url": "classes/alphaz-http-HTTP.html#property_password"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024host",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024host",
             "name": "host",
             "summary": "Uri\u0020host.",
-            "url": "classes/Zest-http-HTTP.html#property_host"
+            "url": "classes/alphaz-http-HTTP.html#property_host"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024port",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024port",
             "name": "port",
             "summary": "Uri\u0020port\u0020number.",
-            "url": "classes/Zest-http-HTTP.html#property_port"
+            "url": "classes/alphaz-http-HTTP.html#property_port"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024path",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024path",
             "name": "path",
             "summary": "Uri\u0020path.",
-            "url": "classes/Zest-http-HTTP.html#property_path"
+            "url": "classes/alphaz-http-HTTP.html#property_path"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024query",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024query",
             "name": "query",
             "summary": "Uri\u0020query\u0020string\u0020\u0028without\u0020\u0022\u003F\u0022\u0020prefix\u0029.",
-            "url": "classes/Zest-http-HTTP.html#property_query"
+            "url": "classes/alphaz-http-HTTP.html#property_query"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024fragment",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024fragment",
             "name": "fragment",
             "summary": "Uri\u0020fragment\u0020string\u0020\u0028without\u0020\u0022\u0023\u0022\u0020prefix\u0029.",
-            "url": "classes/Zest-http-HTTP.html#property_fragment"
+            "url": "classes/alphaz-http-HTTP.html#property_fragment"
         },                {
-            "fqsen": "\\Zest\\http\\HTTP\u003A\u003A\u0024body",
+            "fqsen": "\\alphaz\\http\\HTTP\u003A\u003A\u0024body",
             "name": "body",
             "summary": "Response\u0020body.",
-            "url": "classes/Zest-http-HTTP.html#property_body"
+            "url": "classes/alphaz-http-HTTP.html#property_body"
         },                {
-            "fqsen": "\\Zest\\http\\Message",
+            "fqsen": "\\alphaz\\http\\Message",
             "name": "Message",
             "summary": "",
-            "url": "classes/Zest-http-Message.html"
+            "url": "classes/alphaz-http-Message.html"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-http-Message.html#method___construct"
+            "url": "classes/alphaz-http-Message.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AgetProtocolVersion\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AgetProtocolVersion\u0028\u0029",
             "name": "getProtocolVersion",
             "summary": "Get\u0020the\u0020protocol\u0020version.",
-            "url": "classes/Zest-http-Message.html#method_getProtocolVersion"
+            "url": "classes/alphaz-http-Message.html#method_getProtocolVersion"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AwithProtocolVersion\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AwithProtocolVersion\u0028\u0029",
             "name": "withProtocolVersion",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020HTTP\u0020protocol\u0020version.",
-            "url": "classes/Zest-http-Message.html#method_withProtocolVersion"
+            "url": "classes/alphaz-http-Message.html#method_withProtocolVersion"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AgetHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AgetHeaders\u0028\u0029",
             "name": "getHeaders",
             "summary": "Get\u0020all\u0020message\u0020headers\u0020value.",
-            "url": "classes/Zest-http-Message.html#method_getHeaders"
+            "url": "classes/alphaz-http-Message.html#method_getHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AhasHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AhasHeader\u0028\u0029",
             "name": "hasHeader",
             "summary": "Determine\u0020headers\u0020is\u0020exists.",
-            "url": "classes/Zest-http-Message.html#method_hasHeader"
+            "url": "classes/alphaz-http-Message.html#method_hasHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AgetHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AgetHeader\u0028\u0029",
             "name": "getHeader",
             "summary": "Get\u0020the\u0020header\u0020by\u0020key\/name.",
-            "url": "classes/Zest-http-Message.html#method_getHeader"
+            "url": "classes/alphaz-http-Message.html#method_getHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AgetHeaderLine\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AgetHeaderLine\u0028\u0029",
             "name": "getHeaderLine",
             "summary": "Get\u0020a\u0020comma\u002Dseparated\u0020string\u0020of\u0020the\u0020values\u0020for\u0020a\u0020single\u0020header.",
-            "url": "classes/Zest-http-Message.html#method_getHeaderLine"
+            "url": "classes/alphaz-http-Message.html#method_getHeaderLine"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AwithHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AwithHeader\u0028\u0029",
             "name": "withHeader",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020provided\u0020value\u0020replacing\u0020the\u0020specified\u0020header.",
-            "url": "classes/Zest-http-Message.html#method_withHeader"
+            "url": "classes/alphaz-http-Message.html#method_withHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AwithAddedHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AwithAddedHeader\u0028\u0029",
             "name": "withAddedHeader",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020header\u0020appended\u0020with\u0020the\u0020given\u0020value.",
-            "url": "classes/Zest-http-Message.html#method_withAddedHeader"
+            "url": "classes/alphaz-http-Message.html#method_withAddedHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AwithoutHeader\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AwithoutHeader\u0028\u0029",
             "name": "withoutHeader",
             "summary": "Return\u0020an\u0020instance\u0020without\u0020the\u0020specified\u0020header.",
-            "url": "classes/Zest-http-Message.html#method_withoutHeader"
+            "url": "classes/alphaz-http-Message.html#method_withoutHeader"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AgetBody\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AgetBody\u0028\u0029",
             "name": "getBody",
             "summary": "Gets\u0020the\u0020body\u0020of\u0020the\u0020message.",
-            "url": "classes/Zest-http-Message.html#method_getBody"
+            "url": "classes/alphaz-http-Message.html#method_getBody"
         },                {
-            "fqsen": "\\Zest\\http\\Message\u003A\u003AwithBody\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Message\u003A\u003AwithBody\u0028\u0029",
             "name": "withBody",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020message\u0020body.",
-            "url": "classes/Zest-http-Message.html#method_withBody"
+            "url": "classes/alphaz-http-Message.html#method_withBody"
         },                {
-            "fqsen": "\\Zest\\http\\Redirect",
+            "fqsen": "\\alphaz\\http\\Redirect",
             "name": "Redirect",
             "summary": "",
-            "url": "classes/Zest-http-Redirect.html"
+            "url": "classes/alphaz-http-Redirect.html"
         },                {
-            "fqsen": "\\Zest\\http\\Redirect\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Redirect\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Send\u0020redirect.",
-            "url": "classes/Zest-http-Redirect.html#method___construct"
+            "url": "classes/alphaz-http-Redirect.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\http\\Request",
+            "fqsen": "\\alphaz\\http\\Request",
             "name": "Request",
             "summary": "",
-            "url": "classes/Zest-http-Request.html"
+            "url": "classes/alphaz-http-Request.html"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Constructor.",
-            "url": "classes/Zest-http-Request.html#method___construct"
+            "url": "classes/alphaz-http-Request.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisMethod\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisMethod\u0028\u0029",
             "name": "isMethod",
             "summary": "Does\u0020this\u0020request\u0020use\u0020a\u0020given\u0020method\u003F",
-            "url": "classes/Zest-http-Request.html#method_isMethod"
+            "url": "classes/alphaz-http-Request.html#method_isMethod"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AhasFiles\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AhasFiles\u0028\u0029",
             "name": "hasFiles",
             "summary": "Determine\u0020whether\u0020or\u0020not\u0020the\u0020request\u0020has\u0020FILES.",
-            "url": "classes/Zest-http-Request.html#method_hasFiles"
+            "url": "classes/alphaz-http-Request.html#method_hasFiles"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisGet\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisGet\u0028\u0029",
             "name": "isGet",
             "summary": "Is\u0020this\u0020an\u0020GET\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_isGet"
+            "url": "classes/alphaz-http-Request.html#method_isGet"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisHead\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisHead\u0028\u0029",
             "name": "isHead",
             "summary": "Is\u0020this\u0020an\u0020HEAD\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_isHead"
+            "url": "classes/alphaz-http-Request.html#method_isHead"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisPost\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisPost\u0028\u0029",
             "name": "isPost",
             "summary": "Is\u0020this\u0020an\u0020POST\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_isPost"
+            "url": "classes/alphaz-http-Request.html#method_isPost"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisPut\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisPut\u0028\u0029",
             "name": "isPut",
             "summary": "Is\u0020this\u0020an\u0020PUT\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_isPut"
+            "url": "classes/alphaz-http-Request.html#method_isPut"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisDelete\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisDelete\u0028\u0029",
             "name": "isDelete",
             "summary": "Is\u0020this\u0020an\u0020DELETE\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_isDelete"
+            "url": "classes/alphaz-http-Request.html#method_isDelete"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisTrace\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisTrace\u0028\u0029",
             "name": "isTrace",
             "summary": "Is\u0020this\u0020an\u0020TRACE\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_isTrace"
+            "url": "classes/alphaz-http-Request.html#method_isTrace"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisOptions\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisOptions\u0028\u0029",
             "name": "isOptions",
             "summary": "Is\u0020this\u0020an\u0020OPTIONS\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_isOptions"
+            "url": "classes/alphaz-http-Request.html#method_isOptions"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisConnect\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisConnect\u0028\u0029",
             "name": "isConnect",
             "summary": "Is\u0020this\u0020an\u0020CONNEXT\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_isConnect"
+            "url": "classes/alphaz-http-Request.html#method_isConnect"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisPatch\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisPatch\u0028\u0029",
             "name": "isPatch",
             "summary": "Is\u0020this\u0020an\u0020PATH\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_isPatch"
+            "url": "classes/alphaz-http-Request.html#method_isPatch"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisSecure\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisSecure\u0028\u0029",
             "name": "isSecure",
             "summary": "Return\u0020whether\u0020or\u0020not\u0020the\u0020request\u0020is\u0020secure.",
-            "url": "classes/Zest-http-Request.html#method_isSecure"
+            "url": "classes/alphaz-http-Request.html#method_isSecure"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AisXhr\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AisXhr\u0028\u0029",
             "name": "isXhr",
             "summary": "Is\u0020this\u0020an\u0020XHR\u0020request\u003F",
-            "url": "classes/Zest-http-Request.html#method_isXhr"
+            "url": "classes/alphaz-http-Request.html#method_isXhr"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetQuery\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetQuery\u0028\u0029",
             "name": "getQuery",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_GET,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getQuery"
+            "url": "classes/alphaz-http-Request.html#method_getQuery"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetPost\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetPost\u0028\u0029",
             "name": "getPost",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_POST,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getPost"
+            "url": "classes/alphaz-http-Request.html#method_getPost"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetFiles\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetFiles\u0028\u0029",
             "name": "getFiles",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_FILES,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getFiles"
+            "url": "classes/alphaz-http-Request.html#method_getFiles"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetPut\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetPut\u0028\u0029",
             "name": "getPut",
             "summary": "Get\u0020a\u0020value\u0020from\u0020PUT\u0020query\u0020data,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getPut"
+            "url": "classes/alphaz-http-Request.html#method_getPut"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetPatch\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetPatch\u0028\u0029",
             "name": "getPatch",
             "summary": "Get\u0020a\u0020value\u0020from\u0020PATCH\u0020query\u0020data,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getPatch"
+            "url": "classes/alphaz-http-Request.html#method_getPatch"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetDelete\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetDelete\u0028\u0029",
             "name": "getDelete",
             "summary": "Get\u0020a\u0020value\u0020from\u0020DELETE\u0020query\u0020data,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getDelete"
+            "url": "classes/alphaz-http-Request.html#method_getDelete"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetSession\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetSession\u0028\u0029",
             "name": "getSession",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SESSION,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getSession"
+            "url": "classes/alphaz-http-Request.html#method_getSession"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetCookie\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetCookie\u0028\u0029",
             "name": "getCookie",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_COOKIE,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getCookie"
+            "url": "classes/alphaz-http-Request.html#method_getCookie"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetServer\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetServer\u0028\u0029",
             "name": "getServer",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_SERVER,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getServer"
+            "url": "classes/alphaz-http-Request.html#method_getServer"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetEnv\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetEnv\u0028\u0029",
             "name": "getEnv",
             "summary": "Get\u0020a\u0020value\u0020from\u0020\u0024_ENV,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getEnv"
+            "url": "classes/alphaz-http-Request.html#method_getEnv"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetParsedData\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetParsedData\u0028\u0029",
             "name": "getParsedData",
             "summary": "Get\u0020a\u0020value\u0020from\u0020parsed\u0020data,\u0020or\u0020the\u0020whole\u0020array.",
-            "url": "classes/Zest-http-Request.html#method_getParsedData"
+            "url": "classes/alphaz-http-Request.html#method_getParsedData"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AgetRawData\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AgetRawData\u0028\u0029",
             "name": "getRawData",
             "summary": "Get\u0020the\u0020raw\u0020data.",
-            "url": "classes/Zest-http-Request.html#method_getRawData"
+            "url": "classes/alphaz-http-Request.html#method_getRawData"
         },                {
-            "fqsen": "\\Zest\\http\\Request\u003A\u003AparseData\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Request\u003A\u003AparseData\u0028\u0029",
             "name": "parseData",
             "summary": "Parse\u0020any\u0020data\u0020that\u0020came\u0020with\u0020the\u0020request.",
-            "url": "classes/Zest-http-Request.html#method_parseData"
+            "url": "classes/alphaz-http-Request.html#method_parseData"
         },                {
-            "fqsen": "\\Zest\\http\\Response",
+            "fqsen": "\\alphaz\\http\\Response",
             "name": "Response",
             "summary": "",
-            "url": "classes/Zest-http-Response.html"
+            "url": "classes/alphaz-http-Response.html"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-http-Response.html#method___construct"
+            "url": "classes/alphaz-http-Response.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AgetMessageFromCode\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AgetMessageFromCode\u0028\u0029",
             "name": "getMessageFromCode",
             "summary": "Get\u0020response\u0020message\u0020from\u0020code.",
-            "url": "classes/Zest-http-Response.html#method_getMessageFromCode"
+            "url": "classes/alphaz-http-Response.html#method_getMessageFromCode"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AencodeBody\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AencodeBody\u0028\u0029",
             "name": "encodeBody",
             "summary": "Encode\u0020the\u0020body\u0020data.",
-            "url": "classes/Zest-http-Response.html#method_encodeBody"
+            "url": "classes/alphaz-http-Response.html#method_encodeBody"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AdecodeBody\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AdecodeBody\u0028\u0029",
             "name": "decodeBody",
             "summary": "Decode\u0020the\u0020body\u0020data.",
-            "url": "classes/Zest-http-Response.html#method_decodeBody"
+            "url": "classes/alphaz-http-Response.html#method_decodeBody"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AisEmpty\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AisEmpty\u0028\u0029",
             "name": "isEmpty",
             "summary": "Is\u0020this\u0020response\u0020empty\u003F.",
-            "url": "classes/Zest-http-Response.html#method_isEmpty"
+            "url": "classes/alphaz-http-Response.html#method_isEmpty"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AisOk\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AisOk\u0028\u0029",
             "name": "isOk",
             "summary": "Is\u0020this\u0020response\u0020ok\u003F.",
-            "url": "classes/Zest-http-Response.html#method_isOk"
+            "url": "classes/alphaz-http-Response.html#method_isOk"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AisSuccessful\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AisSuccessful\u0028\u0029",
             "name": "isSuccessful",
             "summary": "Is\u0020this\u0020response\u0020successful\u003F.",
-            "url": "classes/Zest-http-Response.html#method_isSuccessful"
+            "url": "classes/alphaz-http-Response.html#method_isSuccessful"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AisRedirect\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AisRedirect\u0028\u0029",
             "name": "isRedirect",
             "summary": "Is\u0020this\u0020response\u0020redirect.",
-            "url": "classes/Zest-http-Response.html#method_isRedirect"
+            "url": "classes/alphaz-http-Response.html#method_isRedirect"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AisForbidden\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AisForbidden\u0028\u0029",
             "name": "isForbidden",
             "summary": "Is\u0020this\u0020response\u0020Forbidden\u003F.",
-            "url": "classes/Zest-http-Response.html#method_isForbidden"
+            "url": "classes/alphaz-http-Response.html#method_isForbidden"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AisNotFound\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AisNotFound\u0028\u0029",
             "name": "isNotFound",
             "summary": "Is\u0020this\u0020response\u0020not\u0020found\u003F.",
-            "url": "classes/Zest-http-Response.html#method_isNotFound"
+            "url": "classes/alphaz-http-Response.html#method_isNotFound"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AisClientError\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AisClientError\u0028\u0029",
             "name": "isClientError",
             "summary": "Is\u0020this\u0020response\u0020Client\u0020error\u003F.",
-            "url": "classes/Zest-http-Response.html#method_isClientError"
+            "url": "classes/alphaz-http-Response.html#method_isClientError"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AisServertusCode\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AisServertusCode\u0028\u0029",
             "name": "isServertusCode",
             "summary": "Is\u0020this\u0020response\u0020Server\u0020error\u003F.",
-            "url": "classes/Zest-http-Response.html#method_isServertusCode"
+            "url": "classes/alphaz-http-Response.html#method_isServertusCode"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AgetHeadersAsString\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AgetHeadersAsString\u0028\u0029",
             "name": "getHeadersAsString",
             "summary": "Get\u0020the\u0020response\u0020headers\u0020as\u0020a\u0020string.",
-            "url": "classes/Zest-http-Response.html#method_getHeadersAsString"
+            "url": "classes/alphaz-http-Response.html#method_getHeadersAsString"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AsetReasonPhrase\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AsetReasonPhrase\u0028\u0029",
             "name": "setReasonPhrase",
             "summary": "Set\u0020the\u0020reasonPhrase.",
-            "url": "classes/Zest-http-Response.html#method_setReasonPhrase"
+            "url": "classes/alphaz-http-Response.html#method_setReasonPhrase"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AsetVersion\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AsetVersion\u0028\u0029",
             "name": "setVersion",
             "summary": "Set\u0020the\u0020protocol\u0020version.",
-            "url": "classes/Zest-http-Response.html#method_setVersion"
+            "url": "classes/alphaz-http-Response.html#method_setVersion"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AgetStatusCode\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AgetStatusCode\u0028\u0029",
             "name": "getStatusCode",
             "summary": "Get\u0020the\u0020status\u0020code.",
-            "url": "classes/Zest-http-Response.html#method_getStatusCode"
+            "url": "classes/alphaz-http-Response.html#method_getStatusCode"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AwithStatus\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AwithStatus\u0028\u0029",
             "name": "withStatus",
             "summary": "Set\u0020the\u0020status\u0020code.",
-            "url": "classes/Zest-http-Response.html#method_withStatus"
+            "url": "classes/alphaz-http-Response.html#method_withStatus"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AsetBody\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AsetBody\u0028\u0029",
             "name": "setBody",
             "summary": "Set\u0020the\u0020response\u0020body.",
-            "url": "classes/Zest-http-Response.html#method_setBody"
+            "url": "classes/alphaz-http-Response.html#method_setBody"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AsetSslHeaders\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AsetSslHeaders\u0028\u0029",
             "name": "setSslHeaders",
             "summary": "Set\u0020SSL\u0020headers\u0020to\u0020fix\u0020file\u0020cache\u0020issues\u0020over\u0020SSL\u0020in\u0020certain\u0020browsers.",
-            "url": "classes/Zest-http-Response.html#method_setSslHeaders"
+            "url": "classes/alphaz-http-Response.html#method_setSslHeaders"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003AsendAndExit\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003AsendAndExit\u0028\u0029",
             "name": "sendAndExit",
             "summary": "Send\u0020response\u0020and\u0020exit.",
-            "url": "classes/Zest-http-Response.html#method_sendAndExit"
+            "url": "classes/alphaz-http-Response.html#method_sendAndExit"
         },                {
-            "fqsen": "\\Zest\\http\\Response\u003A\u003A__toString\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Response\u003A\u003A__toString\u0028\u0029",
             "name": "__toString",
             "summary": "Return\u0020entire\u0020response\u0020as\u0020a\u0020string.",
-            "url": "classes/Zest-http-Response.html#method___toString"
+            "url": "classes/alphaz-http-Response.html#method___toString"
         },                {
-            "fqsen": "\\Zest\\http\\ServerRequest",
+            "fqsen": "\\alphaz\\http\\ServerRequest",
             "name": "ServerRequest",
             "summary": "",
-            "url": "classes/Zest-http-ServerRequest.html"
+            "url": "classes/alphaz-http-ServerRequest.html"
         },                {
-            "fqsen": "\\Zest\\http\\StatusCode",
+            "fqsen": "\\alphaz\\http\\StatusCode",
             "name": "StatusCode",
             "summary": "",
-            "url": "classes/Zest-http-StatusCode.html"
+            "url": "classes/alphaz-http-StatusCode.html"
         },                {
-            "fqsen": "\\Zest\\http\\StatusCode\u003A\u003A\u0024responseCodes",
+            "fqsen": "\\alphaz\\http\\StatusCode\u003A\u003A\u0024responseCodes",
             "name": "responseCodes",
             "summary": "Response\u0020codes\u0020\u0026\u0020messages.",
-            "url": "classes/Zest-http-StatusCode.html#property_responseCodes"
+            "url": "classes/alphaz-http-StatusCode.html#property_responseCodes"
         },                {
-            "fqsen": "\\Zest\\http\\UploadedFile",
+            "fqsen": "\\alphaz\\http\\UploadedFile",
             "name": "UploadedFile",
             "summary": "",
-            "url": "classes/Zest-http-UploadedFile.html"
+            "url": "classes/alphaz-http-UploadedFile.html"
         },                {
-            "fqsen": "\\Zest\\http\\Uri",
+            "fqsen": "\\alphaz\\http\\Uri",
             "name": "Uri",
             "summary": "",
-            "url": "classes/Zest-http-Uri.html"
+            "url": "classes/alphaz-http-Uri.html"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-http-Uri.html#method___construct"
+            "url": "classes/alphaz-http-Uri.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AsetUri\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AsetUri\u0028\u0029",
             "name": "setUri",
             "summary": "Set\u0020the\u0020Uri.",
-            "url": "classes/Zest-http-Uri.html#method_setUri"
+            "url": "classes/alphaz-http-Uri.html#method_setUri"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AcreateFormUrl\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AcreateFormUrl\u0028\u0029",
             "name": "createFormUrl",
             "summary": "Get\u0020the\u0020scheme\u0020component\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_createFormUrl"
+            "url": "classes/alphaz-http-Uri.html#method_createFormUrl"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AfilterScheme\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AfilterScheme\u0028\u0029",
             "name": "filterScheme",
             "summary": "Filter\u0020the\u0020url\u0020scheme\u0020component.",
-            "url": "classes/Zest-http-Uri.html#method_filterScheme"
+            "url": "classes/alphaz-http-Uri.html#method_filterScheme"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AfilterPort\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AfilterPort\u0028\u0029",
             "name": "filterPort",
             "summary": "Filter\u0020port.",
-            "url": "classes/Zest-http-Uri.html#method_filterPort"
+            "url": "classes/alphaz-http-Uri.html#method_filterPort"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AfilterQuery\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AfilterQuery\u0028\u0029",
             "name": "filterQuery",
             "summary": "Filter\u0020the\u0020Query\u0020uri.",
-            "url": "classes/Zest-http-Uri.html#method_filterQuery"
+            "url": "classes/alphaz-http-Uri.html#method_filterQuery"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetScheme\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetScheme\u0028\u0029",
             "name": "getScheme",
             "summary": "Get\u0020the\u0020scheme\u0020component\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getScheme"
+            "url": "classes/alphaz-http-Uri.html#method_getScheme"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetDeterminedScheme\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetDeterminedScheme\u0028\u0029",
             "name": "getDeterminedScheme",
             "summary": "Get\u0020determined\u0020scheme.",
-            "url": "classes/Zest-http-Uri.html#method_getDeterminedScheme"
+            "url": "classes/alphaz-http-Uri.html#method_getDeterminedScheme"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetAuthority\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetAuthority\u0028\u0029",
             "name": "getAuthority",
             "summary": "Get\u0020the\u0020authority\u0020component\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getAuthority"
+            "url": "classes/alphaz-http-Uri.html#method_getAuthority"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetUserInfo\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetUserInfo\u0028\u0029",
             "name": "getUserInfo",
             "summary": "Get\u0020the\u0020user\u0020information\u0020component\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getUserInfo"
+            "url": "classes/alphaz-http-Uri.html#method_getUserInfo"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetHost\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetHost\u0028\u0029",
             "name": "getHost",
             "summary": "Get\u0020the\u0020host\u0020component\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getHost"
+            "url": "classes/alphaz-http-Uri.html#method_getHost"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetPath\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetPath\u0028\u0029",
             "name": "getPath",
             "summary": "Get\u0020the\u0020path\u0020component\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getPath"
+            "url": "classes/alphaz-http-Uri.html#method_getPath"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetPort\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetPort\u0028\u0029",
             "name": "getPort",
             "summary": "Get\u0020the\u0020port\u0020component\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getPort"
+            "url": "classes/alphaz-http-Uri.html#method_getPort"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetQuery\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetQuery\u0028\u0029",
             "name": "getQuery",
             "summary": "Get\u0020the\u0020query\u0020string\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getQuery"
+            "url": "classes/alphaz-http-Uri.html#method_getQuery"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetFragment\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetFragment\u0028\u0029",
             "name": "getFragment",
             "summary": "Get\u0020the\u0020fragment\u0020component\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getFragment"
+            "url": "classes/alphaz-http-Uri.html#method_getFragment"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetBasePath\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetBasePath\u0028\u0029",
             "name": "getBasePath",
             "summary": "Get\u0020the\u0020basePath\u0020segment\u0020component\u0020of\u0020the\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getBasePath"
+            "url": "classes/alphaz-http-Uri.html#method_getBasePath"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AwithUserInfo\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AwithUserInfo\u0028\u0029",
             "name": "withUserInfo",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020user\u0020information.",
-            "url": "classes/Zest-http-Uri.html#method_withUserInfo"
+            "url": "classes/alphaz-http-Uri.html#method_withUserInfo"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AwithHost\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AwithHost\u0028\u0029",
             "name": "withHost",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020host.",
-            "url": "classes/Zest-http-Uri.html#method_withHost"
+            "url": "classes/alphaz-http-Uri.html#method_withHost"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AwithPath\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AwithPath\u0028\u0029",
             "name": "withPath",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020path.",
-            "url": "classes/Zest-http-Uri.html#method_withPath"
+            "url": "classes/alphaz-http-Uri.html#method_withPath"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AwithPort\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AwithPort\u0028\u0029",
             "name": "withPort",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020port.",
-            "url": "classes/Zest-http-Uri.html#method_withPort"
+            "url": "classes/alphaz-http-Uri.html#method_withPort"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AwithQuery\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AwithQuery\u0028\u0029",
             "name": "withQuery",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020query.",
-            "url": "classes/Zest-http-Uri.html#method_withQuery"
+            "url": "classes/alphaz-http-Uri.html#method_withQuery"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AwithFragment\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AwithFragment\u0028\u0029",
             "name": "withFragment",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020fragment.",
-            "url": "classes/Zest-http-Uri.html#method_withFragment"
+            "url": "classes/alphaz-http-Uri.html#method_withFragment"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AwithBasePath\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AwithBasePath\u0028\u0029",
             "name": "withBasePath",
             "summary": "Return\u0020an\u0020instance\u0020with\u0020the\u0020specified\u0020basePath\u0020segment.",
-            "url": "classes/Zest-http-Uri.html#method_withBasePath"
+            "url": "classes/alphaz-http-Uri.html#method_withBasePath"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003A__toString\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003A__toString\u0028\u0029",
             "name": "__toString",
             "summary": "",
-            "url": "classes/Zest-http-Uri.html#method___toString"
+            "url": "classes/alphaz-http-Uri.html#method___toString"
         },                {
-            "fqsen": "\\Zest\\http\\Uri\u003A\u003AgetBaseUrl\u0028\u0029",
+            "fqsen": "\\alphaz\\http\\Uri\u003A\u003AgetBaseUrl\u0028\u0029",
             "name": "getBaseUrl",
             "summary": "Get\u0020the\u0020fully\u0020qualified\u0020base\u0020URL.",
-            "url": "classes/Zest-http-Uri.html#method_getBaseUrl"
+            "url": "classes/alphaz-http-Uri.html#method_getBaseUrl"
         },                {
-            "fqsen": "\\Zest\\http\\ValidProtocolVersions",
+            "fqsen": "\\alphaz\\http\\ValidProtocolVersions",
             "name": "ValidProtocolVersions",
             "summary": "",
-            "url": "classes/Zest-http-ValidProtocolVersions.html"
+            "url": "classes/alphaz-http-ValidProtocolVersions.html"
         },                {
-            "fqsen": "\\Zest\\http\\ValidProtocolVersions\u003A\u003A\u0024validProtocolVersions",
+            "fqsen": "\\alphaz\\http\\ValidProtocolVersions\u003A\u003A\u0024validProtocolVersions",
             "name": "validProtocolVersions",
             "summary": "Valid\u0020protocol\u0020versions.",
-            "url": "classes/Zest-http-ValidProtocolVersions.html#property_validProtocolVersions"
+            "url": "classes/alphaz-http-ValidProtocolVersions.html#property_validProtocolVersions"
         },                {
-            "fqsen": "\\Zest\\Input\\Input",
+            "fqsen": "\\alphaz\\Input\\Input",
             "name": "Input",
             "summary": "",
-            "url": "classes/Zest-Input-Input.html"
+            "url": "classes/alphaz-Input-Input.html"
         },                {
-            "fqsen": "\\Zest\\Input\\Input\u003A\u003AwordWrapEnable\u0028\u0029",
+            "fqsen": "\\alphaz\\Input\\Input\u003A\u003AwordWrapEnable\u0028\u0029",
             "name": "wordWrapEnable",
             "summary": "Wordwrap.",
-            "url": "classes/Zest-Input-Input.html#method_wordWrapEnable"
+            "url": "classes/alphaz-Input-Input.html#method_wordWrapEnable"
         },                {
-            "fqsen": "\\Zest\\Input\\Input\u003A\u003AisFromSubmit\u0028\u0029",
+            "fqsen": "\\alphaz\\Input\\Input\u003A\u003AisFromSubmit\u0028\u0029",
             "name": "isFromSubmit",
             "summary": "Check\u0020form\u0020sbumit\u0020or\u0020not.",
-            "url": "classes/Zest-Input-Input.html#method_isFromSubmit"
+            "url": "classes/alphaz-Input-Input.html#method_isFromSubmit"
         },                {
-            "fqsen": "\\Zest\\Input\\Input\u003A\u003Ainput\u0028\u0029",
+            "fqsen": "\\alphaz\\Input\\Input\u003A\u003Ainput\u0028\u0029",
             "name": "input",
             "summary": "Accpet\u0020input\nSupport\u0020get.post,put,patch,delete,others.",
-            "url": "classes/Zest-Input-Input.html#method_input"
+            "url": "classes/alphaz-Input-Input.html#method_input"
         },                {
-            "fqsen": "\\Zest\\Input\\Input\u003A\u003AinputAll\u0028\u0029",
+            "fqsen": "\\alphaz\\Input\\Input\u003A\u003AinputAll\u0028\u0029",
             "name": "inputAll",
             "summary": "Accpet\u0020input\nSupport\u0020get.post,put,patch,delete,others.",
-            "url": "classes/Zest-Input-Input.html#method_inputAll"
+            "url": "classes/alphaz-Input-Input.html#method_inputAll"
         },                {
-            "fqsen": "\\Zest\\Input\\Input\u003A\u003Aclean\u0028\u0029",
+            "fqsen": "\\alphaz\\Input\\Input\u003A\u003Aclean\u0028\u0029",
             "name": "clean",
             "summary": "Clean\u0020input.",
-            "url": "classes/Zest-Input-Input.html#method_clean"
+            "url": "classes/alphaz-Input-Input.html#method_clean"
         },                {
-            "fqsen": "\\Zest\\Input\\Input\u003A\u003AdecodeHtmlEntity\u0028\u0029",
+            "fqsen": "\\alphaz\\Input\\Input\u003A\u003AdecodeHtmlEntity\u0028\u0029",
             "name": "decodeHtmlEntity",
             "summary": "Decode\u0020HTML\u0020entity.",
-            "url": "classes/Zest-Input-Input.html#method_decodeHtmlEntity"
+            "url": "classes/alphaz-Input-Input.html#method_decodeHtmlEntity"
         },                {
-            "fqsen": "\\Zest\\Input\\Input\u003A\u003ArestoreLineBreaks\u0028\u0029",
+            "fqsen": "\\alphaz\\Input\\Input\u003A\u003ArestoreLineBreaks\u0028\u0029",
             "name": "restoreLineBreaks",
             "summary": "Restore\u0020new\u0020lines.",
-            "url": "classes/Zest-Input-Input.html#method_restoreLineBreaks"
+            "url": "classes/alphaz-Input-Input.html#method_restoreLineBreaks"
         },                {
-            "fqsen": "\\Zest\\Language\\Language",
+            "fqsen": "\\alphaz\\Language\\Language",
             "name": "Language",
             "summary": "",
-            "url": "classes/Zest-Language-Language.html"
+            "url": "classes/alphaz-Language-Language.html"
         },                {
-            "fqsen": "\\Zest\\Language\\Language\u003A\u003AsetLanguage\u0028\u0029",
+            "fqsen": "\\alphaz\\Language\\Language\u003A\u003AsetLanguage\u0028\u0029",
             "name": "setLanguage",
             "summary": "Set\u0020the\u0020language.",
-            "url": "classes/Zest-Language-Language.html#method_setLanguage"
+            "url": "classes/alphaz-Language-Language.html#method_setLanguage"
         },                {
-            "fqsen": "\\Zest\\Language\\Language\u003A\u003AgetLang\u0028\u0029",
+            "fqsen": "\\alphaz\\Language\\Language\u003A\u003AgetLang\u0028\u0029",
             "name": "getLang",
             "summary": "Get\u0020the\u0020current\u0020language.",
-            "url": "classes/Zest-Language-Language.html#method_getLang"
+            "url": "classes/alphaz-Language-Language.html#method_getLang"
         },                {
-            "fqsen": "\\Zest\\Language\\Language\u003A\u003AgetNameByKey\u0028\u0029",
+            "fqsen": "\\alphaz\\Language\\Language\u003A\u003AgetNameByKey\u0028\u0029",
             "name": "getNameByKey",
             "summary": "Get\u0020the\u0020language\u0020name\u0020by\u0020key.",
-            "url": "classes/Zest-Language-Language.html#method_getNameByKey"
+            "url": "classes/alphaz-Language-Language.html#method_getNameByKey"
         },                {
-            "fqsen": "\\Zest\\Language\\Language\u003A\u003AlanguageString\u0028\u0029",
+            "fqsen": "\\alphaz\\Language\\Language\u003A\u003AlanguageString\u0028\u0029",
             "name": "languageString",
             "summary": "Include\u0020lang\u0020string\u0020file.",
-            "url": "classes/Zest-Language-Language.html#method_languageString"
+            "url": "classes/alphaz-Language-Language.html#method_languageString"
         },                {
-            "fqsen": "\\Zest\\Language\\Language\u003A\u003Aprint\u0028\u0029",
+            "fqsen": "\\alphaz\\Language\\Language\u003A\u003Aprint\u0028\u0029",
             "name": "print",
             "summary": "for\u0020getting\u0020language\u0020key\u0020and\u0020return\u0020its\u0020value.",
-            "url": "classes/Zest-Language-Language.html#method_print"
+            "url": "classes/alphaz-Language-Language.html#method_print"
         },                {
-            "fqsen": "\\Zest\\Language\\LanguageCodesTrait",
+            "fqsen": "\\alphaz\\Language\\LanguageCodesTrait",
             "name": "LanguageCodesTrait",
             "summary": "",
-            "url": "classes/Zest-Language-LanguageCodesTrait.html"
+            "url": "classes/alphaz-Language-LanguageCodesTrait.html"
         },                {
-            "fqsen": "\\Zest\\Language\\LanguageCodesTrait\u003A\u003A\u0024_languages",
+            "fqsen": "\\alphaz\\Language\\LanguageCodesTrait\u003A\u003A\u0024_languages",
             "name": "_languages",
             "summary": "List\u0020of\u0020language\u0020codes.",
-            "url": "classes/Zest-Language-LanguageCodesTrait.html#property__languages"
+            "url": "classes/alphaz-Language-LanguageCodesTrait.html#property__languages"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail",
+            "fqsen": "\\alphaz\\Mail\\Mail",
             "name": "Mail",
             "summary": "",
-            "url": "classes/Zest-Mail-Mail.html"
+            "url": "classes/alphaz-Mail-Mail.html"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AaddAttachment\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AaddAttachment\u0028\u0029",
             "name": "addAttachment",
             "summary": "For\u0020add\u0020attachment.",
-            "url": "classes/Zest-Mail-Mail.html#method_addAttachment"
+            "url": "classes/alphaz-Mail-Mail.html#method_addAttachment"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AaddBcc\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AaddBcc\u0028\u0029",
             "name": "addBcc",
             "summary": "For\u0020add\u0020a\u0020new\u0020BCC.",
-            "url": "classes/Zest-Mail-Mail.html#method_addBcc"
+            "url": "classes/alphaz-Mail-Mail.html#method_addBcc"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AaddCc\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AaddCc\u0028\u0029",
             "name": "addCc",
             "summary": "For\u0020adding\u0020a\u0020new\u0020cc.",
-            "url": "classes/Zest-Mail-Mail.html#method_addCc"
+            "url": "classes/alphaz-Mail-Mail.html#method_addCc"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AaddReceiver\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AaddReceiver\u0028\u0029",
             "name": "addReceiver",
             "summary": "For\u0020adding\u0020a\u0020receiver.",
-            "url": "classes/Zest-Mail-Mail.html#method_addReceiver"
+            "url": "classes/alphaz-Mail-Mail.html#method_addReceiver"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AprepareAttachment\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AprepareAttachment\u0028\u0029",
             "name": "prepareAttachment",
             "summary": "For\u0020preparing\u0020an\u0020attachment\u0020to\u0020send\u0020with\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#method_prepareAttachment"
+            "url": "classes/alphaz-Mail-Mail.html#method_prepareAttachment"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003Asend\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003Asend\u0028\u0029",
             "name": "send",
             "summary": "For\u0020send\u0020the\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#method_send"
+            "url": "classes/alphaz-Mail-Mail.html#method_send"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AisValidEmail\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AisValidEmail\u0028\u0029",
             "name": "isValidEmail",
             "summary": "Check\u0020is\u0020email\u0020is\u0020valid.",
-            "url": "classes/Zest-Mail-Mail.html#method_isValidEmail"
+            "url": "classes/alphaz-Mail-Mail.html#method_isValidEmail"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AisSMTP\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AisSMTP\u0028\u0029",
             "name": "isSMTP",
             "summary": "Set\u0020SMPT\u0020status.",
-            "url": "classes/Zest-Mail-Mail.html#method_isSMTP"
+            "url": "classes/alphaz-Mail-Mail.html#method_isSMTP"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AsendSMTP\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AsendSMTP\u0028\u0029",
             "name": "sendSMTP",
             "summary": "Send\u0020mail\u0020over\u0020SMTP.",
-            "url": "classes/Zest-Mail-Mail.html#method_sendSMTP"
+            "url": "classes/alphaz-Mail-Mail.html#method_sendSMTP"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AsetaddParams\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AsetaddParams\u0028\u0029",
             "name": "setaddParams",
             "summary": "For\u0020set\u0020additional\u0020parameter\u0020for\u0020the\u0020mail\u0020function\u0020\u00284th\u0020parameter\u0029.",
-            "url": "classes/Zest-Mail-Mail.html#method_setaddParams"
+            "url": "classes/alphaz-Mail-Mail.html#method_setaddParams"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AsetContentHTML\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AsetContentHTML\u0028\u0029",
             "name": "setContentHTML",
             "summary": "For\u0020the\u0020formatted\u0020content\u0020\u0028HTML\u0029\u0020of\u0020the\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#method_setContentHTML"
+            "url": "classes/alphaz-Mail-Mail.html#method_setContentHTML"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AsetContentPlain\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AsetContentPlain\u0028\u0029",
             "name": "setContentPlain",
             "summary": "For\u0020set\u0020the\u0020plain\u0020content\u0020of\u0020the\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#method_setContentPlain"
+            "url": "classes/alphaz-Mail-Mail.html#method_setContentPlain"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AsetReplyTo\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AsetReplyTo\u0028\u0029",
             "name": "setReplyTo",
             "summary": "For\u0020set\u0020reply_to\u0020in\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#method_setReplyTo"
+            "url": "classes/alphaz-Mail-Mail.html#method_setReplyTo"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AsetSender\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AsetSender\u0028\u0029",
             "name": "setSender",
             "summary": "For\u0020set\u0020sender\u0020in\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#method_setSender"
+            "url": "classes/alphaz-Mail-Mail.html#method_setSender"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AsetSubject\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AsetSubject\u0028\u0029",
             "name": "setSubject",
             "summary": "For\u0020set\u0020subject\u0020in\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#method_setSubject"
+            "url": "classes/alphaz-Mail-Mail.html#method_setSubject"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003AisFile\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003AisFile\u0028\u0029",
             "name": "isFile",
             "summary": "Check\u0020file\u0020exists\u0020or\u0020not.",
-            "url": "classes/Zest-Mail-Mail.html#method_isFile"
+            "url": "classes/alphaz-Mail-Mail.html#method_isFile"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003Aclear\u0028\u0029",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003Aclear\u0028\u0029",
             "name": "clear",
             "summary": "Clear\u0020all\u0020the\u0020information.",
-            "url": "classes/Zest-Mail-Mail.html#method_clear"
+            "url": "classes/alphaz-Mail-Mail.html#method_clear"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024addparams",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024addparams",
             "name": "addparams",
             "summary": "Additional\u0020parameters\u0020for\u0020sending\u0020the\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#property_addparams"
+            "url": "classes/alphaz-Mail-Mail.html#property_addparams"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024attachments",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024attachments",
             "name": "attachments",
             "summary": "Collection\u0020of\u0020all\u0020attachments.",
-            "url": "classes/Zest-Mail-Mail.html#property_attachments"
+            "url": "classes/alphaz-Mail-Mail.html#property_attachments"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024bcc",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024bcc",
             "name": "bcc",
             "summary": "Collection\u0020of\u0020all\u0020BCC\u0020\u0028Blind\u0020Copy\u0020Carbon\u0029\u0020mail\u002Daddresses.",
-            "url": "classes/Zest-Mail-Mail.html#property_bcc"
+            "url": "classes/alphaz-Mail-Mail.html#property_bcc"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024cc",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024cc",
             "name": "cc",
             "summary": "Collection\u0020of\u0020all\u0020CC\u0020\u0028Copy\u0020Carbon\u0029\u0020mail\u002Daddresses.",
-            "url": "classes/Zest-Mail-Mail.html#property_cc"
+            "url": "classes/alphaz-Mail-Mail.html#property_cc"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024contentHTML",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024contentHTML",
             "name": "contentHTML",
             "summary": "The\u0020formatted\u0020content\u0020\u0028HTML\u0029\u0020of\u0020the\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#property_contentHTML"
+            "url": "classes/alphaz-Mail-Mail.html#property_contentHTML"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024contentPlain",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024contentPlain",
             "name": "contentPlain",
             "summary": "The\u0020plain\u0020content\u0020\u0028non\u0020HTML\u0029\u0020content\u0020of\u0020the\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#property_contentPlain"
+            "url": "classes/alphaz-Mail-Mail.html#property_contentPlain"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024receivers",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024receivers",
             "name": "receivers",
             "summary": "Collection\u0020of\u0020all\u0020receivers.",
-            "url": "classes/Zest-Mail-Mail.html#property_receivers"
+            "url": "classes/alphaz-Mail-Mail.html#property_receivers"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024replyTo",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024replyTo",
             "name": "replyTo",
             "summary": "The\u0020mail\u002Daddress\u0020on\u0020which\u0020should\u0020be\u0020answered.",
-            "url": "classes/Zest-Mail-Mail.html#property_replyTo"
+            "url": "classes/alphaz-Mail-Mail.html#property_replyTo"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024sender",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024sender",
             "name": "sender",
             "summary": "The\u0020sender\u0020of\u0020the\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#property_sender"
+            "url": "classes/alphaz-Mail-Mail.html#property_sender"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024subject",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024subject",
             "name": "subject",
             "summary": "The\u0020subject\u0020of\u0020the\u0020mail.",
-            "url": "classes/Zest-Mail-Mail.html#property_subject"
+            "url": "classes/alphaz-Mail-Mail.html#property_subject"
         },                {
-            "fqsen": "\\Zest\\Mail\\Mail\u003A\u003A\u0024smtp",
+            "fqsen": "\\alphaz\\Mail\\Mail\u003A\u003A\u0024smtp",
             "name": "smtp",
             "summary": "Configuration\u0020for\u0020smtp.",
-            "url": "classes/Zest-Mail-Mail.html#property_smtp"
+            "url": "classes/alphaz-Mail-Mail.html#property_smtp"
         },                {
-            "fqsen": "\\Zest\\Router\\App",
+            "fqsen": "\\alphaz\\Router\\App",
             "name": "App",
             "summary": "",
-            "url": "classes/Zest-Router-App.html"
+            "url": "classes/alphaz-Router-App.html"
         },                {
-            "fqsen": "\\Zest\\Router\\App\u003A\u003Arun\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\App\u003A\u003Arun\u0028\u0029",
             "name": "run",
-            "summary": "Run\u0020the\u0020Zest\u0020Framework.",
-            "url": "classes/Zest-Router-App.html#method_run"
+            "summary": "Run\u0020the\u0020alphaz\u0020Framework.",
+            "url": "classes/alphaz-Router-App.html#method_run"
         },                {
-            "fqsen": "\\Zest\\Router\\Router",
+            "fqsen": "\\alphaz\\Router\\Router",
             "name": "Router",
             "summary": "",
-            "url": "classes/Zest-Router-Router.html"
+            "url": "classes/alphaz-Router-Router.html"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AparseRoutes\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AparseRoutes\u0028\u0029",
             "name": "parseRoutes",
             "summary": "Parse\u0020the\u0020router.",
-            "url": "classes/Zest-Router-Router.html#method_parseRoutes"
+            "url": "classes/alphaz-Router-Router.html#method_parseRoutes"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Aadd\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Aadd\u0028\u0029",
             "name": "add",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table.",
-            "url": "classes/Zest-Router-Router.html#method_add"
+            "url": "classes/alphaz-Router-Router.html#method_add"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AaddMiddleware\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AaddMiddleware\u0028\u0029",
             "name": "addMiddleware",
             "summary": "Add\u0020the\u0020middleware.",
-            "url": "classes/Zest-Router-Router.html#method_addMiddleware"
+            "url": "classes/alphaz-Router-Router.html#method_addMiddleware"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AaddRoutes\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AaddRoutes\u0028\u0029",
             "name": "addRoutes",
             "summary": "Add\u0020multiple\u0020routes\u0020at\u0020once\u0020from\u0020array\u0020in\u0020the\u0020following\u0020format\u003A.",
-            "url": "classes/Zest-Router-Router.html#method_addRoutes"
+            "url": "classes/alphaz-Router-Router.html#method_addRoutes"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Aredirect\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Aredirect\u0028\u0029",
             "name": "redirect",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020Redirect.",
-            "url": "classes/Zest-Router-Router.html#method_redirect"
+            "url": "classes/alphaz-Router-Router.html#method_redirect"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Apost\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Apost\u0028\u0029",
             "name": "post",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020POST.",
-            "url": "classes/Zest-Router-Router.html#method_post"
+            "url": "classes/alphaz-Router-Router.html#method_post"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020GET.",
-            "url": "classes/Zest-Router-Router.html#method_get"
+            "url": "classes/alphaz-Router-Router.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Aput\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Aput\u0028\u0029",
             "name": "put",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020PUT.",
-            "url": "classes/Zest-Router-Router.html#method_put"
+            "url": "classes/alphaz-Router-Router.html#method_put"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Apatch\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Apatch\u0028\u0029",
             "name": "patch",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020PATCH.",
-            "url": "classes/Zest-Router-Router.html#method_patch"
+            "url": "classes/alphaz-Router-Router.html#method_patch"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020DELETE.",
-            "url": "classes/Zest-Router-Router.html#method_delete"
+            "url": "classes/alphaz-Router-Router.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Aoptions\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Aoptions\u0028\u0029",
             "name": "options",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020OPTIONS.",
-            "url": "classes/Zest-Router-Router.html#method_options"
+            "url": "classes/alphaz-Router-Router.html#method_options"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Atrace\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Atrace\u0028\u0029",
             "name": "trace",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020TRACE.",
-            "url": "classes/Zest-Router-Router.html#method_trace"
+            "url": "classes/alphaz-Router-Router.html#method_trace"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Aconnect\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Aconnect\u0028\u0029",
             "name": "connect",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020CONNECT.",
-            "url": "classes/Zest-Router-Router.html#method_connect"
+            "url": "classes/alphaz-Router-Router.html#method_connect"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Aall\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Aall\u0028\u0029",
             "name": "all",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020all\u0020method.",
-            "url": "classes/Zest-Router-Router.html#method_all"
+            "url": "classes/alphaz-Router-Router.html#method_all"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Aview\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Aview\u0028\u0029",
             "name": "view",
             "summary": "Add\u0020a\u0020route\u0020to\u0020the\u0020routing\u0020table\u0020as\u0020view.",
-            "url": "classes/Zest-Router-Router.html#method_view"
+            "url": "classes/alphaz-Router-Router.html#method_view"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AgetRoutes\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AgetRoutes\u0028\u0029",
             "name": "getRoutes",
             "summary": "Get\u0020all\u0020the\u0020routes\u0020from\u0020the\u0020routing\u0020table.",
-            "url": "classes/Zest-Router-Router.html#method_getRoutes"
+            "url": "classes/alphaz-Router-Router.html#method_getRoutes"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Amatch\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Amatch\u0028\u0029",
             "name": "match",
             "summary": "Match\u0020the\u0020route\u0020to\u0020the\u0020routes\u0020in\u0020the\u0020routing\u0020table,\u0020setting\u0020the\u0020\u0024params\nproperty\u0020if\u0020a\u0020route\u0020is\u0020found.",
-            "url": "classes/Zest-Router-Router.html#method_match"
+            "url": "classes/alphaz-Router-Router.html#method_match"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AmethodMatch\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AmethodMatch\u0028\u0029",
             "name": "methodMatch",
             "summary": "Match\u0020the\u0020request\u0020methods.",
-            "url": "classes/Zest-Router-Router.html#method_methodMatch"
+            "url": "classes/alphaz-Router-Router.html#method_methodMatch"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AgetParams\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AgetParams\u0028\u0029",
             "name": "getParams",
             "summary": "Get\u0020the\u0020currently\u0020matched\u0020parameters.",
-            "url": "classes/Zest-Router-Router.html#method_getParams"
+            "url": "classes/alphaz-Router-Router.html#method_getParams"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AgetInput\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AgetInput\u0028\u0029",
             "name": "getInput",
             "summary": "Get\u0020the\u0020current\u0020input\u0020according\u0020to\u0020given\u0020method.",
-            "url": "classes/Zest-Router-Router.html#method_getInput"
+            "url": "classes/alphaz-Router-Router.html#method_getInput"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Adispatch\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Adispatch\u0028\u0029",
             "name": "dispatch",
             "summary": "Dispatch\u0020the\u0020route,\u0020creating\u0020the\u0020controller\u0020object\u0020and\u0020running\u0020the\naction\u0020method.",
-            "url": "classes/Zest-Router-Router.html#method_dispatch"
+            "url": "classes/alphaz-Router-Router.html#method_dispatch"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AconvertToStudlyCaps\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AconvertToStudlyCaps\u0028\u0029",
             "name": "convertToStudlyCaps",
             "summary": "Convert\u0020the\u0020string\u0020with\u0020hyphens\u0020to\u0020StudlyCaps,.",
-            "url": "classes/Zest-Router-Router.html#method_convertToStudlyCaps"
+            "url": "classes/alphaz-Router-Router.html#method_convertToStudlyCaps"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AconvertToCamelCase\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AconvertToCamelCase\u0028\u0029",
             "name": "convertToCamelCase",
             "summary": "Convert\u0020the\u0020string\u0020with\u0020hyphens\u0020to\u0020camelCase,.",
-            "url": "classes/Zest-Router-Router.html#method_convertToCamelCase"
+            "url": "classes/alphaz-Router-Router.html#method_convertToCamelCase"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003ARemoveQueryString\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003ARemoveQueryString\u0028\u0029",
             "name": "RemoveQueryString",
             "summary": "Remove\u0020the\u0020query\u0020string\u0020variables\u0020from\u0020the\u0020URL\u0020\u0028if\u0020any\u0029.\u0020As\u0020the\u0020full.",
-            "url": "classes/Zest-Router-Router.html#method_RemoveQueryString"
+            "url": "classes/alphaz-Router-Router.html#method_RemoveQueryString"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AgetNamespace\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AgetNamespace\u0028\u0029",
             "name": "getNamespace",
             "summary": "Get\u0020the\u0020namespace\u0020for\u0020the\u0020controller\u0020class.\u0020The\u0020namespace\u0020defined\u0020in\u0020the\nroute\u0020parameters\u0020is\u0020added\u0020if\u0020present.",
-            "url": "classes/Zest-Router-Router.html#method_getNamespace"
+            "url": "classes/alphaz-Router-Router.html#method_getNamespace"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003Aparseurl\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003Aparseurl\u0028\u0029",
             "name": "parseurl",
             "summary": "Parase\u0020the\u0020url\u0020if\u0020need.",
-            "url": "classes/Zest-Router-Router.html#method_parseurl"
+            "url": "classes/alphaz-Router-Router.html#method_parseurl"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AloadCache\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AloadCache\u0028\u0029",
             "name": "loadCache",
             "summary": "Load\u0020routers\u0020form\u0020cache.",
-            "url": "classes/Zest-Router-Router.html#method_loadCache"
+            "url": "classes/alphaz-Router-Router.html#method_loadCache"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003AcacheRouters\u0028\u0029",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003AcacheRouters\u0028\u0029",
             "name": "cacheRouters",
             "summary": "Cache\u0020the\u0020roouter.",
-            "url": "classes/Zest-Router-Router.html#method_cacheRouters"
+            "url": "classes/alphaz-Router-Router.html#method_cacheRouters"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003A\u0024routes",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003A\u0024routes",
             "name": "routes",
             "summary": "Associative\u0020array\u0020of\u0020routes\u0020\u0028the\u0020routing\u0020table\u0029.",
-            "url": "classes/Zest-Router-Router.html#property_routes"
+            "url": "classes/alphaz-Router-Router.html#property_routes"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003A\u0024params",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003A\u0024params",
             "name": "params",
             "summary": "Parameters\u0020from\u0020the\u0020matched\u0020route.",
-            "url": "classes/Zest-Router-Router.html#property_params"
+            "url": "classes/alphaz-Router-Router.html#property_params"
         },                {
-            "fqsen": "\\Zest\\Router\\Router\u003A\u003A\u0024request",
+            "fqsen": "\\alphaz\\Router\\Router\u003A\u003A\u0024request",
             "name": "request",
             "summary": "Parameters\u0020from\u0020the\u0020matched\u0020route.",
-            "url": "classes/Zest-Router-Router.html#property_request"
+            "url": "classes/alphaz-Router-Router.html#property_request"
         },                {
-            "fqsen": "\\Zest\\Session\\Session",
+            "fqsen": "\\alphaz\\Session\\Session",
             "name": "Session",
             "summary": "",
-            "url": "classes/Zest-Session-Session.html"
+            "url": "classes/alphaz-Session-Session.html"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__Construct.",
-            "url": "classes/Zest-Session-Session.html#method___construct"
+            "url": "classes/alphaz-Session-Session.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003Astart\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003Astart\u0028\u0029",
             "name": "start",
             "summary": "Start\u0020the\u0020session\u0020if\u0020not\u0020already\u0020start.",
-            "url": "classes/Zest-Session-Session.html#method_start"
+            "url": "classes/alphaz-Session-Session.html#method_start"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003AsessionPath\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003AsessionPath\u0028\u0029",
             "name": "sessionPath",
             "summary": "Change\u0020session\u0020path.",
-            "url": "classes/Zest-Session-Session.html#method_sessionPath"
+            "url": "classes/alphaz-Session-Session.html#method_sessionPath"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Check\u0020if\u0020session\u0020is\u0020already\u0020set\u0020with\u0020specific\u0020name.",
-            "url": "classes/Zest-Session-Session.html#method_has"
+            "url": "classes/alphaz-Session-Session.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020session\u0020value\u0020by\u0020providing\u0020session\u0020name.",
-            "url": "classes/Zest-Session-Session.html#method_get"
+            "url": "classes/alphaz-Session-Session.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\/store\u0020value\u0020in\u0020session.",
-            "url": "classes/Zest-Session-Session.html#method_set"
+            "url": "classes/alphaz-Session-Session.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003AsetMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003AsetMultiple\u0028\u0029",
             "name": "setMultiple",
             "summary": "Set\/store\u0020multiple\u0020values\u0020in\u0020session.",
-            "url": "classes/Zest-Session-Session.html#method_setMultiple"
+            "url": "classes/alphaz-Session-Session.html#method_setMultiple"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003AgetMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003AgetMultiple\u0028\u0029",
             "name": "getMultiple",
             "summary": "Get\u0020multiple\u0020values\u0020in\u0020session.",
-            "url": "classes/Zest-Session-Session.html#method_getMultiple"
+            "url": "classes/alphaz-Session-Session.html#method_getMultiple"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003Adelete\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
             "summary": "Delete\/unset\u0020the\u0020session.",
-            "url": "classes/Zest-Session-Session.html#method_delete"
+            "url": "classes/alphaz-Session-Session.html#method_delete"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003AdeleteMultiple\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003AdeleteMultiple\u0028\u0029",
             "name": "deleteMultiple",
             "summary": "Delete\u0020multiple\u0020values\u0020in\u0020session.",
-            "url": "classes/Zest-Session-Session.html#method_deleteMultiple"
+            "url": "classes/alphaz-Session-Session.html#method_deleteMultiple"
         },                {
-            "fqsen": "\\Zest\\Session\\Session\u003A\u003Adestroy\u0028\u0029",
+            "fqsen": "\\alphaz\\Session\\Session\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
             "summary": "Destroy\u0020the\u0020session.",
-            "url": "classes/Zest-Session-Session.html#method_destroy"
+            "url": "classes/alphaz-Session-Session.html#method_destroy"
         },                {
-            "fqsen": "\\Zest\\Site\\Key",
+            "fqsen": "\\alphaz\\Site\\Key",
             "name": "Key",
             "summary": "",
-            "url": "classes/Zest-Site-Key.html"
+            "url": "classes/alphaz-Site-Key.html"
         },                {
-            "fqsen": "\\Zest\\Site\\Key\u003A\u003Aencode\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Key\u003A\u003Aencode\u0028\u0029",
             "name": "encode",
             "summary": "Converts\u0020a\u0020binary\u0020key\u0020into\u0020its\u0020hexadecimal\u0020representation.",
-            "url": "classes/Zest-Site-Key.html#method_encode"
+            "url": "classes/alphaz-Site-Key.html#method_encode"
         },                {
-            "fqsen": "\\Zest\\Site\\Key\u003A\u003Adecode\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Key\u003A\u003Adecode\u0028\u0029",
             "name": "decode",
             "summary": "Converts\u0020a\u0020hexadecimal\u0020key\u0020into\u0020its\u0020binary\u0020representation.",
-            "url": "classes/Zest-Site-Key.html#method_decode"
+            "url": "classes/alphaz-Site-Key.html#method_decode"
         },                {
-            "fqsen": "\\Zest\\Site\\Key\u003A\u003Agenerate\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Key\u003A\u003Agenerate\u0028\u0029",
             "name": "generate",
             "summary": "Generates\u0020a\u0020key.",
-            "url": "classes/Zest-Site-Key.html#method_generate"
+            "url": "classes/alphaz-Site-Key.html#method_generate"
         },                {
-            "fqsen": "\\Zest\\Site\\Key\u003A\u003AgenerateEncode\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Key\u003A\u003AgenerateEncode\u0028\u0029",
             "name": "generateEncode",
             "summary": "Generates\u0020a\u0020hex\u0020encoded\u0020key.",
-            "url": "classes/Zest-Site-Key.html#method_generateEncode"
+            "url": "classes/alphaz-Site-Key.html#method_generateEncode"
         },                {
-            "fqsen": "\\Zest\\Site\\Site",
+            "fqsen": "\\alphaz\\Site\\Site",
             "name": "Site",
             "summary": "",
-            "url": "classes/Zest-Site-Site.html"
+            "url": "classes/alphaz-Site-Site.html"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003ArequestInstance\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003ArequestInstance\u0028\u0029",
             "name": "requestInstance",
             "summary": "Get\u0020the\u0020Request\u0020instance.",
-            "url": "classes/Zest-Site-Site.html#method_requestInstance"
+            "url": "classes/alphaz-Site-Site.html#method_requestInstance"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003AsiteUrl\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003AsiteUrl\u0028\u0029",
             "name": "siteUrl",
             "summary": "Return\u0020site\u0020URL.",
-            "url": "classes/Zest-Site-Site.html#method_siteUrl"
+            "url": "classes/alphaz-Site-Site.html#method_siteUrl"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003AsiteBaseUrl\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003AsiteBaseUrl\u0028\u0029",
             "name": "siteBaseUrl",
             "summary": "Return\u0020site\u0020base\u0020URL.",
-            "url": "classes/Zest-Site-Site.html#method_siteBaseUrl"
+            "url": "classes/alphaz-Site-Site.html#method_siteBaseUrl"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003AcrrentPage\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003AcrrentPage\u0028\u0029",
             "name": "crrentPage",
             "summary": "Return\u0020Current\u0020Page.",
-            "url": "classes/Zest-Site-Site.html#method_crrentPage"
+            "url": "classes/alphaz-Site-Site.html#method_crrentPage"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003AgetBase\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003AgetBase\u0028\u0029",
             "name": "getBase",
             "summary": "Get\u0020script\u0020path\u0020like\u0020example.com\/login.",
-            "url": "classes/Zest-Site-Site.html#method_getBase"
+            "url": "classes/alphaz-Site-Site.html#method_getBase"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003AgetUri\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003AgetUri\u0028\u0029",
             "name": "getUri",
             "summary": "Get\u0020script\u0020path\u0020like\u0020example.com\/login.",
-            "url": "classes/Zest-Site-Site.html#method_getUri"
+            "url": "classes/alphaz-Site-Site.html#method_getUri"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003Aredirect\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003Aredirect\u0028\u0029",
             "name": "redirect",
             "summary": "Redirect\u0020to\u0020another\u0020page.",
-            "url": "classes/Zest-Site-Site.html#method_redirect"
+            "url": "classes/alphaz-Site-Site.html#method_redirect"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003Aprevious\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003Aprevious\u0028\u0029",
             "name": "previous",
             "summary": "Go\u0020to\u0020the\u0020previous\u0020URL.",
-            "url": "classes/Zest-Site-Site.html#method_previous"
+            "url": "classes/alphaz-Site-Site.html#method_previous"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003AsegmentUrl\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003AsegmentUrl\u0028\u0029",
             "name": "segmentUrl",
             "summary": "Get\u0020all\u0020URL\u0020parts\u0020based\u0020on\u0020a\u0020\/\u0020seperator.",
-            "url": "classes/Zest-Site-Site.html#method_segmentUrl"
+            "url": "classes/alphaz-Site-Site.html#method_segmentUrl"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003AgetFirstSegment\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003AgetFirstSegment\u0028\u0029",
             "name": "getFirstSegment",
             "summary": "Get\u0020first\u0020item\u0020segment.",
-            "url": "classes/Zest-Site-Site.html#method_getFirstSegment"
+            "url": "classes/alphaz-Site-Site.html#method_getFirstSegment"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003AsetLastSegment\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003AsetLastSegment\u0028\u0029",
             "name": "setLastSegment",
             "summary": "Get\u0020last\u0020item\u0020segment.",
-            "url": "classes/Zest-Site-Site.html#method_setLastSegment"
+            "url": "classes/alphaz-Site-Site.html#method_setLastSegment"
         },                {
-            "fqsen": "\\Zest\\Site\\Site\u003A\u003Asalts\u0028\u0029",
+            "fqsen": "\\alphaz\\Site\\Site\u003A\u003Asalts\u0028\u0029",
             "name": "salts",
             "summary": "Generate\u0020salts.",
-            "url": "classes/Zest-Site-Site.html#method_salts"
+            "url": "classes/alphaz-Site-Site.html#method_salts"
         },                {
-            "fqsen": "\\Zest\\SystemMessage\\SystemMessage",
+            "fqsen": "\\alphaz\\SystemMessage\\SystemMessage",
             "name": "SystemMessage",
             "summary": "",
-            "url": "classes/Zest-SystemMessage-SystemMessage.html"
+            "url": "classes/alphaz-SystemMessage-SystemMessage.html"
         },                {
-            "fqsen": "\\Zest\\SystemMessage\\SystemMessage\u003A\u003Aadd\u0028\u0029",
+            "fqsen": "\\alphaz\\SystemMessage\\SystemMessage\u003A\u003Aadd\u0028\u0029",
             "name": "add",
             "summary": "Add\u0020the\u0020system\u0020message.",
-            "url": "classes/Zest-SystemMessage-SystemMessage.html#method_add"
+            "url": "classes/alphaz-SystemMessage-SystemMessage.html#method_add"
         },                {
-            "fqsen": "\\Zest\\SystemMessage\\SystemMessage\u003A\u003A\u0024type",
+            "fqsen": "\\alphaz\\SystemMessage\\SystemMessage\u003A\u003A\u0024type",
             "name": "type",
             "summary": "Store\u0020the\u0020alert\u0020type.",
-            "url": "classes/Zest-SystemMessage-SystemMessage.html#property_type"
+            "url": "classes/alphaz-SystemMessage-SystemMessage.html#property_type"
         },                {
-            "fqsen": "\\Zest\\SystemMessage\\SystemMessage\u003A\u003Aview\u0028\u0029",
+            "fqsen": "\\alphaz\\SystemMessage\\SystemMessage\u003A\u003Aview\u0028\u0029",
             "name": "view",
             "summary": "View\u0020the\u0020system\u0020message.",
-            "url": "classes/Zest-SystemMessage-SystemMessage.html#method_view"
+            "url": "classes/alphaz-SystemMessage-SystemMessage.html#method_view"
         },                {
-            "fqsen": "\\Zest\\Time\\Time",
+            "fqsen": "\\alphaz\\Time\\Time",
             "name": "Time",
             "summary": "",
-            "url": "classes/Zest-Time-Time.html"
+            "url": "classes/alphaz-Time-Time.html"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003AsetDateFormat\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003AsetDateFormat\u0028\u0029",
             "name": "setDateFormat",
             "summary": "Set\u0020the\u0020time\u0020format.",
-            "url": "classes/Zest-Time-Time.html#method_setDateFormat"
+            "url": "classes/alphaz-Time-Time.html#method_setDateFormat"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003AgetDateFormat\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003AgetDateFormat\u0028\u0029",
             "name": "getDateFormat",
             "summary": "Get\u0020the\u0020time\u0020format.",
-            "url": "classes/Zest-Time-Time.html#method_getDateFormat"
+            "url": "classes/alphaz-Time-Time.html#method_getDateFormat"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003AvalidateDateFormat\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003AvalidateDateFormat\u0028\u0029",
             "name": "validateDateFormat",
             "summary": "Validate\u0020the\u0020time\u0020format.",
-            "url": "classes/Zest-Time-Time.html#method_validateDateFormat"
+            "url": "classes/alphaz-Time-Time.html#method_validateDateFormat"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003Anow\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003Anow\u0028\u0029",
             "name": "now",
             "summary": "Get\u0020\u0022now\u0022\u0020time.",
-            "url": "classes/Zest-Time-Time.html#method_now"
+            "url": "classes/alphaz-Time-Time.html#method_now"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003AdaysInMonth\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003AdaysInMonth\u0028\u0029",
             "name": "daysInMonth",
             "summary": "Number\u0020of\u0020days\u0020in\u0020a\u0020month.",
-            "url": "classes/Zest-Time-Time.html#method_daysInMonth"
+            "url": "classes/alphaz-Time-Time.html#method_daysInMonth"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003AisLeapYear\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003AisLeapYear\u0028\u0029",
             "name": "isLeapYear",
             "summary": "Determine\u0020whether\u0020the\u0020year\u0020is\u0020leap\u0020or\u0020not.",
-            "url": "classes/Zest-Time-Time.html#method_isLeapYear"
+            "url": "classes/alphaz-Time-Time.html#method_isLeapYear"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003AtimestampToGmt\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003AtimestampToGmt\u0028\u0029",
             "name": "timestampToGmt",
             "summary": "Converts\u0020a\u0020timestamp\u0020to\u0020GMT.",
-            "url": "classes/Zest-Time-Time.html#method_timestampToGmt"
+            "url": "classes/alphaz-Time-Time.html#method_timestampToGmt"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003AtimestampToDate\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003AtimestampToDate\u0028\u0029",
             "name": "timestampToDate",
             "summary": "Converts\u0020a\u0020timestamp\u0020to\u0020DateTime.",
-            "url": "classes/Zest-Time-Time.html#method_timestampToDate"
+            "url": "classes/alphaz-Time-Time.html#method_timestampToDate"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003Aago\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003Aago\u0028\u0029",
             "name": "ago",
             "summary": "Converts\u0020the\u0020timestamp\u0020in\u0020to\u0020ago\u0020form.",
-            "url": "classes/Zest-Time-Time.html#method_ago"
+            "url": "classes/alphaz-Time-Time.html#method_ago"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003AformatTime\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003AformatTime\u0028\u0029",
             "name": "formatTime",
             "summary": "Formats\u0020the\u0020time.",
-            "url": "classes/Zest-Time-Time.html#method_formatTime"
+            "url": "classes/alphaz-Time-Time.html#method_formatTime"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003AformatsSeconds\u0028\u0029",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003AformatsSeconds\u0028\u0029",
             "name": "formatsSeconds",
             "summary": "Converts\u0020the\u0020timestamp\u0020in\u0020to\u0020h\u003Am\u003As\u0020form.",
-            "url": "classes/Zest-Time-Time.html#method_formatsSeconds"
+            "url": "classes/alphaz-Time-Time.html#method_formatsSeconds"
         },                {
-            "fqsen": "\\Zest\\Time\\Time\u003A\u003A\u0024dateFormat",
+            "fqsen": "\\alphaz\\Time\\Time\u003A\u003A\u0024dateFormat",
             "name": "dateFormat",
             "summary": "Date\u0020format.",
-            "url": "classes/Zest-Time-Time.html#property_dateFormat"
+            "url": "classes/alphaz-Time-Time.html#property_dateFormat"
         },                {
-            "fqsen": "\\Zest\\UserInfo\\UserInfo",
+            "fqsen": "\\alphaz\\UserInfo\\UserInfo",
             "name": "UserInfo",
             "summary": "",
-            "url": "classes/Zest-UserInfo-UserInfo.html"
+            "url": "classes/alphaz-UserInfo-UserInfo.html"
         },                {
-            "fqsen": "\\Zest\\UserInfo\\UserInfo\u003A\u003Aagent\u0028\u0029",
+            "fqsen": "\\alphaz\\UserInfo\\UserInfo\u003A\u003Aagent\u0028\u0029",
             "name": "agent",
             "summary": "Get\u0020user\u0020agente.",
-            "url": "classes/Zest-UserInfo-UserInfo.html#method_agent"
+            "url": "classes/alphaz-UserInfo-UserInfo.html#method_agent"
         },                {
-            "fqsen": "\\Zest\\UserInfo\\UserInfo\u003A\u003AoperatingSystem\u0028\u0029",
+            "fqsen": "\\alphaz\\UserInfo\\UserInfo\u003A\u003AoperatingSystem\u0028\u0029",
             "name": "operatingSystem",
             "summary": "Get\u0020OperatingSystem\u0020name.",
-            "url": "classes/Zest-UserInfo-UserInfo.html#method_operatingSystem"
+            "url": "classes/alphaz-UserInfo-UserInfo.html#method_operatingSystem"
         },                {
-            "fqsen": "\\Zest\\UserInfo\\UserInfo\u003A\u003Abrowser\u0028\u0029",
+            "fqsen": "\\alphaz\\UserInfo\\UserInfo\u003A\u003Abrowser\u0028\u0029",
             "name": "browser",
             "summary": "Get\u0020Browser\u0020Name.",
-            "url": "classes/Zest-UserInfo-UserInfo.html#method_browser"
+            "url": "classes/alphaz-UserInfo-UserInfo.html#method_browser"
         },                {
-            "fqsen": "\\Zest\\UserInfo\\UserInfo\u003A\u003AoSVersion\u0028\u0029",
+            "fqsen": "\\alphaz\\UserInfo\\UserInfo\u003A\u003AoSVersion\u0028\u0029",
             "name": "oSVersion",
             "summary": "Get\u0020Os\u0020version.",
-            "url": "classes/Zest-UserInfo-UserInfo.html#method_oSVersion"
+            "url": "classes/alphaz-UserInfo-UserInfo.html#method_oSVersion"
         },                {
-            "fqsen": "\\Zest\\UserInfo\\UserInfo\u003A\u003AbrowserVersion\u0028\u0029",
+            "fqsen": "\\alphaz\\UserInfo\\UserInfo\u003A\u003AbrowserVersion\u0028\u0029",
             "name": "browserVersion",
             "summary": "Get\u0020Browser\u0020version.",
-            "url": "classes/Zest-UserInfo-UserInfo.html#method_browserVersion"
+            "url": "classes/alphaz-UserInfo-UserInfo.html#method_browserVersion"
         },                {
-            "fqsen": "\\Zest\\UserInfo\\UserInfo\u003A\u003Aip\u0028\u0029",
+            "fqsen": "\\alphaz\\UserInfo\\UserInfo\u003A\u003Aip\u0028\u0029",
             "name": "ip",
             "summary": "Get\u0020The\u0020user\u0020ip.",
-            "url": "classes/Zest-UserInfo-UserInfo.html#method_ip"
+            "url": "classes/alphaz-UserInfo-UserInfo.html#method_ip"
         },                {
-            "fqsen": "\\Zest\\Validation\\databaseRules",
+            "fqsen": "\\alphaz\\Validation\\databaseRules",
             "name": "databaseRules",
             "summary": "",
-            "url": "classes/Zest-Validation-databaseRules.html"
+            "url": "classes/alphaz-Validation-databaseRules.html"
         },                {
-            "fqsen": "\\Zest\\Validation\\databaseRules\u003A\u003Aunique\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\databaseRules\u003A\u003Aunique\u0028\u0029",
             "name": "unique",
             "summary": "Evaulate\u0020unique.",
-            "url": "classes/Zest-Validation-databaseRules.html#method_unique"
+            "url": "classes/alphaz-Validation-databaseRules.html#method_unique"
         },                {
-            "fqsen": "\\Zest\\Validation\\Handler",
+            "fqsen": "\\alphaz\\Validation\\Handler",
             "name": "Handler",
             "summary": "",
-            "url": "classes/Zest-Validation-Handler.html"
+            "url": "classes/alphaz-Validation-Handler.html"
         },                {
-            "fqsen": "\\Zest\\Validation\\Handler\u003A\u003ApushMsgs\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Handler\u003A\u003ApushMsgs\u0028\u0029",
             "name": "pushMsgs",
             "summary": "Push\u0020the\u0020messages.",
-            "url": "classes/Zest-Validation-Handler.html#method_pushMsgs"
+            "url": "classes/alphaz-Validation-Handler.html#method_pushMsgs"
         },                {
-            "fqsen": "\\Zest\\Validation\\Handler\u003A\u003Aset\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Handler\u003A\u003Aset\u0028\u0029",
             "name": "set",
             "summary": "Set\u0020the\u0020error\u0020msg.",
-            "url": "classes/Zest-Validation-Handler.html#method_set"
+            "url": "classes/alphaz-Validation-Handler.html#method_set"
         },                {
-            "fqsen": "\\Zest\\Validation\\Handler\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Handler\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "check\u0020Whether\u0020the\u0020any\u0020error\u0020msg\u0020exists.",
-            "url": "classes/Zest-Validation-Handler.html#method_has"
+            "url": "classes/alphaz-Validation-Handler.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Validation\\Handler\u003A\u003Aall\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Handler\u003A\u003Aall\u0028\u0029",
             "name": "all",
             "summary": "Get\u0020all\u0020error\u0020msgs.",
-            "url": "classes/Zest-Validation-Handler.html#method_all"
+            "url": "classes/alphaz-Validation-Handler.html#method_all"
         },                {
-            "fqsen": "\\Zest\\Validation\\Handler\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Handler\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020error\u0020msg.",
-            "url": "classes/Zest-Validation-Handler.html#method_get"
+            "url": "classes/alphaz-Validation-Handler.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Validation\\Handler\u003A\u003AgetMsgs\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Handler\u003A\u003AgetMsgs\u0028\u0029",
             "name": "getMsgs",
             "summary": "Get\u0020the\u0020msgs.",
-            "url": "classes/Zest-Validation-Handler.html#method_getMsgs"
+            "url": "classes/alphaz-Validation-Handler.html#method_getMsgs"
         },                {
-            "fqsen": "\\Zest\\Validation\\Handler\u003A\u003A\u0024error",
+            "fqsen": "\\alphaz\\Validation\\Handler\u003A\u003A\u0024error",
             "name": "error",
             "summary": "",
-            "url": "classes/Zest-Validation-Handler.html#property_error"
+            "url": "classes/alphaz-Validation-Handler.html#property_error"
         },                {
-            "fqsen": "\\Zest\\Validation\\Handler\u003A\u003A\u0024msgs",
+            "fqsen": "\\alphaz\\Validation\\Handler\u003A\u003A\u0024msgs",
             "name": "msgs",
             "summary": "",
-            "url": "classes/Zest-Validation-Handler.html#property_msgs"
+            "url": "classes/alphaz-Validation-Handler.html#property_msgs"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules",
+            "fqsen": "\\alphaz\\Validation\\InputRules",
             "name": "InputRules",
             "summary": "",
-            "url": "classes/Zest-Validation-InputRules.html"
+            "url": "classes/alphaz-Validation-InputRules.html"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules\u003A\u003Arequired\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\InputRules\u003A\u003Arequired\u0028\u0029",
             "name": "required",
             "summary": "Evaulate\u0020required.",
-            "url": "classes/Zest-Validation-InputRules.html#method_required"
+            "url": "classes/alphaz-Validation-InputRules.html#method_required"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules\u003A\u003Aint\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\InputRules\u003A\u003Aint\u0028\u0029",
             "name": "int",
             "summary": "Evaulate\u0020int.",
-            "url": "classes/Zest-Validation-InputRules.html#method_int"
+            "url": "classes/alphaz-Validation-InputRules.html#method_int"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules\u003A\u003Afloat\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\InputRules\u003A\u003Afloat\u0028\u0029",
             "name": "float",
             "summary": "Evaulate\u0020float.",
-            "url": "classes/Zest-Validation-InputRules.html#method_float"
+            "url": "classes/alphaz-Validation-InputRules.html#method_float"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules\u003A\u003Astring\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\InputRules\u003A\u003Astring\u0028\u0029",
             "name": "string",
             "summary": "Evaulate\u0020string.",
-            "url": "classes/Zest-Validation-InputRules.html#method_string"
+            "url": "classes/alphaz-Validation-InputRules.html#method_string"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules\u003A\u003Aemail\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\InputRules\u003A\u003Aemail\u0028\u0029",
             "name": "email",
             "summary": "Evaulate\u0020email.",
-            "url": "classes/Zest-Validation-InputRules.html#method_email"
+            "url": "classes/alphaz-Validation-InputRules.html#method_email"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules\u003A\u003Aip\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\InputRules\u003A\u003Aip\u0028\u0029",
             "name": "ip",
             "summary": "Evaulate\u0020ip.",
-            "url": "classes/Zest-Validation-InputRules.html#method_ip"
+            "url": "classes/alphaz-Validation-InputRules.html#method_ip"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules\u003A\u003Aipv6\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\InputRules\u003A\u003Aipv6\u0028\u0029",
             "name": "ipv6",
             "summary": "Evaulate\u0020IPv6.",
-            "url": "classes/Zest-Validation-InputRules.html#method_ipv6"
+            "url": "classes/alphaz-Validation-InputRules.html#method_ipv6"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules\u003A\u003Aalpha\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\InputRules\u003A\u003Aalpha\u0028\u0029",
             "name": "alpha",
             "summary": "Evaulate\u0020alpha.",
-            "url": "classes/Zest-Validation-InputRules.html#method_alpha"
+            "url": "classes/alphaz-Validation-InputRules.html#method_alpha"
         },                {
-            "fqsen": "\\Zest\\Validation\\InputRules\u003A\u003Asubnet\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\InputRules\u003A\u003Asubnet\u0028\u0029",
             "name": "subnet",
             "summary": "Evaulate\u0020ipv4\u0020subnet.",
-            "url": "classes/Zest-Validation-InputRules.html#method_subnet"
+            "url": "classes/alphaz-Validation-InputRules.html#method_subnet"
         },                {
-            "fqsen": "\\Zest\\Validation\\JsonRules",
+            "fqsen": "\\alphaz\\Validation\\JsonRules",
             "name": "JsonRules",
             "summary": "",
-            "url": "classes/Zest-Validation-JsonRules.html"
+            "url": "classes/alphaz-Validation-JsonRules.html"
         },                {
-            "fqsen": "\\Zest\\Validation\\JsonRules\u003A\u003Avalidate\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\JsonRules\u003A\u003Avalidate\u0028\u0029",
             "name": "validate",
             "summary": "Evaulate\u0020Json.",
-            "url": "classes/Zest-Validation-JsonRules.html#method_validate"
+            "url": "classes/alphaz-Validation-JsonRules.html#method_validate"
         },                {
-            "fqsen": "\\Zest\\Validation\\StickyRules",
+            "fqsen": "\\alphaz\\Validation\\StickyRules",
             "name": "StickyRules",
             "summary": "",
-            "url": "classes/Zest-Validation-StickyRules.html"
+            "url": "classes/alphaz-Validation-StickyRules.html"
         },                {
-            "fqsen": "\\Zest\\Validation\\StickyRules\u003A\u003AnotBeEmpty\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\StickyRules\u003A\u003AnotBeEmpty\u0028\u0029",
             "name": "notBeEmpty",
             "summary": "Evaulate\u0020required.",
-            "url": "classes/Zest-Validation-StickyRules.html#method_notBeEmpty"
+            "url": "classes/alphaz-Validation-StickyRules.html#method_notBeEmpty"
         },                {
-            "fqsen": "\\Zest\\Validation\\StickyRules\u003A\u003AremoveSpaces\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\StickyRules\u003A\u003AremoveSpaces\u0028\u0029",
             "name": "removeSpaces",
             "summary": "Remove\u0020spaces.",
-            "url": "classes/Zest-Validation-StickyRules.html#method_removeSpaces"
+            "url": "classes/alphaz-Validation-StickyRules.html#method_removeSpaces"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation",
+            "fqsen": "\\alphaz\\Validation\\Validation",
             "name": "Validation",
             "summary": "",
-            "url": "classes/Zest-Validation-Validation.html"
+            "url": "classes/alphaz-Validation-Validation.html"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "Compile\u0020input.",
-            "url": "classes/Zest-Validation-Validation.html#method___construct"
+            "url": "classes/alphaz-Validation-Validation.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003AjsonCompile\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003AjsonCompile\u0028\u0029",
             "name": "jsonCompile",
             "summary": "Compile\u0020Json.",
-            "url": "classes/Zest-Validation-Validation.html#method_jsonCompile"
+            "url": "classes/alphaz-Validation-Validation.html#method_jsonCompile"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003AdatabaseCompile\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003AdatabaseCompile\u0028\u0029",
             "name": "databaseCompile",
             "summary": "Compile\u0020Database\u0020Unique.",
-            "url": "classes/Zest-Validation-Validation.html#method_databaseCompile"
+            "url": "classes/alphaz-Validation-Validation.html#method_databaseCompile"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003AinputCompile\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003AinputCompile\u0028\u0029",
             "name": "inputCompile",
             "summary": "Compile\u0020input.",
-            "url": "classes/Zest-Validation-Validation.html#method_inputCompile"
+            "url": "classes/alphaz-Validation-Validation.html#method_inputCompile"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003Amake\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003Amake\u0028\u0029",
             "name": "make",
             "summary": "Compile\u0020input.",
-            "url": "classes/Zest-Validation-Validation.html#method_make"
+            "url": "classes/alphaz-Validation-Validation.html#method_make"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003Afail\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003Afail\u0028\u0029",
             "name": "fail",
             "summary": "Check\u0020if\u0020their\u0020any\u0020error\u0020exists.",
-            "url": "classes/Zest-Validation-Validation.html#method_fail"
+            "url": "classes/alphaz-Validation-Validation.html#method_fail"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003Aerror\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003Aerror\u0028\u0029",
             "name": "error",
             "summary": "Store\u0020error\u0020msgs.",
-            "url": "classes/Zest-Validation-Validation.html#method_error"
+            "url": "classes/alphaz-Validation-Validation.html#method_error"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003Ahas\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003Ahas\u0028\u0029",
             "name": "has",
             "summary": "Check\u0020whether\u0020the\u0020error\u0020has\u0020or\u0020not.",
-            "url": "classes/Zest-Validation-Validation.html#method_has"
+            "url": "classes/alphaz-Validation-Validation.html#method_has"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003Aget\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003Aget\u0028\u0029",
             "name": "get",
             "summary": "Get\u0020the\u0020error\u0020msg.",
-            "url": "classes/Zest-Validation-Validation.html#method_get"
+            "url": "classes/alphaz-Validation-Validation.html#method_get"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003Alast\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003Alast\u0028\u0029",
             "name": "last",
             "summary": "Get\u0020the\u0020last\u0020error\u0020msg.",
-            "url": "classes/Zest-Validation-Validation.html#method_last"
+            "url": "classes/alphaz-Validation-Validation.html#method_last"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003Afirst\u0028\u0029",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003Afirst\u0028\u0029",
             "name": "first",
             "summary": "Get\u0020the\u0020first\u0020error\u0020msg.",
-            "url": "classes/Zest-Validation-Validation.html#method_first"
+            "url": "classes/alphaz-Validation-Validation.html#method_first"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003A\u0024messages",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003A\u0024messages",
             "name": "messages",
             "summary": "",
-            "url": "classes/Zest-Validation-Validation.html#property_messages"
+            "url": "classes/alphaz-Validation-Validation.html#property_messages"
         },                {
-            "fqsen": "\\Zest\\Validation\\Validation\u003A\u003A\u0024errors",
+            "fqsen": "\\alphaz\\Validation\\Validation\u003A\u003A\u0024errors",
             "name": "errors",
             "summary": "",
-            "url": "classes/Zest-Validation-Validation.html#property_errors"
+            "url": "classes/alphaz-Validation-Validation.html#property_errors"
         },                {
-            "fqsen": "\\Zest\\View\\View",
+            "fqsen": "\\alphaz\\View\\View",
             "name": "View",
             "summary": "",
-            "url": "classes/Zest-View-View.html"
+            "url": "classes/alphaz-View-View.html"
         },                {
-            "fqsen": "\\Zest\\View\\View\u003A\u003AsetFile\u0028\u0029",
+            "fqsen": "\\alphaz\\View\\View\u003A\u003AsetFile\u0028\u0029",
             "name": "setFile",
             "summary": "Set\u0020file.",
-            "url": "classes/Zest-View-View.html#method_setFile"
+            "url": "classes/alphaz-View-View.html#method_setFile"
         },                {
-            "fqsen": "\\Zest\\View\\View\u003A\u003ArenderTemplate\u0028\u0029",
+            "fqsen": "\\alphaz\\View\\View\u003A\u003ArenderTemplate\u0028\u0029",
             "name": "renderTemplate",
             "summary": "Render\u0020a\u0020view\u0020template.",
-            "url": "classes/Zest-View-View.html#method_renderTemplate"
+            "url": "classes/alphaz-View-View.html#method_renderTemplate"
         },                {
-            "fqsen": "\\Zest\\View\\View\u003A\u003Aview\u0028\u0029",
+            "fqsen": "\\alphaz\\View\\View\u003A\u003Aview\u0028\u0029",
             "name": "view",
             "summary": "Rander\u0020the\u0020view.",
-            "url": "classes/Zest-View-View.html#method_view"
+            "url": "classes/alphaz-View-View.html#method_view"
         },                {
-            "fqsen": "\\Zest\\View\\View\u003A\u003Acompile\u0028\u0029",
+            "fqsen": "\\alphaz\\View\\View\u003A\u003Acompile\u0028\u0029",
             "name": "compile",
             "summary": "Compile.",
-            "url": "classes/Zest-View-View.html#method_compile"
+            "url": "classes/alphaz-View-View.html#method_compile"
         },                {
-            "fqsen": "\\Zest\\View\\View\u003A\u003A\u0024isCom",
+            "fqsen": "\\alphaz\\View\\View\u003A\u003A\u0024isCom",
             "name": "isCom",
             "summary": "Is\u0020component.",
-            "url": "classes/Zest-View-View.html#property_isCom"
+            "url": "classes/alphaz-View-View.html#property_isCom"
         },                {
-            "fqsen": "\\Zest\\View\\View\u003A\u003A\u0024file",
+            "fqsen": "\\alphaz\\View\\View\u003A\u003A\u0024file",
             "name": "file",
             "summary": "File.",
-            "url": "classes/Zest-View-View.html#property_file"
+            "url": "classes/alphaz-View-View.html#property_file"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops",
+            "fqsen": "\\alphaz\\Whoops\\Whoops",
             "name": "Whoops",
             "summary": "",
-            "url": "classes/Zest-Whoops-Whoops.html"
+            "url": "classes/alphaz-Whoops-Whoops.html"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003A__construct\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "__construct.",
-            "url": "classes/Zest-Whoops-Whoops.html#method___construct"
+            "url": "classes/alphaz-Whoops-Whoops.html#method___construct"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003Aexception\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003Aexception\u0028\u0029",
             "name": "exception",
             "summary": "Exception\u0020handler.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_exception"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_exception"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003AgetRequests\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003AgetRequests\u0028\u0029",
             "name": "getRequests",
             "summary": "Get\u0020the\u0020requests\u0020details.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_getRequests"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_getRequests"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003AgetEnvironment\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003AgetEnvironment\u0028\u0029",
             "name": "getEnvironment",
             "summary": "Get\u0020the\u0020Environment\u0020details.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_getEnvironment"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_getEnvironment"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003AgetSolution\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003AgetSolution\u0028\u0029",
             "name": "getSolution",
             "summary": "Get\u0020the\u0020solution.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_getSolution"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_getSolution"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003AgetEditor\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003AgetEditor\u0028\u0029",
             "name": "getEditor",
             "summary": "Get\u0020the\u0020editor\u0020uri.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_getEditor"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_getEditor"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003A\u0024setEditor",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003A\u0024setEditor",
             "name": "setEditor",
             "summary": "Current\u0020editor\u0020that\u0020to\u0020be\u0020use.",
-            "url": "classes/Zest-Whoops-Whoops.html#property_setEditor"
+            "url": "classes/alphaz-Whoops-Whoops.html#property_setEditor"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003AappendEditor\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003AappendEditor\u0028\u0029",
             "name": "appendEditor",
             "summary": "Appen\u0020the\u0020editor.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_appendEditor"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_appendEditor"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003Aerror\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003Aerror\u0028\u0029",
             "name": "error",
             "summary": "Error\u0020handler.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_error"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_error"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003AsetParams\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003AsetParams\u0028\u0029",
             "name": "setParams",
             "summary": "Set\u0020the\u0020error\u0020item\u0020to\u0020stack.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_setParams"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_setParams"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003AgetPreviewCode\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003AgetPreviewCode\u0028\u0029",
             "name": "getPreviewCode",
             "summary": "Get\u0020the\u0020code\u0020from\u0020file.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_getPreviewCode"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_getPreviewCode"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003Arender\u0028\u0029",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003Arender\u0028\u0029",
             "name": "render",
             "summary": "Rander\u0020the\u0020error.",
-            "url": "classes/Zest-Whoops-Whoops.html#method_render"
+            "url": "classes/alphaz-Whoops-Whoops.html#method_render"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003A\u0024stack",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003A\u0024stack",
             "name": "stack",
             "summary": "Store\u0020the\u0020errors\u0020stack.",
-            "url": "classes/Zest-Whoops-Whoops.html#property_stack"
+            "url": "classes/alphaz-Whoops-Whoops.html#property_stack"
         },                {
-            "fqsen": "\\Zest\\Whoops\\Whoops\u003A\u003A\u0024editors",
+            "fqsen": "\\alphaz\\Whoops\\Whoops\u003A\u003A\u0024editors",
             "name": "editors",
             "summary": "A\u0020list\u0020of\u0020known\u0020editor\u0020strings.",
-            "url": "classes/Zest-Whoops-Whoops.html#property_editors"
+            "url": "classes/alphaz-Whoops-Whoops.html#property_editors"
         },                {
             "fqsen": "\\",
             "name": "\\",
             "summary": "",
             "url": "namespaces/default.html"
         },                {
-            "fqsen": "\\Zest\\Archive\\Adapter",
+            "fqsen": "\\alphaz\\Archive\\Adapter",
             "name": "Adapter",
             "summary": "",
-            "url": "namespaces/zest-archive-adapter.html"
+            "url": "namespaces/alphaz-archive-adapter.html"
         },                {
-            "fqsen": "\\Zest\\Archive",
+            "fqsen": "\\alphaz\\Archive",
             "name": "Archive",
             "summary": "",
-            "url": "namespaces/zest-archive.html"
+            "url": "namespaces/alphaz-archive.html"
         },                {
-            "fqsen": "\\Zest\\Auth",
+            "fqsen": "\\alphaz\\Auth",
             "name": "Auth",
             "summary": "",
-            "url": "namespaces/zest-auth.html"
+            "url": "namespaces/alphaz-auth.html"
         },                {
-            "fqsen": "\\Zest\\Benchmark",
+            "fqsen": "\\alphaz\\Benchmark",
             "name": "Benchmark",
             "summary": "",
-            "url": "namespaces/zest-benchmark.html"
+            "url": "namespaces/alphaz-benchmark.html"
         },                {
-            "fqsen": "\\Zest",
-            "name": "Zest",
+            "fqsen": "\\alphaz",
+            "name": "alphaz",
             "summary": "",
-            "url": "namespaces/zest.html"
+            "url": "namespaces/alphaz.html"
         },                {
-            "fqsen": "\\Zest\\Cache\\Adapter",
+            "fqsen": "\\alphaz\\Cache\\Adapter",
             "name": "Adapter",
             "summary": "",
-            "url": "namespaces/zest-cache-adapter.html"
+            "url": "namespaces/alphaz-cache-adapter.html"
         },                {
-            "fqsen": "\\Zest\\Cache",
+            "fqsen": "\\alphaz\\Cache",
             "name": "Cache",
             "summary": "",
-            "url": "namespaces/zest-cache.html"
+            "url": "namespaces/alphaz-cache.html"
         },                {
-            "fqsen": "\\Zest\\Common",
+            "fqsen": "\\alphaz\\Common",
             "name": "Common",
             "summary": "",
-            "url": "namespaces/zest-common.html"
+            "url": "namespaces/alphaz-common.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Logger",
+            "fqsen": "\\alphaz\\Common\\Logger",
             "name": "Logger",
             "summary": "",
-            "url": "namespaces/zest-common-logger.html"
+            "url": "namespaces/alphaz-common-logger.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Model",
+            "fqsen": "\\alphaz\\Common\\Model",
             "name": "Model",
             "summary": "",
-            "url": "namespaces/zest-common-model.html"
+            "url": "namespaces/alphaz-common-model.html"
         },                {
-            "fqsen": "\\Zest\\Common\\Sitemap",
+            "fqsen": "\\alphaz\\Common\\Sitemap",
             "name": "Sitemap",
             "summary": "",
-            "url": "namespaces/zest-common-sitemap.html"
+            "url": "namespaces/alphaz-common-sitemap.html"
         },                {
-            "fqsen": "\\Zest\\Component",
+            "fqsen": "\\alphaz\\Component",
             "name": "Component",
             "summary": "",
-            "url": "namespaces/zest-component.html"
+            "url": "namespaces/alphaz-component.html"
         },                {
-            "fqsen": "\\Zest\\Component\\View",
+            "fqsen": "\\alphaz\\Component\\View",
             "name": "View",
             "summary": "",
-            "url": "namespaces/zest-component-view.html"
+            "url": "namespaces/alphaz-component-view.html"
         },                {
-            "fqsen": "\\Zest\\Console",
+            "fqsen": "\\alphaz\\Console",
             "name": "Console",
             "summary": "",
-            "url": "namespaces/zest-console.html"
+            "url": "namespaces/alphaz-console.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Commands",
+            "fqsen": "\\alphaz\\Console\\Commands",
             "name": "Commands",
             "summary": "",
-            "url": "namespaces/zest-console-commands.html"
+            "url": "namespaces/alphaz-console-commands.html"
         },                {
-            "fqsen": "\\Zest\\Console\\Input",
+            "fqsen": "\\alphaz\\Console\\Input",
             "name": "Input",
             "summary": "",
-            "url": "namespaces/zest-console-input.html"
+            "url": "namespaces/alphaz-console-input.html"
         },                {
-            "fqsen": "\\Zest\\Container",
+            "fqsen": "\\alphaz\\Container",
             "name": "Container",
             "summary": "",
-            "url": "namespaces/zest-container.html"
+            "url": "namespaces/alphaz-container.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Auth",
+            "fqsen": "\\alphaz\\Contracts\\Auth",
             "name": "Auth",
             "summary": "",
-            "url": "namespaces/zest-contracts-auth.html"
+            "url": "namespaces/alphaz-contracts-auth.html"
         },                {
-            "fqsen": "\\Zest\\Contracts",
+            "fqsen": "\\alphaz\\Contracts",
             "name": "Contracts",
             "summary": "",
-            "url": "namespaces/zest-contracts.html"
+            "url": "namespaces/alphaz-contracts.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Benchmark",
+            "fqsen": "\\alphaz\\Contracts\\Benchmark",
             "name": "Benchmark",
             "summary": "",
-            "url": "namespaces/zest-contracts-benchmark.html"
+            "url": "namespaces/alphaz-contracts-benchmark.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Cache",
+            "fqsen": "\\alphaz\\Contracts\\Cache",
             "name": "Cache",
             "summary": "",
-            "url": "namespaces/zest-contracts-cache.html"
+            "url": "namespaces/alphaz-contracts-cache.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Common",
+            "fqsen": "\\alphaz\\Contracts\\Common",
             "name": "Common",
             "summary": "",
-            "url": "namespaces/zest-contracts-common.html"
+            "url": "namespaces/alphaz-contracts-common.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption\\Adapter",
+            "fqsen": "\\alphaz\\Contracts\\Encryption\\Adapter",
             "name": "Adapter",
             "summary": "",
-            "url": "namespaces/zest-contracts-encryption-adapter.html"
+            "url": "namespaces/alphaz-contracts-encryption-adapter.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Encryption",
+            "fqsen": "\\alphaz\\Contracts\\Encryption",
             "name": "Encryption",
             "summary": "",
-            "url": "namespaces/zest-contracts-encryption.html"
+            "url": "namespaces/alphaz-contracts-encryption.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Site",
+            "fqsen": "\\alphaz\\Contracts\\Site",
             "name": "Site",
             "summary": "",
-            "url": "namespaces/zest-contracts-site.html"
+            "url": "namespaces/alphaz-contracts-site.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Sitemap",
+            "fqsen": "\\alphaz\\Contracts\\Sitemap",
             "name": "Sitemap",
             "summary": "",
-            "url": "namespaces/zest-contracts-sitemap.html"
+            "url": "namespaces/alphaz-contracts-sitemap.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\SystemMessage",
+            "fqsen": "\\alphaz\\Contracts\\SystemMessage",
             "name": "SystemMessage",
             "summary": "",
-            "url": "namespaces/zest-contracts-systemmessage.html"
+            "url": "namespaces/alphaz-contracts-systemmessage.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Time",
+            "fqsen": "\\alphaz\\Contracts\\Time",
             "name": "Time",
             "summary": "",
-            "url": "namespaces/zest-contracts-time.html"
+            "url": "namespaces/alphaz-contracts-time.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\View",
+            "fqsen": "\\alphaz\\Contracts\\View",
             "name": "View",
             "summary": "",
-            "url": "namespaces/zest-contracts-view.html"
+            "url": "namespaces/alphaz-contracts-view.html"
         },                {
-            "fqsen": "\\Zest\\Contracts\\Zip",
+            "fqsen": "\\alphaz\\Contracts\\Zip",
             "name": "Zip",
             "summary": "",
-            "url": "namespaces/zest-contracts-zip.html"
+            "url": "namespaces/alphaz-contracts-zip.html"
         },                {
-            "fqsen": "\\Zest\\Controller",
+            "fqsen": "\\alphaz\\Controller",
             "name": "Controller",
             "summary": "",
-            "url": "namespaces/zest-controller.html"
+            "url": "namespaces/alphaz-controller.html"
         },                {
-            "fqsen": "\\Zest\\Cookies",
+            "fqsen": "\\alphaz\\Cookies",
             "name": "Cookies",
             "summary": "",
-            "url": "namespaces/zest-cookies.html"
+            "url": "namespaces/alphaz-cookies.html"
         },                {
-            "fqsen": "\\Zest\\Data",
+            "fqsen": "\\alphaz\\Data",
             "name": "Data",
             "summary": "",
-            "url": "namespaces/zest-data.html"
+            "url": "namespaces/alphaz-data.html"
         },                {
-            "fqsen": "\\Zest\\Data\\Contracts",
+            "fqsen": "\\alphaz\\Data\\Contracts",
             "name": "Contracts",
             "summary": "",
-            "url": "namespaces/zest-data-contracts.html"
+            "url": "namespaces/alphaz-data-contracts.html"
         },                {
-            "fqsen": "\\Zest\\Database",
+            "fqsen": "\\alphaz\\Database",
             "name": "Database",
             "summary": "",
-            "url": "namespaces/zest-database.html"
+            "url": "namespaces/alphaz-database.html"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\MYSQL",
+            "fqsen": "\\alphaz\\Database\\Drives\\MYSQL",
             "name": "MYSQL",
             "summary": "",
-            "url": "namespaces/zest-database-drives-mysql.html"
+            "url": "namespaces/alphaz-database-drives-mysql.html"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives",
+            "fqsen": "\\alphaz\\Database\\Drives",
             "name": "Drives",
             "summary": "",
-            "url": "namespaces/zest-database-drives.html"
+            "url": "namespaces/alphaz-database-drives.html"
         },                {
-            "fqsen": "\\Zest\\Database\\Drives\\SqLite",
+            "fqsen": "\\alphaz\\Database\\Drives\\SqLite",
             "name": "SqLite",
             "summary": "",
-            "url": "namespaces/zest-database-drives-sqlite.html"
+            "url": "namespaces/alphaz-database-drives-sqlite.html"
         },                {
-            "fqsen": "\\Zest\\Database\\Query",
+            "fqsen": "\\alphaz\\Database\\Query",
             "name": "Query",
             "summary": "",
-            "url": "namespaces/zest-database-query.html"
+            "url": "namespaces/alphaz-database-query.html"
         },                {
-            "fqsen": "\\Zest\\Encryption\\Adapter",
+            "fqsen": "\\alphaz\\Encryption\\Adapter",
             "name": "Adapter",
             "summary": "",
-            "url": "namespaces/zest-encryption-adapter.html"
+            "url": "namespaces/alphaz-encryption-adapter.html"
         },                {
-            "fqsen": "\\Zest\\Encryption",
+            "fqsen": "\\alphaz\\Encryption",
             "name": "Encryption",
             "summary": "",
-            "url": "namespaces/zest-encryption.html"
+            "url": "namespaces/alphaz-encryption.html"
         },                {
-            "fqsen": "\\Zest\\Exception",
+            "fqsen": "\\alphaz\\Exception",
             "name": "Exception",
             "summary": "",
-            "url": "namespaces/zest-exception.html"
+            "url": "namespaces/alphaz-exception.html"
         },                {
-            "fqsen": "\\Zest\\Files",
+            "fqsen": "\\alphaz\\Files",
             "name": "Files",
             "summary": "",
-            "url": "namespaces/zest-files.html"
+            "url": "namespaces/alphaz-files.html"
         },                {
-            "fqsen": "\\Zest\\Hashing",
+            "fqsen": "\\alphaz\\Hashing",
             "name": "Hashing",
             "summary": "",
-            "url": "namespaces/zest-hashing.html"
+            "url": "namespaces/alphaz-hashing.html"
         },                {
-            "fqsen": "\\Zest\\http\\Clients",
+            "fqsen": "\\alphaz\\http\\Clients",
             "name": "Clients",
             "summary": "",
-            "url": "namespaces/zest-http-clients.html"
+            "url": "namespaces/alphaz-http-clients.html"
         },                {
-            "fqsen": "\\Zest\\http",
+            "fqsen": "\\alphaz\\http",
             "name": "http",
             "summary": "",
-            "url": "namespaces/zest-http.html"
+            "url": "namespaces/alphaz-http.html"
         },                {
-            "fqsen": "\\Zest\\Input",
+            "fqsen": "\\alphaz\\Input",
             "name": "Input",
             "summary": "",
-            "url": "namespaces/zest-input.html"
+            "url": "namespaces/alphaz-input.html"
         },                {
-            "fqsen": "\\Zest\\Language",
+            "fqsen": "\\alphaz\\Language",
             "name": "Language",
             "summary": "",
-            "url": "namespaces/zest-language.html"
+            "url": "namespaces/alphaz-language.html"
         },                {
-            "fqsen": "\\Zest\\Mail",
+            "fqsen": "\\alphaz\\Mail",
             "name": "Mail",
             "summary": "",
-            "url": "namespaces/zest-mail.html"
+            "url": "namespaces/alphaz-mail.html"
         },                {
-            "fqsen": "\\Zest\\Router",
+            "fqsen": "\\alphaz\\Router",
             "name": "Router",
             "summary": "",
-            "url": "namespaces/zest-router.html"
+            "url": "namespaces/alphaz-router.html"
         },                {
-            "fqsen": "\\Zest\\Session",
+            "fqsen": "\\alphaz\\Session",
             "name": "Session",
             "summary": "",
-            "url": "namespaces/zest-session.html"
+            "url": "namespaces/alphaz-session.html"
         },                {
-            "fqsen": "\\Zest\\Site",
+            "fqsen": "\\alphaz\\Site",
             "name": "Site",
             "summary": "",
-            "url": "namespaces/zest-site.html"
+            "url": "namespaces/alphaz-site.html"
         },                {
-            "fqsen": "\\Zest\\SystemMessage",
+            "fqsen": "\\alphaz\\SystemMessage",
             "name": "SystemMessage",
             "summary": "",
-            "url": "namespaces/zest-systemmessage.html"
+            "url": "namespaces/alphaz-systemmessage.html"
         },                {
-            "fqsen": "\\Zest\\Time",
+            "fqsen": "\\alphaz\\Time",
             "name": "Time",
             "summary": "",
-            "url": "namespaces/zest-time.html"
+            "url": "namespaces/alphaz-time.html"
         },                {
-            "fqsen": "\\Zest\\UserInfo",
+            "fqsen": "\\alphaz\\UserInfo",
             "name": "UserInfo",
             "summary": "",
-            "url": "namespaces/zest-userinfo.html"
+            "url": "namespaces/alphaz-userinfo.html"
         },                {
-            "fqsen": "\\Zest\\Validation",
+            "fqsen": "\\alphaz\\Validation",
             "name": "Validation",
             "summary": "",
-            "url": "namespaces/zest-validation.html"
+            "url": "namespaces/alphaz-validation.html"
         },                {
-            "fqsen": "\\Zest\\View",
+            "fqsen": "\\alphaz\\View",
             "name": "View",
             "summary": "",
-            "url": "namespaces/zest-view.html"
+            "url": "namespaces/alphaz-view.html"
         },                {
-            "fqsen": "\\Zest\\Whoops",
+            "fqsen": "\\alphaz\\Whoops",
             "name": "Whoops",
             "summary": "",
-            "url": "namespaces/zest-whoops.html"
+            "url": "namespaces/alphaz-whoops.html"
         }            ]
 );
